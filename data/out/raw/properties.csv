@@ -1,0 +1,601 @@
+property_id,city,state,property_type,construction_status,builder,project_name,rera_number,carpet_area_sqft,agreement_value,address,age_years
+P3300001,Pune,Maharashtra,Apartment,Under construction,Aaranya Developers,Aaranya Courtyard,RERA-PUN-52118,1085,9200000,"Tower B, Flat 1104, Aaranya Courtyard, Hinjewadi Phase 2, Pune 411057",0
+P3300002,Ahmedabad,Gujarat,Apartment,Ready / resale,,Shantivan Apartments (resale),,1240,7400000,"Flat 7B, Shantivan Apartments, Satellite Road, Ahmedabad 380015",9
+P3300003,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,1450,5200000,"House 214, Sector 11, Indira Nagar, Lucknow 226016",14
+P3300004,Gurugram,Haryana,Apartment,Ready / resale,,Silver Oaks (resale),,960,8900000,"Flat 603, Silver Oaks, Sector 49, Gurugram 122018",6
+P3300005,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,532,4260000.0,"Flat/House 850, Ward 60, Ahmedabad",17
+P3300006,Indore,Madhya Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Enclave,,1128,6770000.0,"Flat/House 394, Sector 27, Indore",23
+P3300007,Kolkata,West Bengal,Apartment,Ready / resale,Skyline Habitat,Skyline Heights,,1174,10570000.0,"Flat/House 752, Ward 24, Kolkata",20
+P3300008,Jaipur,Rajasthan,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,2049,13320000.0,"Flat/House 289, Ward 54, Jaipur",25
+P3300009,Pune,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,350,3590000.0,"Flat/House 828, Ward 17, Pune",2
+P3300010,Pune,Maharashtra,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Residency,,703,7210000.0,"Flat/House 784, Layout 57, Pune",8
+P3300011,Chennai,Tamil Nadu,Apartment,Ready / resale,Skyline Habitat,Skyline Enclave,,616,6850000.0,"Flat/House 807, Sector 25, Chennai",21
+P3300012,Mumbai,Maharashtra,Apartment,Under construction,Greenleaf Realty,Greenleaf Courtyard,RERA-MUM-34711,212,5160000.0,"Flat/House 870, Ward 32, Mumbai",0
+P3300013,Gurugram,Haryana,Independent house,Ready / resale,,,,539,7960000.0,"Flat/House 466, Nagar 8, Gurugram",8
+P3300014,Pune,Maharashtra,Independent house,Ready / resale,,,,2596,26610000.0,"Flat/House 563, Sector 55, Pune",9
+P3300015,Indore,Madhya Pradesh,Apartment,Under construction,Greenleaf Realty,Greenleaf Residency,RERA-IDR-36483,1695,10170000.0,"Flat/House 462, Layout 48, Indore",0
+P3300016,Indore,Madhya Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,419,2520000.0,"Flat/House 491, Ward 11, Indore",7
+P3300017,Ahmedabad,Gujarat,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Heights,,282,2260000.0,"Flat/House 941, Sector 15, Ahmedabad",12
+P3300018,Kolkata,West Bengal,Plot + construction,Ready / resale,,,,1040,9360000.0,"Flat/House 905, Nagar 5, Kolkata",10
+P3300019,Gurugram,Haryana,Independent house,Ready / resale,,,,160,2360000.0,"Flat/House 611, Nagar 9, Gurugram",17
+P3300020,Ahmedabad,Gujarat,Apartment,Under construction,Coastal Homes,Coastal Residency,RERA-AMD-83414,1602,12820000.0,"Flat/House 471, Nagar 17, Ahmedabad",0
+P3300021,Chennai,Tamil Nadu,Plot + construction,Ready / resale,,,,171,1910000.0,"Flat/House 947, Nagar 33, Chennai",21
+P3300022,Ahmedabad,Gujarat,Independent house,Ready / resale,,,,838,6700000.0,"Flat/House 910, Ward 41, Ahmedabad",13
+P3300023,Chennai,Tamil Nadu,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Residency,,507,5630000.0,"Flat/House 790, Layout 49, Chennai",11
+P3300024,Pune,Maharashtra,Apartment,Under construction,Sundaram Estates,Sundaram Heights,RERA-PUN-32716,876,8970000.0,"Flat/House 286, Layout 17, Pune",0
+P3300025,Jaipur,Rajasthan,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,923,6000000.0,"Flat/House 159, Ward 30, Jaipur",14
+P3300026,Mumbai,Maharashtra,Apartment,Under construction,Skyline Habitat,Skyline Residency,RERA-MUM-58330,172,4190000.0,"Flat/House 854, Sector 16, Mumbai",0
+P3300027,Pune,Maharashtra,Independent house,Ready / resale,,,,779,7980000.0,"Flat/House 320, Ward 46, Pune",22
+P3300028,Mumbai,Maharashtra,Apartment,Under construction,Aaranya Developers,Aaranya Residency,RERA-MUM-10960,468,11400000.0,"Flat/House 609, Nagar 29, Mumbai",0
+P3300029,Jaipur,Rajasthan,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Greens,,1557,10120000.0,"Flat/House 439, Nagar 43, Jaipur",6
+P3300030,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Coastal Homes,Coastal Residency,,882,6180000.0,"Flat/House 884, Sector 11, Lucknow",11
+P3300031,Mumbai,Maharashtra,Apartment,Under construction,Coastal Homes,Coastal Courtyard,RERA-MUM-67787,501,12220000.0,"Flat/House 18, Ward 42, Mumbai",0
+P3300032,Jaipur,Rajasthan,Independent house,Ready / resale,,,,1376,8950000.0,"Flat/House 596, Nagar 8, Jaipur",23
+P3300033,Chennai,Tamil Nadu,Independent house,Ready / resale,,,,681,7580000.0,"Flat/House 658, Nagar 32, Chennai",16
+P3300034,Kochi,Kerala,Plot + construction,Ready / resale,,,,459,3960000.0,"Flat/House 700, Nagar 60, Kochi",5
+P3300035,Hyderabad,Telangana,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,1034,11120000.0,"Flat/House 699, Ward 49, Hyderabad",11
+P3300036,Ahmedabad,Gujarat,Independent house,Ready / resale,,,,687,5490000.0,"Flat/House 975, Layout 46, Ahmedabad",10
+P3300037,Kochi,Kerala,Independent house,Ready / resale,,,,535,4620000.0,"Flat/House 775, Nagar 36, Kochi",16
+P3300038,Bengaluru,Karnataka,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-BLR-49411,520,6380000.0,"Flat/House 136, Layout 39, Bengaluru",0
+P3300039,Mumbai,Maharashtra,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,198,4820000.0,"Flat/House 735, Sector 4, Mumbai",5
+P3300040,Bengaluru,Karnataka,Independent house,Ready / resale,,,,682,8350000.0,"Flat/House 372, Ward 5, Bengaluru",6
+P3300041,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,251,1760000.0,"Flat/House 944, Sector 13, Lucknow",25
+P3300042,Pune,Maharashtra,Independent house,Ready / resale,,,,604,6190000.0,"Flat/House 94, Layout 26, Pune",7
+P3300043,Jaipur,Rajasthan,Apartment,Under construction,Sundaram Estates,Sundaram Residency,RERA-JAI-42042,321,2090000.0,"Flat/House 617, Nagar 25, Jaipur",0
+P3300044,Chennai,Tamil Nadu,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,874,9730000.0,"Flat/House 901, Ward 37, Chennai",25
+P3300045,Indore,Madhya Pradesh,Apartment,Ready / resale,Skyline Habitat,Skyline Residency,,984,5900000.0,"Flat/House 304, Ward 52, Indore",9
+P3300046,Gurugram,Haryana,Independent house,Ready / resale,,,,165,2430000.0,"Flat/House 860, Nagar 27, Gurugram",10
+P3300047,Bengaluru,Karnataka,Apartment,Ready / resale,Skyline Habitat,Skyline Residency,,447,5480000.0,"Flat/House 878, Ward 54, Bengaluru",9
+P3300048,Ahmedabad,Gujarat,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,611,4890000.0,"Flat/House 294, Layout 36, Ahmedabad",8
+P3300049,Kochi,Kerala,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Enclave,,421,3630000.0,"Flat/House 71, Nagar 1, Kochi",25
+P3300050,Bengaluru,Karnataka,Apartment,Under construction,Greenleaf Realty,Greenleaf Enclave,RERA-BLR-13863,523,6410000.0,"Flat/House 933, Nagar 51, Bengaluru",0
+P3300051,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,1113,7790000.0,"Flat/House 633, Layout 31, Lucknow",7
+P3300052,Kochi,Kerala,Independent house,Ready / resale,,,,330,2850000.0,"Flat/House 521, Nagar 3, Kochi",23
+P3300053,Gurugram,Haryana,Plot + construction,Ready / resale,,,,578,8520000.0,"Flat/House 535, Ward 28, Gurugram",15
+P3300054,Hyderabad,Telangana,Apartment,Under construction,Greenleaf Realty,Greenleaf Enclave,RERA-HYD-63837,371,3990000.0,"Flat/House 839, Nagar 14, Hyderabad",0
+P3300055,Chennai,Tamil Nadu,Apartment,Under construction,Coastal Homes,Coastal Heights,RERA-CHE-54297,491,5470000.0,"Flat/House 649, Sector 20, Chennai",0
+P3300056,Kolkata,West Bengal,Apartment,Under construction,Mahavir Buildcon,Mahavir Enclave,RERA-KOL-45736,797,7170000.0,"Flat/House 902, Nagar 32, Kolkata",0
+P3300057,Indore,Madhya Pradesh,Apartment,Under construction,Greenleaf Realty,Greenleaf Heights,RERA-IDR-11816,416,2500000.0,"Flat/House 260, Ward 24, Indore",0
+P3300058,Lucknow,Uttar Pradesh,Apartment,Under construction,Mahavir Buildcon,Mahavir Residency,RERA-LKO-76904,499,3490000.0,"Flat/House 418, Layout 4, Lucknow",0
+P3300059,Hyderabad,Telangana,Apartment,Under construction,Sundaram Estates,Sundaram Courtyard,RERA-HYD-93118,493,5300000.0,"Flat/House 680, Nagar 4, Hyderabad",0
+P3300060,Bengaluru,Karnataka,Plot + construction,Ready / resale,,,,251,3070000.0,"Flat/House 470, Nagar 51, Bengaluru",25
+P3300061,Kolkata,West Bengal,Independent house,Ready / resale,,,,434,3900000.0,"Flat/House 45, Ward 34, Kolkata",25
+P3300062,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,803,5620000.0,"Flat/House 313, Ward 18, Lucknow",11
+P3300063,Pune,Maharashtra,Plot + construction,Ready / resale,,,,202,2070000.0,"Flat/House 502, Nagar 19, Pune",19
+P3300064,Indore,Madhya Pradesh,Apartment,Under construction,Greenleaf Realty,Greenleaf Courtyard,RERA-IDR-35001,838,5030000.0,"Flat/House 654, Sector 47, Indore",0
+P3300065,Hyderabad,Telangana,Apartment,Under construction,Aaranya Developers,Aaranya Heights,RERA-HYD-77491,1670,17960000.0,"Flat/House 262, Nagar 26, Hyderabad",0
+P3300066,Kochi,Kerala,Apartment,Under construction,Coastal Homes,Coastal Heights,RERA-COK-55051,1148,9900000.0,"Flat/House 556, Sector 57, Kochi",0
+P3300067,Kolkata,West Bengal,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Enclave,,531,4780000.0,"Flat/House 97, Nagar 6, Kolkata",15
+P3300068,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Residency,,523,3660000.0,"Flat/House 855, Sector 36, Lucknow",23
+P3300069,Kolkata,West Bengal,Plot + construction,Ready / resale,,,,1488,13400000.0,"Flat/House 632, Ward 11, Kolkata",17
+P3300070,Gurugram,Haryana,Plot + construction,Ready / resale,,,,1554,22920000.0,"Flat/House 69, Layout 36, Gurugram",16
+P3300071,Indore,Madhya Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Enclave,,730,4380000.0,"Flat/House 294, Nagar 18, Indore",10
+P3300072,Mumbai,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Enclave,,968,23590000.0,"Flat/House 151, Nagar 5, Mumbai",2
+P3300073,Indore,Madhya Pradesh,Apartment,Under construction,Sundaram Estates,Sundaram Residency,RERA-IDR-33105,819,4910000.0,"Flat/House 882, Sector 50, Indore",0
+P3300074,Chennai,Tamil Nadu,Apartment,Under construction,Coastal Homes,Coastal Enclave,RERA-CHE-41269,532,5920000.0,"Flat/House 729, Ward 14, Chennai",0
+P3300075,Chennai,Tamil Nadu,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,311,3460000.0,"Flat/House 315, Layout 6, Chennai",2
+P3300076,Chennai,Tamil Nadu,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,1645,18300000.0,"Flat/House 47, Sector 2, Chennai",25
+P3300077,Indore,Madhya Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,638,3830000.0,"Flat/House 205, Ward 15, Indore",17
+P3300078,Lucknow,Uttar Pradesh,Apartment,Under construction,Aaranya Developers,Aaranya Courtyard,RERA-LKO-41877,1216,8510000.0,"Flat/House 741, Ward 56, Lucknow",0
+P3300079,Chennai,Tamil Nadu,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,941,10470000.0,"Flat/House 16, Nagar 24, Chennai",8
+P3300080,Jaipur,Rajasthan,Apartment,Ready / resale,Skyline Habitat,Skyline Greens,,978,6360000.0,"Flat/House 250, Nagar 19, Jaipur",3
+P3300081,Kolkata,West Bengal,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,567,5100000.0,"Flat/House 525, Sector 25, Kolkata",11
+P3300082,Indore,Madhya Pradesh,Apartment,Under construction,Coastal Homes,Coastal Residency,RERA-IDR-67907,928,5570000.0,"Flat/House 902, Nagar 39, Indore",0
+P3300083,Indore,Madhya Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Enclave,,369,2210000.0,"Flat/House 157, Sector 23, Indore",10
+P3300084,Kochi,Kerala,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Heights,,317,2740000.0,"Flat/House 701, Nagar 22, Kochi",2
+P3300085,Kochi,Kerala,Apartment,Under construction,Skyline Habitat,Skyline Courtyard,RERA-COK-49793,1317,11360000.0,"Flat/House 307, Sector 21, Kochi",0
+P3300086,Mumbai,Maharashtra,Plot + construction,Ready / resale,,,,440,10720000.0,"Flat/House 130, Nagar 44, Mumbai",13
+P3300087,Hyderabad,Telangana,Independent house,Ready / resale,,,,541,5820000.0,"Flat/House 901, Sector 54, Hyderabad",23
+P3300088,Kolkata,West Bengal,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,1493,13440000.0,"Flat/House 865, Nagar 56, Kolkata",19
+P3300089,Kolkata,West Bengal,Apartment,Under construction,Skyline Habitat,Skyline Greens,RERA-KOL-73097,944,8500000.0,"Flat/House 559, Sector 31, Kolkata",0
+P3300090,Kochi,Kerala,Independent house,Ready / resale,,,,1840,15870000.0,"Flat/House 607, Sector 27, Kochi",9
+P3300091,Indore,Madhya Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,1313,7880000.0,"Flat/House 925, Nagar 31, Indore",14
+P3300092,Indore,Madhya Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,508,3050000.0,"Flat/House 932, Ward 18, Indore",8
+P3300093,Chennai,Tamil Nadu,Apartment,Under construction,Sundaram Estates,Sundaram Greens,RERA-CHE-17829,727,8090000.0,"Flat/House 17, Layout 49, Chennai",0
+P3300094,Kochi,Kerala,Apartment,Under construction,Greenleaf Realty,Greenleaf Heights,RERA-COK-78605,359,3100000.0,"Flat/House 650, Sector 43, Kochi",0
+P3300095,Bengaluru,Karnataka,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,652,7980000.0,"Flat/House 51, Layout 50, Bengaluru",9
+P3300096,Hyderabad,Telangana,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,439,4720000.0,"Flat/House 621, Layout 41, Hyderabad",19
+P3300097,Kochi,Kerala,Apartment,Ready / resale,Skyline Habitat,Skyline Enclave,,984,8490000.0,"Flat/House 843, Ward 21, Kochi",17
+P3300098,Ahmedabad,Gujarat,Apartment,Under construction,Aaranya Developers,Aaranya Courtyard,RERA-AMD-86132,536,4290000.0,"Flat/House 827, Ward 1, Ahmedabad",0
+P3300099,Jaipur,Rajasthan,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-JAI-73007,4358,28330000.0,"Flat/House 752, Sector 8, Jaipur",0
+P3300100,Indore,Madhya Pradesh,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,1952,11710000.0,"Flat/House 138, Nagar 45, Indore",3
+P3300101,Mumbai,Maharashtra,Apartment,Under construction,Aaranya Developers,Aaranya Courtyard,RERA-MUM-10735,423,10320000.0,"Flat/House 878, Ward 60, Mumbai",0
+P3300102,Kolkata,West Bengal,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,690,6210000.0,"Flat/House 932, Nagar 10, Kolkata",3
+P3300103,Ahmedabad,Gujarat,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,282,2260000.0,"Flat/House 990, Sector 54, Ahmedabad",8
+P3300104,Jaipur,Rajasthan,Plot + construction,Ready / resale,,,,710,4620000.0,"Flat/House 315, Sector 8, Jaipur",16
+P3300105,Chennai,Tamil Nadu,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,532,5910000.0,"Flat/House 617, Sector 35, Chennai",18
+P3300106,Ahmedabad,Gujarat,Apartment,Under construction,Aaranya Developers,Aaranya Courtyard,RERA-AMD-18858,355,2840000.0,"Flat/House 60, Sector 12, Ahmedabad",0
+P3300107,Pune,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Enclave,,647,6640000.0,"Flat/House 808, Ward 52, Pune",21
+P3300108,Kochi,Kerala,Independent house,Ready / resale,,,,518,4470000.0,"Flat/House 897, Layout 40, Kochi",3
+P3300109,Pune,Maharashtra,Apartment,Under construction,Mahavir Buildcon,Mahavir Courtyard,RERA-PUN-29865,868,8900000.0,"Flat/House 375, Layout 17, Pune",0
+P3300110,Chennai,Tamil Nadu,Apartment,Under construction,Mahavir Buildcon,Mahavir Heights,RERA-CHE-22241,962,10700000.0,"Flat/House 723, Layout 25, Chennai",0
+P3300111,Chennai,Tamil Nadu,Plot + construction,Ready / resale,,,,1202,13370000.0,"Flat/House 604, Sector 36, Chennai",22
+P3300112,Jaipur,Rajasthan,Apartment,Under construction,Skyline Habitat,Skyline Courtyard,RERA-JAI-32757,1052,6840000.0,"Flat/House 849, Layout 52, Jaipur",0
+P3300113,Kochi,Kerala,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Heights,,892,7700000.0,"Flat/House 650, Layout 41, Kochi",6
+P3300114,Kolkata,West Bengal,Independent house,Ready / resale,,,,383,3450000.0,"Flat/House 889, Nagar 21, Kolkata",12
+P3300115,Ahmedabad,Gujarat,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Enclave,,1534,12270000.0,"Flat/House 199, Ward 60, Ahmedabad",4
+P3300116,Kolkata,West Bengal,Independent house,Ready / resale,,,,354,3190000.0,"Flat/House 131, Nagar 1, Kolkata",8
+P3300117,Chennai,Tamil Nadu,Independent house,Ready / resale,,,,713,7940000.0,"Flat/House 224, Sector 30, Chennai",5
+P3300118,Ahmedabad,Gujarat,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,239,1910000.0,"Flat/House 733, Nagar 29, Ahmedabad",3
+P3300119,Ahmedabad,Gujarat,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Enclave,,543,4350000.0,"Flat/House 705, Sector 33, Ahmedabad",23
+P3300120,Chennai,Tamil Nadu,Plot + construction,Ready / resale,,,,906,10080000.0,"Flat/House 677, Sector 34, Chennai",21
+P3300121,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,779,5450000.0,"Flat/House 202, Sector 23, Lucknow",18
+P3300122,Kolkata,West Bengal,Independent house,Ready / resale,,,,252,2270000.0,"Flat/House 569, Sector 8, Kolkata",15
+P3300123,Bengaluru,Karnataka,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-BLR-43392,1940,23760000.0,"Flat/House 928, Nagar 33, Bengaluru",0
+P3300124,Pune,Maharashtra,Independent house,Ready / resale,,,,774,7930000.0,"Flat/House 853, Layout 41, Pune",19
+P3300125,Gurugram,Haryana,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,208,3070000.0,"Flat/House 323, Nagar 28, Gurugram",14
+P3300126,Ahmedabad,Gujarat,Plot + construction,Ready / resale,,,,981,7850000.0,"Flat/House 88, Layout 7, Ahmedabad",21
+P3300127,Hyderabad,Telangana,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,924,9930000.0,"Flat/House 265, Sector 46, Hyderabad",15
+P3300128,Ahmedabad,Gujarat,Apartment,Under construction,Skyline Habitat,Skyline Greens,RERA-AMD-66094,176,1410000.0,"Flat/House 254, Ward 10, Ahmedabad",0
+P3300129,Bengaluru,Karnataka,Apartment,Under construction,Aaranya Developers,Aaranya Enclave,RERA-BLR-58363,451,5530000.0,"Flat/House 999, Ward 33, Bengaluru",0
+P3300130,Pune,Maharashtra,Apartment,Under construction,Coastal Homes,Coastal Enclave,RERA-PUN-97011,585,6000000.0,"Flat/House 346, Sector 31, Pune",0
+P3300131,Ahmedabad,Gujarat,Apartment,Under construction,Aaranya Developers,Aaranya Courtyard,RERA-AMD-68244,971,7770000.0,"Flat/House 210, Sector 50, Ahmedabad",0
+P3300132,Kolkata,West Bengal,Apartment,Under construction,Sundaram Estates,Sundaram Enclave,RERA-KOL-31936,1292,11620000.0,"Flat/House 827, Ward 25, Kolkata",0
+P3300133,Gurugram,Haryana,Apartment,Under construction,Greenleaf Realty,Greenleaf Heights,RERA-GGN-81344,561,8270000.0,"Flat/House 813, Sector 14, Gurugram",0
+P3300134,Kochi,Kerala,Independent house,Ready / resale,,,,416,3590000.0,"Flat/House 28, Layout 17, Kochi",14
+P3300135,Ahmedabad,Gujarat,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,392,3140000.0,"Flat/House 61, Sector 50, Ahmedabad",8
+P3300136,Ahmedabad,Gujarat,Independent house,Ready / resale,,,,731,5850000.0,"Flat/House 935, Nagar 12, Ahmedabad",5
+P3300137,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,240,2460000.0,"Flat/House 185, Sector 8, Pune",12
+P3300138,Kolkata,West Bengal,Independent house,Ready / resale,,,,588,5290000.0,"Flat/House 629, Nagar 26, Kolkata",10
+P3300139,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,449,4600000.0,"Flat/House 50, Sector 50, Pune",8
+P3300140,Chennai,Tamil Nadu,Plot + construction,Ready / resale,,,,467,5190000.0,"Flat/House 727, Ward 11, Chennai",16
+P3300141,Hyderabad,Telangana,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,489,5260000.0,"Flat/House 306, Layout 13, Hyderabad",10
+P3300142,Ahmedabad,Gujarat,Apartment,Under construction,Mahavir Buildcon,Mahavir Greens,RERA-AMD-38716,851,6810000.0,"Flat/House 728, Layout 40, Ahmedabad",0
+P3300143,Gurugram,Haryana,Apartment,Under construction,Coastal Homes,Coastal Residency,RERA-GGN-28622,290,4280000.0,"Flat/House 184, Ward 31, Gurugram",0
+P3300144,Pune,Maharashtra,Apartment,Under construction,Skyline Habitat,Skyline Greens,RERA-PUN-64407,1505,15420000.0,"Flat/House 23, Ward 57, Pune",0
+P3300145,Pune,Maharashtra,Independent house,Ready / resale,,,,1094,11210000.0,"Flat/House 346, Sector 4, Pune",10
+P3300146,Pune,Maharashtra,Apartment,Under construction,Sundaram Estates,Sundaram Heights,RERA-PUN-95948,630,6460000.0,"Flat/House 451, Nagar 49, Pune",0
+P3300147,Kochi,Kerala,Independent house,Ready / resale,,,,692,5970000.0,"Flat/House 49, Ward 46, Kochi",9
+P3300148,Gurugram,Haryana,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,351,5170000.0,"Flat/House 637, Nagar 31, Gurugram",12
+P3300149,Ahmedabad,Gujarat,Independent house,Ready / resale,,,,505,4040000.0,"Flat/House 584, Layout 21, Ahmedabad",6
+P3300150,Kolkata,West Bengal,Plot + construction,Ready / resale,,,,1366,12300000.0,"Flat/House 582, Ward 18, Kolkata",6
+P3300151,Gurugram,Haryana,Plot + construction,Ready / resale,,,,394,5810000.0,"Flat/House 901, Nagar 30, Gurugram",15
+P3300152,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,922,9450000.0,"Flat/House 109, Ward 6, Pune",13
+P3300153,Chennai,Tamil Nadu,Independent house,Ready / resale,,,,571,6350000.0,"Flat/House 145, Sector 6, Chennai",25
+P3300154,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Skyline Habitat,Skyline Greens,,146,1020000.0,"Flat/House 56, Ward 34, Lucknow",8
+P3300155,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Courtyard,,747,5230000.0,"Flat/House 378, Nagar 31, Lucknow",24
+P3300156,Gurugram,Haryana,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Greens,,251,3700000.0,"Flat/House 995, Sector 23, Gurugram",5
+P3300157,Mumbai,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,105,2560000.0,"Flat/House 930, Ward 43, Mumbai",2
+P3300158,Kochi,Kerala,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Residency,,712,6140000.0,"Flat/House 924, Sector 37, Kochi",19
+P3300159,Ahmedabad,Gujarat,Plot + construction,Ready / resale,,,,770,6160000.0,"Flat/House 546, Ward 51, Ahmedabad",3
+P3300160,Mumbai,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,246,6000000.0,"Flat/House 364, Nagar 21, Mumbai",16
+P3300161,Pune,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,667,6830000.0,"Flat/House 631, Sector 37, Pune",18
+P3300162,Gurugram,Haryana,Apartment,Under construction,Aaranya Developers,Aaranya Residency,RERA-GGN-46822,602,8880000.0,"Flat/House 711, Ward 54, Gurugram",0
+P3300163,Lucknow,Uttar Pradesh,Plot + construction,Ready / resale,,,,1251,8760000.0,"Flat/House 686, Ward 35, Lucknow",3
+P3300164,Kochi,Kerala,Independent house,Ready / resale,,,,1212,10450000.0,"Flat/House 454, Nagar 55, Kochi",22
+P3300165,Kochi,Kerala,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,275,2380000.0,"Flat/House 773, Layout 48, Kochi",21
+P3300166,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,617,4320000.0,"Flat/House 496, Nagar 44, Lucknow",15
+P3300167,Indore,Madhya Pradesh,Apartment,Under construction,Skyline Habitat,Skyline Heights,RERA-IDR-16019,1315,7890000.0,"Flat/House 493, Sector 11, Indore",0
+P3300168,Ahmedabad,Gujarat,Independent house,Ready / resale,,,,1908,15260000.0,"Flat/House 367, Layout 37, Ahmedabad",24
+P3300169,Pune,Maharashtra,Plot + construction,Ready / resale,,,,268,2740000.0,"Flat/House 721, Sector 14, Pune",7
+P3300170,Jaipur,Rajasthan,Apartment,Under construction,Skyline Habitat,Skyline Heights,RERA-JAI-30667,222,1450000.0,"Flat/House 528, Sector 58, Jaipur",0
+P3300171,Gurugram,Haryana,Independent house,Ready / resale,,,,626,9230000.0,"Flat/House 508, Layout 29, Gurugram",14
+P3300172,Chennai,Tamil Nadu,Apartment,Under construction,Mahavir Buildcon,Mahavir Residency,RERA-CHE-31592,552,6140000.0,"Flat/House 691, Sector 40, Chennai",0
+P3300173,Mumbai,Maharashtra,Apartment,Under construction,Sundaram Estates,Sundaram Heights,RERA-MUM-87134,472,11510000.0,"Flat/House 448, Layout 2, Mumbai",0
+P3300174,Kolkata,West Bengal,Apartment,Under construction,Skyline Habitat,Skyline Residency,RERA-KOL-21364,1022,9200000.0,"Flat/House 616, Layout 17, Kolkata",0
+P3300175,Indore,Madhya Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Courtyard,,617,3700000.0,"Flat/House 849, Sector 47, Indore",21
+P3300176,Hyderabad,Telangana,Plot + construction,Ready / resale,,,,439,4720000.0,"Flat/House 250, Ward 54, Hyderabad",22
+P3300177,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,811,8310000.0,"Flat/House 327, Nagar 53, Pune",23
+P3300178,Hyderabad,Telangana,Apartment,Ready / resale,Skyline Habitat,Skyline Courtyard,,391,4200000.0,"Flat/House 534, Nagar 42, Hyderabad",8
+P3300179,Ahmedabad,Gujarat,Apartment,Under construction,Mahavir Buildcon,Mahavir Greens,RERA-AMD-47119,3839,30710000.0,"Flat/House 144, Sector 43, Ahmedabad",0
+P3300180,Kolkata,West Bengal,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,516,4650000.0,"Flat/House 211, Ward 57, Kolkata",17
+P3300181,Pune,Maharashtra,Apartment,Ready / resale,Skyline Habitat,Skyline Residency,,1092,11190000.0,"Flat/House 461, Sector 47, Pune",15
+P3300182,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Greens,,2070,16560000.0,"Flat/House 301, Sector 48, Ahmedabad",20
+P3300183,Kolkata,West Bengal,Apartment,Under construction,Sundaram Estates,Sundaram Residency,RERA-KOL-15222,731,6580000.0,"Flat/House 158, Ward 53, Kolkata",0
+P3300184,Kolkata,West Bengal,Independent house,Ready / resale,,,,515,4630000.0,"Flat/House 34, Ward 26, Kolkata",21
+P3300185,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,753,5270000.0,"Flat/House 194, Layout 40, Lucknow",13
+P3300186,Jaipur,Rajasthan,Independent house,Ready / resale,,,,748,4860000.0,"Flat/House 418, Layout 21, Jaipur",9
+P3300187,Kolkata,West Bengal,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,1035,9310000.0,"Flat/House 578, Nagar 41, Kolkata",12
+P3300188,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,788,5520000.0,"Flat/House 867, Ward 42, Lucknow",2
+P3300189,Ahmedabad,Gujarat,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,158,1260000.0,"Flat/House 933, Ward 8, Ahmedabad",13
+P3300190,Hyderabad,Telangana,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,625,6720000.0,"Flat/House 69, Nagar 7, Hyderabad",2
+P3300191,Pune,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,645,6620000.0,"Flat/House 926, Layout 31, Pune",6
+P3300192,Kochi,Kerala,Apartment,Under construction,Skyline Habitat,Skyline Residency,RERA-COK-33909,807,6960000.0,"Flat/House 452, Ward 7, Kochi",0
+P3300193,Gurugram,Haryana,Independent house,Ready / resale,,,,343,5060000.0,"Flat/House 317, Layout 29, Gurugram",7
+P3300194,Jaipur,Rajasthan,Apartment,Ready / resale,Skyline Habitat,Skyline Heights,,1930,12550000.0,"Flat/House 937, Layout 47, Jaipur",7
+P3300195,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,374,2990000.0,"Flat/House 643, Ward 47, Ahmedabad",25
+P3300196,Gurugram,Haryana,Plot + construction,Ready / resale,,,,266,3920000.0,"Flat/House 576, Sector 4, Gurugram",9
+P3300197,Pune,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Residency,,244,2500000.0,"Flat/House 575, Sector 57, Pune",25
+P3300198,Pune,Maharashtra,Independent house,Ready / resale,,,,488,5010000.0,"Flat/House 262, Nagar 48, Pune",18
+P3300199,Pune,Maharashtra,Plot + construction,Ready / resale,,,,859,8810000.0,"Flat/House 674, Sector 53, Pune",8
+P3300200,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Residency,,846,5920000.0,"Flat/House 46, Ward 38, Lucknow",20
+P3300201,Gurugram,Haryana,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,255,3770000.0,"Flat/House 889, Layout 12, Gurugram",12
+P3300202,Gurugram,Haryana,Apartment,Under construction,Coastal Homes,Coastal Greens,RERA-GGN-14273,330,4870000.0,"Flat/House 82, Layout 46, Gurugram",0
+P3300203,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Greens,,475,3800000.0,"Flat/House 114, Nagar 57, Ahmedabad",21
+P3300204,Chennai,Tamil Nadu,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,546,6070000.0,"Flat/House 891, Sector 42, Chennai",21
+P3300205,Pune,Maharashtra,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-PUN-32108,954,9780000.0,"Flat/House 961, Sector 13, Pune",0
+P3300206,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,1192,8350000.0,"Flat/House 998, Nagar 16, Lucknow",4
+P3300207,Hyderabad,Telangana,Independent house,Ready / resale,,,,1260,13550000.0,"Flat/House 91, Layout 41, Hyderabad",19
+P3300208,Kochi,Kerala,Apartment,Ready / resale,Skyline Habitat,Skyline Residency,,713,6150000.0,"Flat/House 960, Layout 25, Kochi",17
+P3300209,Gurugram,Haryana,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,483,7130000.0,"Flat/House 557, Ward 6, Gurugram",6
+P3300210,Mumbai,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Enclave,,256,6230000.0,"Flat/House 943, Sector 17, Mumbai",14
+P3300211,Chennai,Tamil Nadu,Apartment,Ready / resale,Coastal Homes,Coastal Residency,,309,3430000.0,"Flat/House 865, Sector 41, Chennai",23
+P3300212,Chennai,Tamil Nadu,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Enclave,,243,2700000.0,"Flat/House 77, Layout 36, Chennai",7
+P3300213,Gurugram,Haryana,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,484,7140000.0,"Flat/House 175, Ward 4, Gurugram",6
+P3300214,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Coastal Homes,Coastal Residency,,493,3450000.0,"Flat/House 842, Layout 6, Lucknow",3
+P3300215,Mumbai,Maharashtra,Apartment,Under construction,Greenleaf Realty,Greenleaf Courtyard,RERA-MUM-77132,454,11060000.0,"Flat/House 469, Nagar 47, Mumbai",0
+P3300216,Kolkata,West Bengal,Apartment,Ready / resale,Skyline Habitat,Skyline Greens,,1213,10920000.0,"Flat/House 866, Sector 32, Kolkata",15
+P3300217,Hyderabad,Telangana,Apartment,Under construction,Greenleaf Realty,Greenleaf Heights,RERA-HYD-50853,667,7170000.0,"Flat/House 971, Sector 56, Hyderabad",0
+P3300218,Chennai,Tamil Nadu,Apartment,Under construction,Skyline Habitat,Skyline Courtyard,RERA-CHE-17805,653,7270000.0,"Flat/House 545, Layout 60, Chennai",0
+P3300219,Bengaluru,Karnataka,Apartment,Ready / resale,Skyline Habitat,Skyline Enclave,,310,3790000.0,"Flat/House 39, Ward 50, Bengaluru",4
+P3300220,Kochi,Kerala,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Greens,,700,6040000.0,"Flat/House 566, Sector 7, Kochi",17
+P3300221,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,477,3340000.0,"Flat/House 441, Nagar 26, Lucknow",8
+P3300222,Indore,Madhya Pradesh,Apartment,Under construction,Mahavir Buildcon,Mahavir Enclave,RERA-IDR-71995,1962,11770000.0,"Flat/House 795, Ward 50, Indore",0
+P3300223,Mumbai,Maharashtra,Apartment,Under construction,Coastal Homes,Coastal Residency,RERA-MUM-38820,104,2540000.0,"Flat/House 995, Ward 58, Mumbai",0
+P3300224,Indore,Madhya Pradesh,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,747,4480000.0,"Flat/House 365, Ward 32, Indore",15
+P3300225,Indore,Madhya Pradesh,Independent house,Ready / resale,,,,1566,9400000.0,"Flat/House 397, Ward 50, Indore",12
+P3300226,Pune,Maharashtra,Plot + construction,Ready / resale,,,,149,1530000.0,"Flat/House 846, Ward 24, Pune",14
+P3300227,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Skyline Habitat,Skyline Courtyard,,358,2500000.0,"Flat/House 995, Ward 54, Lucknow",13
+P3300228,Gurugram,Haryana,Independent house,Ready / resale,,,,436,6430000.0,"Flat/House 604, Layout 38, Gurugram",5
+P3300229,Kochi,Kerala,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,425,3670000.0,"Flat/House 41, Layout 7, Kochi",23
+P3300230,Indore,Madhya Pradesh,Apartment,Under construction,Skyline Habitat,Skyline Residency,RERA-IDR-97981,3697,22180000.0,"Flat/House 243, Sector 3, Indore",0
+P3300231,Kochi,Kerala,Apartment,Under construction,Greenleaf Realty,Greenleaf Enclave,RERA-COK-91395,1228,10590000.0,"Flat/House 144, Sector 49, Kochi",0
+P3300232,Lucknow,Uttar Pradesh,Apartment,Under construction,Greenleaf Realty,Greenleaf Greens,RERA-LKO-41865,1293,9050000.0,"Flat/House 56, Sector 19, Lucknow",0
+P3300233,Kochi,Kerala,Apartment,Under construction,Greenleaf Realty,Greenleaf Heights,RERA-COK-42121,859,7410000.0,"Flat/House 826, Nagar 27, Kochi",0
+P3300234,Kochi,Kerala,Apartment,Under construction,Greenleaf Realty,Greenleaf Greens,RERA-COK-32696,587,5060000.0,"Flat/House 445, Nagar 6, Kochi",0
+P3300235,Mumbai,Maharashtra,Apartment,Under construction,Coastal Homes,Coastal Greens,RERA-MUM-12348,140,3420000.0,"Flat/House 166, Sector 50, Mumbai",0
+P3300236,Indore,Madhya Pradesh,Plot + construction,Ready / resale,,,,1309,7850000.0,"Flat/House 430, Nagar 29, Indore",24
+P3300237,Kolkata,West Bengal,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-KOL-78910,201,1810000.0,"Flat/House 217, Nagar 35, Kolkata",0
+P3300238,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,838,5870000.0,"Flat/House 867, Nagar 40, Lucknow",15
+P3300239,Mumbai,Maharashtra,Apartment,Ready / resale,Skyline Habitat,Skyline Heights,,377,9200000.0,"Flat/House 561, Ward 50, Mumbai",17
+P3300240,Jaipur,Rajasthan,Apartment,Under construction,Mahavir Buildcon,Mahavir Heights,RERA-JAI-34640,514,3340000.0,"Flat/House 935, Sector 35, Jaipur",0
+P3300241,Jaipur,Rajasthan,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Residency,,613,3980000.0,"Flat/House 99, Ward 10, Jaipur",15
+P3300242,Indore,Madhya Pradesh,Independent house,Ready / resale,,,,4754,28520000.0,"Flat/House 961, Nagar 19, Indore",19
+P3300243,Kochi,Kerala,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,1207,10410000.0,"Flat/House 109, Layout 34, Kochi",7
+P3300244,Kochi,Kerala,Apartment,Ready / resale,Coastal Homes,Coastal Residency,,405,3500000.0,"Flat/House 182, Sector 48, Kochi",16
+P3300245,Hyderabad,Telangana,Plot + construction,Ready / resale,,,,583,6260000.0,"Flat/House 885, Sector 18, Hyderabad",6
+P3300246,Kochi,Kerala,Apartment,Under construction,Coastal Homes,Coastal Courtyard,RERA-COK-63250,232,2000000.0,"Flat/House 790, Layout 5, Kochi",0
+P3300247,Pune,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Enclave,,1121,11490000.0,"Flat/House 386, Ward 31, Pune",17
+P3300248,Hyderabad,Telangana,Independent house,Ready / resale,,,,598,6430000.0,"Flat/House 267, Layout 43, Hyderabad",4
+P3300249,Bengaluru,Karnataka,Independent house,Ready / resale,,,,264,3230000.0,"Flat/House 984, Nagar 20, Bengaluru",22
+P3300250,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,2360,16520000.0,"Flat/House 670, Sector 36, Lucknow",19
+P3300251,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,1231,8620000.0,"Flat/House 47, Sector 58, Lucknow",8
+P3300252,Kochi,Kerala,Apartment,Under construction,Coastal Homes,Coastal Heights,RERA-COK-16451,1076,9280000.0,"Flat/House 520, Nagar 20, Kochi",0
+P3300253,Pune,Maharashtra,Plot + construction,Ready / resale,,,,546,5600000.0,"Flat/House 432, Nagar 25, Pune",14
+P3300254,Bengaluru,Karnataka,Plot + construction,Ready / resale,,,,432,5290000.0,"Flat/House 891, Layout 4, Bengaluru",17
+P3300255,Gurugram,Haryana,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-GGN-47818,1262,18610000.0,"Flat/House 673, Sector 48, Gurugram",0
+P3300256,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Skyline Habitat,Skyline Courtyard,,1053,7370000.0,"Flat/House 311, Sector 14, Lucknow",15
+P3300257,Jaipur,Rajasthan,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,207,1340000.0,"Flat/House 128, Sector 41, Jaipur",24
+P3300258,Pune,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Enclave,,469,4810000.0,"Flat/House 658, Layout 7, Pune",2
+P3300259,Gurugram,Haryana,Independent house,Ready / resale,,,,150,2210000.0,"Flat/House 377, Sector 36, Gurugram",22
+P3300260,Kolkata,West Bengal,Plot + construction,Ready / resale,,,,398,3590000.0,"Flat/House 479, Nagar 50, Kolkata",14
+P3300261,Kolkata,West Bengal,Apartment,Under construction,Greenleaf Realty,Greenleaf Courtyard,RERA-KOL-92048,1790,16110000.0,"Flat/House 163, Nagar 28, Kolkata",0
+P3300262,Lucknow,Uttar Pradesh,Plot + construction,Ready / resale,,,,1906,13340000.0,"Flat/House 876, Ward 17, Lucknow",20
+P3300263,Kolkata,West Bengal,Independent house,Ready / resale,,,,908,8170000.0,"Flat/House 858, Ward 33, Kolkata",11
+P3300264,Pune,Maharashtra,Independent house,Ready / resale,,,,181,1850000.0,"Flat/House 867, Nagar 1, Pune",14
+P3300265,Pune,Maharashtra,Independent house,Ready / resale,,,,446,4570000.0,"Flat/House 625, Layout 48, Pune",11
+P3300266,Jaipur,Rajasthan,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,2231,14500000.0,"Flat/House 449, Sector 17, Jaipur",8
+P3300267,Kolkata,West Bengal,Independent house,Ready / resale,,,,656,5910000.0,"Flat/House 549, Ward 22, Kolkata",3
+P3300268,Chennai,Tamil Nadu,Apartment,Under construction,Sundaram Estates,Sundaram Courtyard,RERA-CHE-52542,1922,21390000.0,"Flat/House 67, Ward 49, Chennai",0
+P3300269,Kochi,Kerala,Apartment,Under construction,Sundaram Estates,Sundaram Greens,RERA-COK-34945,657,5670000.0,"Flat/House 5, Nagar 55, Kochi",0
+P3300270,Indore,Madhya Pradesh,Apartment,Under construction,Sundaram Estates,Sundaram Greens,RERA-IDR-31945,1439,8640000.0,"Flat/House 586, Ward 52, Indore",0
+P3300271,Chennai,Tamil Nadu,Independent house,Ready / resale,,,,513,5710000.0,"Flat/House 191, Layout 41, Chennai",7
+P3300272,Gurugram,Haryana,Apartment,Under construction,Sundaram Estates,Sundaram Heights,RERA-GGN-54011,890,13130000.0,"Flat/House 545, Ward 3, Gurugram",0
+P3300273,Chennai,Tamil Nadu,Apartment,Ready / resale,Aaranya Developers,Aaranya Enclave,,477,5310000.0,"Flat/House 523, Nagar 30, Chennai",3
+P3300274,Ahmedabad,Gujarat,Apartment,Under construction,Aaranya Developers,Aaranya Heights,RERA-AMD-69229,1041,8330000.0,"Flat/House 622, Sector 37, Ahmedabad",0
+P3300275,Mumbai,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,239,5820000.0,"Flat/House 385, Ward 27, Mumbai",11
+P3300276,Mumbai,Maharashtra,Independent house,Ready / resale,,,,144,3510000.0,"Flat/House 453, Nagar 23, Mumbai",19
+P3300277,Mumbai,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,114,2790000.0,"Flat/House 995, Sector 30, Mumbai",20
+P3300278,Mumbai,Maharashtra,Independent house,Ready / resale,,,,293,7140000.0,"Flat/House 476, Nagar 7, Mumbai",11
+P3300279,Gurugram,Haryana,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,267,3940000.0,"Flat/House 538, Nagar 31, Gurugram",23
+P3300280,Kolkata,West Bengal,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,787,7080000.0,"Flat/House 448, Sector 8, Kolkata",16
+P3300281,Gurugram,Haryana,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,512,7560000.0,"Flat/House 850, Nagar 21, Gurugram",16
+P3300282,Gurugram,Haryana,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,145,2130000.0,"Flat/House 746, Sector 8, Gurugram",21
+P3300283,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Skyline Habitat,Skyline Greens,,633,4430000.0,"Flat/House 576, Layout 49, Lucknow",17
+P3300284,Ahmedabad,Gujarat,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Enclave,,609,4870000.0,"Flat/House 423, Ward 26, Ahmedabad",19
+P3300285,Gurugram,Haryana,Independent house,Ready / resale,,,,343,5060000.0,"Flat/House 966, Ward 12, Gurugram",25
+P3300286,Bengaluru,Karnataka,Independent house,Ready / resale,,,,1394,17080000.0,"Flat/House 986, Layout 26, Bengaluru",2
+P3300287,Ahmedabad,Gujarat,Apartment,Under construction,Mahavir Buildcon,Mahavir Enclave,RERA-AMD-80266,445,3560000.0,"Flat/House 922, Layout 41, Ahmedabad",0
+P3300288,Hyderabad,Telangana,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,707,7600000.0,"Flat/House 106, Sector 31, Hyderabad",19
+P3300289,Pune,Maharashtra,Independent house,Ready / resale,,,,1035,10610000.0,"Flat/House 530, Ward 25, Pune",3
+P3300290,Bengaluru,Karnataka,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,1277,15650000.0,"Flat/House 757, Ward 46, Bengaluru",17
+P3300291,Pune,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Residency,,619,6350000.0,"Flat/House 941, Nagar 32, Pune",3
+P3300292,Hyderabad,Telangana,Apartment,Under construction,Aaranya Developers,Aaranya Enclave,RERA-HYD-47745,765,8220000.0,"Flat/House 387, Nagar 3, Hyderabad",0
+P3300293,Indore,Madhya Pradesh,Apartment,Under construction,Skyline Habitat,Skyline Heights,RERA-IDR-69207,539,3240000.0,"Flat/House 378, Layout 60, Indore",0
+P3300294,Kochi,Kerala,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,295,2550000.0,"Flat/House 479, Nagar 43, Kochi",6
+P3300295,Chennai,Tamil Nadu,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Enclave,,313,3480000.0,"Flat/House 837, Nagar 37, Chennai",15
+P3300296,Lucknow,Uttar Pradesh,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-LKO-75949,744,5210000.0,"Flat/House 639, Nagar 20, Lucknow",0
+P3300297,Hyderabad,Telangana,Apartment,Under construction,Mahavir Buildcon,Mahavir Residency,RERA-HYD-14907,232,2500000.0,"Flat/House 905, Sector 21, Hyderabad",0
+P3300298,Bengaluru,Karnataka,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,428,5240000.0,"Flat/House 555, Sector 4, Bengaluru",24
+P3300299,Pune,Maharashtra,Apartment,Under construction,Sundaram Estates,Sundaram Greens,RERA-PUN-83294,1179,12080000.0,"Flat/House 407, Ward 51, Pune",0
+P3300300,Bengaluru,Karnataka,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Courtyard,,410,5030000.0,"Flat/House 526, Sector 15, Bengaluru",15
+P3300301,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,1275,8920000.0,"Flat/House 381, Sector 53, Lucknow",7
+P3300302,Jaipur,Rajasthan,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Heights,,446,2900000.0,"Flat/House 878, Sector 35, Jaipur",12
+P3300303,Pune,Maharashtra,Apartment,Under construction,Mahavir Buildcon,Mahavir Residency,RERA-PUN-85105,1337,13710000.0,"Flat/House 825, Nagar 45, Pune",0
+P3300304,Hyderabad,Telangana,Independent house,Ready / resale,,,,434,4670000.0,"Flat/House 689, Sector 57, Hyderabad",4
+P3300305,Pune,Maharashtra,Independent house,Ready / resale,,,,376,3850000.0,"Flat/House 133, Sector 9, Pune",14
+P3300306,Indore,Madhya Pradesh,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Residency,,981,5880000.0,"Flat/House 476, Layout 2, Indore",24
+P3300307,Mumbai,Maharashtra,Independent house,Ready / resale,,,,529,12900000.0,"Flat/House 605, Ward 15, Mumbai",2
+P3300308,Kochi,Kerala,Independent house,Ready / resale,,,,993,8570000.0,"Flat/House 944, Nagar 5, Kochi",15
+P3300309,Kochi,Kerala,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-COK-91617,1047,9030000.0,"Flat/House 516, Layout 41, Kochi",0
+P3300310,Ahmedabad,Gujarat,Apartment,Ready / resale,Coastal Homes,Coastal Residency,,623,4980000.0,"Flat/House 284, Layout 4, Ahmedabad",6
+P3300311,Kolkata,West Bengal,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,298,2680000.0,"Flat/House 799, Sector 30, Kolkata",3
+P3300312,Gurugram,Haryana,Plot + construction,Ready / resale,,,,311,4590000.0,"Flat/House 128, Layout 43, Gurugram",16
+P3300313,Pune,Maharashtra,Independent house,Ready / resale,,,,718,7360000.0,"Flat/House 669, Ward 52, Pune",15
+P3300314,Chennai,Tamil Nadu,Apartment,Under construction,Mahavir Buildcon,Mahavir Residency,RERA-CHE-10798,704,7830000.0,"Flat/House 894, Nagar 50, Chennai",0
+P3300315,Jaipur,Rajasthan,Apartment,Under construction,Skyline Habitat,Skyline Residency,RERA-JAI-30475,940,6110000.0,"Flat/House 175, Layout 44, Jaipur",0
+P3300316,Indore,Madhya Pradesh,Independent house,Ready / resale,,,,1820,10920000.0,"Flat/House 140, Layout 24, Indore",6
+P3300317,Pune,Maharashtra,Apartment,Under construction,Skyline Habitat,Skyline Courtyard,RERA-PUN-69460,843,8640000.0,"Flat/House 701, Ward 46, Pune",0
+P3300318,Indore,Madhya Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,571,3420000.0,"Flat/House 530, Ward 46, Indore",15
+P3300319,Kolkata,West Bengal,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,207,1860000.0,"Flat/House 47, Sector 38, Kolkata",4
+P3300320,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,1137,9100000.0,"Flat/House 475, Nagar 8, Ahmedabad",5
+P3300321,Pune,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,474,4860000.0,"Flat/House 442, Nagar 50, Pune",19
+P3300322,Lucknow,Uttar Pradesh,Apartment,Under construction,Skyline Habitat,Skyline Heights,RERA-LKO-43255,1213,8490000.0,"Flat/House 863, Ward 2, Lucknow",0
+P3300323,Mumbai,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,532,12960000.0,"Flat/House 544, Ward 58, Mumbai",8
+P3300324,Pune,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Courtyard,,1022,10470000.0,"Flat/House 159, Nagar 8, Pune",22
+P3300325,Pune,Maharashtra,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-PUN-37569,672,6880000.0,"Flat/House 828, Sector 32, Pune",0
+P3300326,Gurugram,Haryana,Apartment,Ready / resale,Sundaram Estates,Sundaram Greens,,1004,14800000.0,"Flat/House 562, Layout 25, Gurugram",2
+P3300327,Bengaluru,Karnataka,Independent house,Ready / resale,,,,815,9990000.0,"Flat/House 253, Nagar 33, Bengaluru",10
+P3300328,Kochi,Kerala,Independent house,Ready / resale,,,,513,4420000.0,"Flat/House 772, Sector 16, Kochi",17
+P3300329,Jaipur,Rajasthan,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,2122,13800000.0,"Flat/House 84, Ward 15, Jaipur",9
+P3300330,Chennai,Tamil Nadu,Independent house,Ready / resale,,,,416,4630000.0,"Flat/House 581, Sector 21, Chennai",18
+P3300331,Chennai,Tamil Nadu,Independent house,Ready / resale,,,,540,6010000.0,"Flat/House 665, Sector 6, Chennai",23
+P3300332,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,774,7930000.0,"Flat/House 756, Ward 25, Pune",22
+P3300333,Chennai,Tamil Nadu,Plot + construction,Ready / resale,,,,850,9460000.0,"Flat/House 137, Layout 8, Chennai",16
+P3300334,Hyderabad,Telangana,Apartment,Under construction,Mahavir Buildcon,Mahavir Enclave,RERA-HYD-24158,556,5970000.0,"Flat/House 718, Ward 24, Hyderabad",0
+P3300335,Kolkata,West Bengal,Independent house,Ready / resale,,,,355,3190000.0,"Flat/House 108, Ward 6, Kolkata",25
+P3300336,Ahmedabad,Gujarat,Plot + construction,Ready / resale,,,,1901,15210000.0,"Flat/House 711, Nagar 1, Ahmedabad",19
+P3300337,Kochi,Kerala,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,1806,15570000.0,"Flat/House 571, Ward 13, Kochi",4
+P3300338,Hyderabad,Telangana,Independent house,Ready / resale,,,,299,3220000.0,"Flat/House 509, Sector 41, Hyderabad",19
+P3300339,Mumbai,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,179,4370000.0,"Flat/House 919, Nagar 45, Mumbai",7
+P3300340,Gurugram,Haryana,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,190,2800000.0,"Flat/House 43, Ward 4, Gurugram",3
+P3300341,Kolkata,West Bengal,Independent house,Ready / resale,,,,789,7100000.0,"Flat/House 372, Ward 45, Kolkata",10
+P3300342,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,907,6350000.0,"Flat/House 197, Layout 60, Lucknow",10
+P3300343,Indore,Madhya Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Courtyard,,851,5110000.0,"Flat/House 69, Layout 16, Indore",19
+P3300344,Jaipur,Rajasthan,Apartment,Under construction,Sundaram Estates,Sundaram Greens,RERA-JAI-94592,1448,9410000.0,"Flat/House 691, Ward 23, Jaipur",0
+P3300345,Indore,Madhya Pradesh,Apartment,Under construction,Coastal Homes,Coastal Heights,RERA-IDR-53328,576,3450000.0,"Flat/House 491, Sector 9, Indore",0
+P3300346,Gurugram,Haryana,Apartment,Ready / resale,Skyline Habitat,Skyline Greens,,533,7860000.0,"Flat/House 9, Layout 43, Gurugram",13
+P3300347,Indore,Madhya Pradesh,Apartment,Under construction,Sundaram Estates,Sundaram Greens,RERA-IDR-61828,382,2290000.0,"Flat/House 593, Sector 21, Indore",0
+P3300348,Kolkata,West Bengal,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Residency,,176,1580000.0,"Flat/House 12, Ward 57, Kolkata",14
+P3300349,Mumbai,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Enclave,,119,2910000.0,"Flat/House 522, Layout 36, Mumbai",6
+P3300350,Jaipur,Rajasthan,Plot + construction,Ready / resale,,,,441,2870000.0,"Flat/House 893, Ward 48, Jaipur",7
+P3300351,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Greens,,1032,7230000.0,"Flat/House 127, Sector 9, Lucknow",11
+P3300352,Indore,Madhya Pradesh,Apartment,Under construction,Greenleaf Realty,Greenleaf Courtyard,RERA-IDR-30013,771,4620000.0,"Flat/House 301, Sector 46, Indore",0
+P3300353,Kolkata,West Bengal,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-KOL-56095,662,5960000.0,"Flat/House 920, Nagar 30, Kolkata",0
+P3300354,Mumbai,Maharashtra,Plot + construction,Ready / resale,,,,302,7360000.0,"Flat/House 922, Ward 46, Mumbai",11
+P3300355,Chennai,Tamil Nadu,Apartment,Ready / resale,Skyline Habitat,Skyline Courtyard,,651,7240000.0,"Flat/House 560, Nagar 60, Chennai",3
+P3300356,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Residency,,987,6910000.0,"Flat/House 880, Ward 9, Lucknow",23
+P3300357,Jaipur,Rajasthan,Plot + construction,Ready / resale,,,,1494,9710000.0,"Flat/House 376, Nagar 51, Jaipur",19
+P3300358,Gurugram,Haryana,Apartment,Under construction,Mahavir Buildcon,Mahavir Residency,RERA-GGN-43789,300,4430000.0,"Flat/House 290, Ward 26, Gurugram",0
+P3300359,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,1607,16470000.0,"Flat/House 271, Layout 4, Pune",23
+P3300360,Kochi,Kerala,Plot + construction,Ready / resale,,,,589,5080000.0,"Flat/House 969, Ward 24, Kochi",21
+P3300361,Indore,Madhya Pradesh,Apartment,Under construction,Coastal Homes,Coastal Courtyard,RERA-IDR-22425,522,3130000.0,"Flat/House 170, Sector 51, Indore",0
+P3300362,Kochi,Kerala,Apartment,Under construction,Coastal Homes,Coastal Courtyard,RERA-COK-52833,608,5240000.0,"Flat/House 227, Layout 3, Kochi",0
+P3300363,Kochi,Kerala,Plot + construction,Ready / resale,,,,481,4150000.0,"Flat/House 324, Nagar 1, Kochi",15
+P3300364,Chennai,Tamil Nadu,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Heights,,1452,16150000.0,"Flat/House 221, Ward 35, Chennai",20
+P3300365,Pune,Maharashtra,Apartment,Under construction,Sundaram Estates,Sundaram Courtyard,RERA-PUN-26671,434,4450000.0,"Flat/House 105, Layout 25, Pune",0
+P3300366,Ahmedabad,Gujarat,Apartment,Under construction,Skyline Habitat,Skyline Greens,RERA-AMD-13799,555,4440000.0,"Flat/House 158, Nagar 2, Ahmedabad",0
+P3300367,Ahmedabad,Gujarat,Apartment,Ready / resale,Skyline Habitat,Skyline Enclave,,1089,8710000.0,"Flat/House 873, Ward 28, Ahmedabad",3
+P3300368,Kochi,Kerala,Apartment,Under construction,Greenleaf Realty,Greenleaf Courtyard,RERA-COK-23074,499,4300000.0,"Flat/House 586, Sector 32, Kochi",0
+P3300369,Hyderabad,Telangana,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Greens,,468,5030000.0,"Flat/House 897, Sector 43, Hyderabad",18
+P3300370,Kolkata,West Bengal,Independent house,Ready / resale,,,,231,2080000.0,"Flat/House 68, Nagar 24, Kolkata",10
+P3300371,Gurugram,Haryana,Plot + construction,Ready / resale,,,,589,8690000.0,"Flat/House 39, Nagar 19, Gurugram",18
+P3300372,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,449,3140000.0,"Flat/House 109, Ward 48, Lucknow",5
+P3300373,Bengaluru,Karnataka,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Enclave,,404,4960000.0,"Flat/House 83, Ward 59, Bengaluru",17
+P3300374,Indore,Madhya Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,1094,6560000.0,"Flat/House 305, Sector 45, Indore",11
+P3300375,Hyderabad,Telangana,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Greens,,178,1910000.0,"Flat/House 192, Nagar 8, Hyderabad",19
+P3300376,Indore,Madhya Pradesh,Apartment,Under construction,Aaranya Developers,Aaranya Enclave,RERA-IDR-12582,6216,37300000.0,"Flat/House 103, Layout 38, Indore",0
+P3300377,Jaipur,Rajasthan,Apartment,Ready / resale,Skyline Habitat,Skyline Enclave,,1333,8660000.0,"Flat/House 215, Nagar 6, Jaipur",24
+P3300378,Mumbai,Maharashtra,Independent house,Ready / resale,,,,337,8220000.0,"Flat/House 752, Ward 29, Mumbai",8
+P3300379,Chennai,Tamil Nadu,Apartment,Under construction,Sundaram Estates,Sundaram Courtyard,RERA-CHE-43582,302,3360000.0,"Flat/House 182, Nagar 56, Chennai",0
+P3300380,Kochi,Kerala,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,496,4270000.0,"Flat/House 373, Ward 41, Kochi",7
+P3300381,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,859,6010000.0,"Flat/House 229, Nagar 18, Lucknow",3
+P3300382,Indore,Madhya Pradesh,Apartment,Under construction,Skyline Habitat,Skyline Heights,RERA-IDR-52074,1253,7520000.0,"Flat/House 492, Layout 38, Indore",0
+P3300383,Bengaluru,Karnataka,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-BLR-16223,1136,13920000.0,"Flat/House 658, Nagar 16, Bengaluru",0
+P3300384,Ahmedabad,Gujarat,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,384,3070000.0,"Flat/House 392, Ward 54, Ahmedabad",4
+P3300385,Ahmedabad,Gujarat,Apartment,Ready / resale,Skyline Habitat,Skyline Enclave,,758,6070000.0,"Flat/House 56, Layout 47, Ahmedabad",23
+P3300386,Pune,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,2192,22470000.0,"Flat/House 440, Nagar 55, Pune",20
+P3300387,Bengaluru,Karnataka,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,383,4690000.0,"Flat/House 139, Ward 48, Bengaluru",24
+P3300388,Hyderabad,Telangana,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-HYD-72596,750,8060000.0,"Flat/House 276, Sector 9, Hyderabad",0
+P3300389,Bengaluru,Karnataka,Independent house,Ready / resale,,,,237,2910000.0,"Flat/House 142, Nagar 50, Bengaluru",22
+P3300390,Kolkata,West Bengal,Apartment,Under construction,Mahavir Buildcon,Mahavir Greens,RERA-KOL-13320,347,3120000.0,"Flat/House 70, Sector 7, Kolkata",0
+P3300391,Gurugram,Haryana,Apartment,Ready / resale,Sundaram Estates,Sundaram Greens,,131,1930000.0,"Flat/House 660, Layout 1, Gurugram",25
+P3300392,Mumbai,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Courtyard,,257,6280000.0,"Flat/House 983, Sector 21, Mumbai",24
+P3300393,Chennai,Tamil Nadu,Apartment,Ready / resale,Skyline Habitat,Skyline Greens,,701,7800000.0,"Flat/House 944, Ward 34, Chennai",13
+P3300394,Indore,Madhya Pradesh,Apartment,Ready / resale,Skyline Habitat,Skyline Heights,,1227,7360000.0,"Flat/House 395, Ward 17, Indore",5
+P3300395,Mumbai,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,199,4850000.0,"Flat/House 431, Layout 13, Mumbai",22
+P3300396,Mumbai,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Courtyard,,179,4370000.0,"Flat/House 115, Layout 37, Mumbai",20
+P3300397,Chennai,Tamil Nadu,Apartment,Under construction,Aaranya Developers,Aaranya Heights,RERA-CHE-58607,364,4050000.0,"Flat/House 360, Sector 45, Chennai",0
+P3300398,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,1093,7650000.0,"Flat/House 556, Ward 44, Lucknow",20
+P3300399,Kolkata,West Bengal,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,1966,17700000.0,"Flat/House 883, Ward 15, Kolkata",4
+P3300400,Indore,Madhya Pradesh,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Enclave,,1329,7970000.0,"Flat/House 820, Nagar 21, Indore",10
+P3300401,Ahmedabad,Gujarat,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Courtyard,,2679,21430000.0,"Flat/House 843, Nagar 59, Ahmedabad",8
+P3300402,Kolkata,West Bengal,Independent house,Ready / resale,,,,780,7020000.0,"Flat/House 634, Nagar 33, Kolkata",3
+P3300403,Kolkata,West Bengal,Independent house,Ready / resale,,,,160,1440000.0,"Flat/House 667, Sector 36, Kolkata",10
+P3300404,Jaipur,Rajasthan,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,1048,6810000.0,"Flat/House 35, Layout 48, Jaipur",19
+P3300405,Jaipur,Rajasthan,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,928,6030000.0,"Flat/House 344, Sector 36, Jaipur",5
+P3300406,Kochi,Kerala,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,1489,12840000.0,"Flat/House 300, Layout 39, Kochi",6
+P3300407,Ahmedabad,Gujarat,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,718,5740000.0,"Flat/House 899, Ward 31, Ahmedabad",5
+P3300408,Kolkata,West Bengal,Apartment,Under construction,Mahavir Buildcon,Mahavir Courtyard,RERA-KOL-17168,749,6740000.0,"Flat/House 663, Sector 35, Kolkata",0
+P3300409,Pune,Maharashtra,Apartment,Ready / resale,Skyline Habitat,Skyline Heights,,1272,13040000.0,"Flat/House 352, Nagar 39, Pune",11
+P3300410,Indore,Madhya Pradesh,Independent house,Ready / resale,,,,1883,11300000.0,"Flat/House 472, Nagar 18, Indore",21
+P3300411,Hyderabad,Telangana,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,334,3590000.0,"Flat/House 598, Sector 25, Hyderabad",17
+P3300412,Mumbai,Maharashtra,Independent house,Ready / resale,,,,556,13550000.0,"Flat/House 748, Sector 15, Mumbai",14
+P3300413,Kochi,Kerala,Apartment,Under construction,Skyline Habitat,Skyline Courtyard,RERA-COK-67176,428,3690000.0,"Flat/House 907, Nagar 14, Kochi",0
+P3300414,Jaipur,Rajasthan,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Residency,,498,3240000.0,"Flat/House 720, Sector 35, Jaipur",10
+P3300415,Kochi,Kerala,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,559,4820000.0,"Flat/House 823, Layout 41, Kochi",15
+P3300416,Chennai,Tamil Nadu,Apartment,Under construction,Coastal Homes,Coastal Residency,RERA-CHE-29364,1033,11500000.0,"Flat/House 597, Layout 47, Chennai",0
+P3300417,Pune,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Residency,,337,3450000.0,"Flat/House 376, Layout 51, Pune",22
+P3300418,Bengaluru,Karnataka,Apartment,Under construction,Coastal Homes,Coastal Enclave,RERA-BLR-83388,296,3620000.0,"Flat/House 701, Nagar 26, Bengaluru",0
+P3300419,Kolkata,West Bengal,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,1063,9570000.0,"Flat/House 510, Sector 14, Kolkata",20
+P3300420,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,610,4880000.0,"Flat/House 734, Layout 55, Ahmedabad",3
+P3300421,Jaipur,Rajasthan,Independent house,Ready / resale,,,,1646,10700000.0,"Flat/House 843, Ward 33, Jaipur",19
+P3300422,Chennai,Tamil Nadu,Independent house,Ready / resale,,,,266,2960000.0,"Flat/House 741, Sector 37, Chennai",5
+P3300423,Ahmedabad,Gujarat,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,1107,8850000.0,"Flat/House 49, Sector 25, Ahmedabad",20
+P3300424,Hyderabad,Telangana,Apartment,Under construction,Greenleaf Realty,Greenleaf Heights,RERA-HYD-38010,1355,14560000.0,"Flat/House 921, Ward 28, Hyderabad",0
+P3300425,Jaipur,Rajasthan,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-JAI-79690,1012,6580000.0,"Flat/House 441, Sector 41, Jaipur",0
+P3300426,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,401,3210000.0,"Flat/House 474, Ward 16, Ahmedabad",22
+P3300427,Jaipur,Rajasthan,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,1575,10230000.0,"Flat/House 289, Ward 53, Jaipur",8
+P3300428,Hyderabad,Telangana,Independent house,Ready / resale,,,,563,6050000.0,"Flat/House 670, Sector 22, Hyderabad",22
+P3300429,Mumbai,Maharashtra,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,213,5190000.0,"Flat/House 652, Layout 57, Mumbai",23
+P3300430,Hyderabad,Telangana,Plot + construction,Ready / resale,,,,176,1890000.0,"Flat/House 299, Ward 54, Hyderabad",16
+P3300431,Kochi,Kerala,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-COK-47336,387,3340000.0,"Flat/House 175, Ward 16, Kochi",0
+P3300432,Mumbai,Maharashtra,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,133,3250000.0,"Flat/House 164, Layout 5, Mumbai",2
+P3300433,Mumbai,Maharashtra,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-MUM-48860,328,8000000.0,"Flat/House 820, Layout 3, Mumbai",0
+P3300434,Mumbai,Maharashtra,Apartment,Under construction,Greenleaf Realty,Greenleaf Greens,RERA-MUM-49731,216,5260000.0,"Flat/House 494, Ward 57, Mumbai",0
+P3300435,Jaipur,Rajasthan,Apartment,Under construction,Mahavir Buildcon,Mahavir Enclave,RERA-JAI-76928,1074,6980000.0,"Flat/House 493, Layout 19, Jaipur",0
+P3300436,Gurugram,Haryana,Apartment,Ready / resale,Skyline Habitat,Skyline Residency,,540,7970000.0,"Flat/House 361, Layout 50, Gurugram",21
+P3300437,Hyderabad,Telangana,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,1265,13600000.0,"Flat/House 341, Layout 4, Hyderabad",7
+P3300438,Bengaluru,Karnataka,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,803,9840000.0,"Flat/House 642, Ward 24, Bengaluru",15
+P3300439,Indore,Madhya Pradesh,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-IDR-33149,2121,12730000.0,"Flat/House 17, Layout 2, Indore",0
+P3300440,Jaipur,Rajasthan,Apartment,Ready / resale,Skyline Habitat,Skyline Residency,,851,5530000.0,"Flat/House 639, Sector 5, Jaipur",21
+P3300441,Jaipur,Rajasthan,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,801,5210000.0,"Flat/House 389, Sector 21, Jaipur",6
+P3300442,Chennai,Tamil Nadu,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-CHE-81632,2510,27930000.0,"Flat/House 490, Nagar 14, Chennai",0
+P3300443,Chennai,Tamil Nadu,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Enclave,,362,4030000.0,"Flat/House 18, Nagar 52, Chennai",11
+P3300444,Lucknow,Uttar Pradesh,Apartment,Under construction,Mahavir Buildcon,Mahavir Courtyard,RERA-LKO-79232,526,3680000.0,"Flat/House 536, Nagar 35, Lucknow",0
+P3300445,Hyderabad,Telangana,Independent house,Ready / resale,,,,555,5970000.0,"Flat/House 519, Nagar 29, Hyderabad",4
+P3300446,Pune,Maharashtra,Independent house,Ready / resale,,,,298,3060000.0,"Flat/House 607, Ward 46, Pune",19
+P3300447,Kolkata,West Bengal,Plot + construction,Ready / resale,,,,453,4080000.0,"Flat/House 174, Ward 7, Kolkata",2
+P3300448,Gurugram,Haryana,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,673,9930000.0,"Flat/House 45, Nagar 15, Gurugram",9
+P3300449,Hyderabad,Telangana,Independent house,Ready / resale,,,,255,2740000.0,"Flat/House 451, Layout 60, Hyderabad",5
+P3300450,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,1033,7230000.0,"Flat/House 287, Nagar 30, Lucknow",13
+P3300451,Gurugram,Haryana,Apartment,Under construction,Coastal Homes,Coastal Greens,RERA-GGN-55110,66,970000.0,"Flat/House 493, Sector 7, Gurugram",0
+P3300452,Bengaluru,Karnataka,Apartment,Under construction,Greenleaf Realty,Greenleaf Heights,RERA-BLR-52356,217,2660000.0,"Flat/House 384, Sector 43, Bengaluru",0
+P3300453,Gurugram,Haryana,Independent house,Ready / resale,,,,421,6220000.0,"Flat/House 414, Nagar 50, Gurugram",13
+P3300454,Indore,Madhya Pradesh,Apartment,Under construction,Sundaram Estates,Sundaram Residency,RERA-IDR-93110,1610,9660000.0,"Flat/House 673, Ward 51, Indore",0
+P3300455,Gurugram,Haryana,Independent house,Ready / resale,,,,237,3500000.0,"Flat/House 188, Layout 5, Gurugram",16
+P3300456,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,763,5340000.0,"Flat/House 985, Sector 20, Lucknow",10
+P3300457,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,588,4120000.0,"Flat/House 153, Sector 43, Lucknow",6
+P3300458,Kolkata,West Bengal,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Greens,,1443,12990000.0,"Flat/House 306, Ward 3, Kolkata",4
+P3300459,Kochi,Kerala,Apartment,Under construction,Mahavir Buildcon,Mahavir Heights,RERA-COK-53074,156,1340000.0,"Flat/House 779, Nagar 43, Kochi",0
+P3300460,Mumbai,Maharashtra,Plot + construction,Ready / resale,,,,476,11610000.0,"Flat/House 806, Sector 11, Mumbai",25
+P3300461,Pune,Maharashtra,Independent house,Ready / resale,,,,2363,24220000.0,"Flat/House 837, Nagar 27, Pune",25
+P3300462,Kolkata,West Bengal,Independent house,Ready / resale,,,,2149,19340000.0,"Flat/House 87, Sector 52, Kolkata",5
+P3300463,Ahmedabad,Gujarat,Apartment,Under construction,Mahavir Buildcon,Mahavir Heights,RERA-AMD-31254,1113,8900000.0,"Flat/House 968, Sector 58, Ahmedabad",0
+P3300464,Gurugram,Haryana,Independent house,Ready / resale,,,,287,4230000.0,"Flat/House 15, Sector 43, Gurugram",21
+P3300465,Bengaluru,Karnataka,Apartment,Under construction,Skyline Habitat,Skyline Greens,RERA-BLR-79212,367,4490000.0,"Flat/House 754, Sector 28, Bengaluru",0
+P3300466,Pune,Maharashtra,Apartment,Under construction,Coastal Homes,Coastal Courtyard,RERA-PUN-22498,175,1790000.0,"Flat/House 36, Layout 57, Pune",0
+P3300467,Bengaluru,Karnataka,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-BLR-59779,1744,21370000.0,"Flat/House 517, Sector 36, Bengaluru",0
+P3300468,Kochi,Kerala,Independent house,Ready / resale,,,,592,5100000.0,"Flat/House 648, Ward 27, Kochi",5
+P3300469,Mumbai,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,114,2770000.0,"Flat/House 419, Layout 47, Mumbai",20
+P3300470,Ahmedabad,Gujarat,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-AMD-98656,712,5700000.0,"Flat/House 367, Sector 25, Ahmedabad",0
+P3300471,Kolkata,West Bengal,Independent house,Ready / resale,,,,1820,16380000.0,"Flat/House 117, Sector 33, Kolkata",4
+P3300472,Bengaluru,Karnataka,Independent house,Ready / resale,,,,522,6390000.0,"Flat/House 593, Ward 31, Bengaluru",15
+P3300473,Lucknow,Uttar Pradesh,Apartment,Under construction,Skyline Habitat,Skyline Courtyard,RERA-LKO-91274,552,3860000.0,"Flat/House 910, Ward 20, Lucknow",0
+P3300474,Kochi,Kerala,Plot + construction,Ready / resale,,,,698,6020000.0,"Flat/House 103, Layout 16, Kochi",22
+P3300475,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,1081,7570000.0,"Flat/House 583, Sector 45, Lucknow",8
+P3300476,Kolkata,West Bengal,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,645,5800000.0,"Flat/House 892, Sector 54, Kolkata",11
+P3300477,Hyderabad,Telangana,Apartment,Under construction,Mahavir Buildcon,Mahavir Residency,RERA-HYD-77953,1397,15010000.0,"Flat/House 69, Layout 38, Hyderabad",0
+P3300478,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Coastal Homes,Coastal Greens,,1735,12150000.0,"Flat/House 954, Nagar 36, Lucknow",22
+P3300479,Indore,Madhya Pradesh,Independent house,Ready / resale,,,,1011,6070000.0,"Flat/House 894, Layout 59, Indore",9
+P3300480,Chennai,Tamil Nadu,Apartment,Under construction,Mahavir Buildcon,Mahavir Heights,RERA-CHE-22650,1187,13210000.0,"Flat/House 887, Ward 33, Chennai",0
+P3300481,Ahmedabad,Gujarat,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Courtyard,,167,1330000.0,"Flat/House 998, Nagar 27, Ahmedabad",20
+P3300482,Mumbai,Maharashtra,Independent house,Ready / resale,,,,150,3660000.0,"Flat/House 859, Layout 24, Mumbai",19
+P3300483,Hyderabad,Telangana,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,1255,13490000.0,"Flat/House 721, Sector 43, Hyderabad",21
+P3300484,Hyderabad,Telangana,Plot + construction,Ready / resale,,,,992,10660000.0,"Flat/House 828, Nagar 31, Hyderabad",21
+P3300485,Indore,Madhya Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Greens,,511,3070000.0,"Flat/House 784, Nagar 2, Indore",7
+P3300486,Jaipur,Rajasthan,Apartment,Under construction,Skyline Habitat,Skyline Greens,RERA-JAI-83884,1398,9080000.0,"Flat/House 761, Sector 54, Jaipur",0
+P3300487,Hyderabad,Telangana,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,475,5100000.0,"Flat/House 223, Ward 23, Hyderabad",9
+P3300488,Jaipur,Rajasthan,Independent house,Ready / resale,,,,717,4660000.0,"Flat/House 80, Layout 20, Jaipur",4
+P3300489,Hyderabad,Telangana,Independent house,Ready / resale,,,,480,5160000.0,"Flat/House 60, Ward 12, Hyderabad",18
+P3300490,Chennai,Tamil Nadu,Apartment,Under construction,Mahavir Buildcon,Mahavir Courtyard,RERA-CHE-16614,503,5600000.0,"Flat/House 793, Layout 27, Chennai",0
+P3300491,Ahmedabad,Gujarat,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Courtyard,,849,6790000.0,"Flat/House 404, Ward 31, Ahmedabad",23
+P3300492,Pune,Maharashtra,Apartment,Under construction,Skyline Habitat,Skyline Greens,RERA-PUN-35153,1230,12610000.0,"Flat/House 14, Layout 59, Pune",0
+P3300493,Indore,Madhya Pradesh,Apartment,Under construction,Aaranya Developers,Aaranya Enclave,RERA-IDR-60185,1001,6010000.0,"Flat/House 241, Nagar 33, Indore",0
+P3300494,Pune,Maharashtra,Plot + construction,Ready / resale,,,,556,5700000.0,"Flat/House 81, Sector 41, Pune",18
+P3300495,Kochi,Kerala,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,969,8360000.0,"Flat/House 991, Sector 25, Kochi",3
+P3300496,Kochi,Kerala,Independent house,Ready / resale,,,,258,2230000.0,"Flat/House 157, Layout 37, Kochi",12
+P3300497,Jaipur,Rajasthan,Independent house,Ready / resale,,,,1469,9550000.0,"Flat/House 565, Layout 24, Jaipur",19
+P3300498,Kochi,Kerala,Apartment,Ready / resale,Sundaram Estates,Sundaram Greens,,390,3370000.0,"Flat/House 755, Ward 20, Kochi",21
+P3300499,Pune,Maharashtra,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,828,8480000.0,"Flat/House 366, Sector 32, Pune",13
+P3300500,Jaipur,Rajasthan,Apartment,Ready / resale,Coastal Homes,Coastal Heights,,1925,12510000.0,"Flat/House 395, Nagar 10, Jaipur",11
+P3300501,Jaipur,Rajasthan,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,1502,9760000.0,"Flat/House 165, Nagar 30, Jaipur",7
+P3300502,Gurugram,Haryana,Apartment,Under construction,Aaranya Developers,Aaranya Enclave,RERA-GGN-53885,834,12300000.0,"Flat/House 184, Nagar 42, Gurugram",0
+P3300503,Gurugram,Haryana,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,794,11710000.0,"Flat/House 638, Layout 12, Gurugram",8
+P3300504,Mumbai,Maharashtra,Independent house,Ready / resale,,,,418,10190000.0,"Flat/House 983, Sector 11, Mumbai",21
+P3300505,Kolkata,West Bengal,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Residency,,302,2720000.0,"Flat/House 472, Nagar 28, Kolkata",12
+P3300506,Indore,Madhya Pradesh,Independent house,Ready / resale,,,,864,5180000.0,"Flat/House 803, Ward 25, Indore",13
+P3300507,Ahmedabad,Gujarat,Plot + construction,Ready / resale,,,,1241,9930000.0,"Flat/House 281, Layout 36, Ahmedabad",24
+P3300508,Chennai,Tamil Nadu,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,772,8590000.0,"Flat/House 844, Nagar 37, Chennai",6
+P3300509,Pune,Maharashtra,Plot + construction,Ready / resale,,,,479,4900000.0,"Flat/House 508, Layout 53, Pune",22
+P3300510,Jaipur,Rajasthan,Apartment,Under construction,Aaranya Developers,Aaranya Courtyard,RERA-JAI-38462,414,2690000.0,"Flat/House 834, Layout 26, Jaipur",0
+P3300511,Kochi,Kerala,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,1312,11320000.0,"Flat/House 318, Sector 7, Kochi",21
+P3300512,Chennai,Tamil Nadu,Apartment,Ready / resale,Coastal Homes,Coastal Residency,,598,6650000.0,"Flat/House 747, Layout 7, Chennai",12
+P3300513,Chennai,Tamil Nadu,Independent house,Ready / resale,,,,759,8450000.0,"Flat/House 89, Nagar 26, Chennai",14
+P3300514,Hyderabad,Telangana,Independent house,Ready / resale,,,,404,4350000.0,"Flat/House 189, Layout 31, Hyderabad",3
+P3300515,Chennai,Tamil Nadu,Apartment,Ready / resale,Skyline Habitat,Skyline Greens,,251,2790000.0,"Flat/House 652, Layout 26, Chennai",16
+P3300516,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,951,9750000.0,"Flat/House 657, Sector 12, Pune",6
+P3300517,Kochi,Kerala,Apartment,Ready / resale,Skyline Habitat,Skyline Heights,,1605,13840000.0,"Flat/House 996, Sector 25, Kochi",13
+P3300518,Mumbai,Maharashtra,Independent house,Ready / resale,,,,89,2180000.0,"Flat/House 689, Nagar 44, Mumbai",4
+P3300519,Kolkata,West Bengal,Plot + construction,Ready / resale,,,,403,3630000.0,"Flat/House 835, Nagar 2, Kolkata",21
+P3300520,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,814,5700000.0,"Flat/House 586, Nagar 15, Lucknow",24
+P3300521,Mumbai,Maharashtra,Independent house,Ready / resale,,,,148,3600000.0,"Flat/House 224, Ward 20, Mumbai",12
+P3300522,Ahmedabad,Gujarat,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Courtyard,,484,3870000.0,"Flat/House 799, Nagar 31, Ahmedabad",16
+P3300523,Kolkata,West Bengal,Independent house,Ready / resale,,,,1086,9770000.0,"Flat/House 678, Ward 37, Kolkata",4
+P3300524,Indore,Madhya Pradesh,Plot + construction,Ready / resale,,,,903,5420000.0,"Flat/House 976, Sector 34, Indore",20
+P3300525,Jaipur,Rajasthan,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,646,4200000.0,"Flat/House 422, Nagar 57, Jaipur",17
+P3300526,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,1351,9460000.0,"Flat/House 182, Ward 1, Lucknow",4
+P3300527,Hyderabad,Telangana,Apartment,Under construction,Mahavir Buildcon,Mahavir Enclave,RERA-HYD-89323,296,3180000.0,"Flat/House 380, Layout 19, Hyderabad",0
+P3300528,Kochi,Kerala,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,522,4500000.0,"Flat/House 912, Layout 22, Kochi",20
+P3300529,Jaipur,Rajasthan,Apartment,Under construction,Sundaram Estates,Sundaram Residency,RERA-JAI-29587,886,5760000.0,"Flat/House 594, Ward 55, Jaipur",0
+P3300530,Kolkata,West Bengal,Apartment,Under construction,Greenleaf Realty,Greenleaf Courtyard,RERA-KOL-96725,349,3140000.0,"Flat/House 750, Ward 21, Kolkata",0
+P3300531,Kochi,Kerala,Plot + construction,Ready / resale,,,,683,5890000.0,"Flat/House 136, Sector 24, Kochi",14
+P3300532,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,833,6660000.0,"Flat/House 204, Sector 22, Ahmedabad",10
+P3300533,Mumbai,Maharashtra,Apartment,Ready / resale,Coastal Homes,Coastal Courtyard,,143,3490000.0,"Flat/House 521, Sector 17, Mumbai",17
+P3300534,Hyderabad,Telangana,Apartment,Ready / resale,Sundaram Estates,Sundaram Greens,,1082,11630000.0,"Flat/House 736, Ward 42, Hyderabad",3
+P3300535,Chennai,Tamil Nadu,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,253,2810000.0,"Flat/House 121, Ward 21, Chennai",13
+P3300536,Mumbai,Maharashtra,Independent house,Ready / resale,,,,296,7220000.0,"Flat/House 51, Nagar 34, Mumbai",10
+P3300537,Gurugram,Haryana,Apartment,Ready / resale,Skyline Habitat,Skyline Enclave,,1005,14820000.0,"Flat/House 85, Sector 16, Gurugram",2
+P3300538,Hyderabad,Telangana,Plot + construction,Ready / resale,,,,269,2890000.0,"Flat/House 980, Sector 44, Hyderabad",20
+P3300539,Pune,Maharashtra,Plot + construction,Ready / resale,,,,684,7010000.0,"Flat/House 889, Layout 9, Pune",24
+P3300540,Jaipur,Rajasthan,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,1163,7560000.0,"Flat/House 851, Layout 15, Jaipur",6
+P3300541,Hyderabad,Telangana,Apartment,Ready / resale,Coastal Homes,Coastal Enclave,,189,2030000.0,"Flat/House 335, Layout 27, Hyderabad",12
+P3300542,Kochi,Kerala,Apartment,Under construction,Sundaram Estates,Sundaram Heights,RERA-COK-68992,2456,21180000.0,"Flat/House 433, Nagar 56, Kochi",0
+P3300543,Chennai,Tamil Nadu,Apartment,Under construction,Sundaram Estates,Sundaram Courtyard,RERA-CHE-35856,230,2560000.0,"Flat/House 997, Sector 53, Chennai",0
+P3300544,Gurugram,Haryana,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Heights,,1662,24510000.0,"Flat/House 44, Sector 17, Gurugram",24
+P3300545,Hyderabad,Telangana,Apartment,Under construction,Aaranya Developers,Aaranya Heights,RERA-HYD-80243,607,6520000.0,"Flat/House 824, Nagar 9, Hyderabad",0
+P3300546,Bengaluru,Karnataka,Apartment,Under construction,Mahavir Buildcon,Mahavir Heights,RERA-BLR-97173,456,5580000.0,"Flat/House 710, Sector 6, Bengaluru",0
+P3300547,Kolkata,West Bengal,Apartment,Under construction,Coastal Homes,Coastal Courtyard,RERA-KOL-13163,496,4470000.0,"Flat/House 898, Ward 44, Kolkata",0
+P3300548,Hyderabad,Telangana,Plot + construction,Ready / resale,,,,551,5930000.0,"Flat/House 882, Sector 58, Hyderabad",22
+P3300549,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Courtyard,,591,4140000.0,"Flat/House 280, Layout 41, Lucknow",19
+P3300550,Kochi,Kerala,Plot + construction,Ready / resale,,,,1100,9490000.0,"Flat/House 416, Nagar 34, Kochi",10
+P3300551,Pune,Maharashtra,Apartment,Under construction,Skyline Habitat,Skyline Residency,RERA-PUN-63229,270,2770000.0,"Flat/House 747, Ward 57, Pune",0
+P3300552,Ahmedabad,Gujarat,Independent house,Ready / resale,,,,1083,8670000.0,"Flat/House 239, Sector 26, Ahmedabad",15
+P3300553,Mumbai,Maharashtra,Independent house,Ready / resale,,,,324,7900000.0,"Flat/House 604, Sector 13, Mumbai",13
+P3300554,Pune,Maharashtra,Independent house,Ready / resale,,,,507,5190000.0,"Flat/House 985, Nagar 56, Pune",14
+P3300555,Kolkata,West Bengal,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-KOL-71189,606,5460000.0,"Flat/House 392, Layout 28, Kolkata",0
+P3300556,Chennai,Tamil Nadu,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,854,9500000.0,"Flat/House 764, Layout 9, Chennai",21
+P3300557,Kochi,Kerala,Independent house,Ready / resale,,,,306,2640000.0,"Flat/House 377, Sector 43, Kochi",3
+P3300558,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,1173,12030000.0,"Flat/House 191, Nagar 42, Pune",5
+P3300559,Bengaluru,Karnataka,Plot + construction,Ready / resale,,,,550,6730000.0,"Flat/House 936, Nagar 14, Bengaluru",5
+P3300560,Ahmedabad,Gujarat,Apartment,Ready / resale,Aaranya Developers,Aaranya Courtyard,,964,7710000.0,"Flat/House 708, Layout 60, Ahmedabad",3
+P3300561,Kolkata,West Bengal,Plot + construction,Ready / resale,,,,1622,14600000.0,"Flat/House 228, Layout 1, Kolkata",19
+P3300562,Lucknow,Uttar Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,733,5130000.0,"Flat/House 806, Ward 31, Lucknow",10
+P3300563,Chennai,Tamil Nadu,Apartment,Ready / resale,Coastal Homes,Coastal Residency,,124,1380000.0,"Flat/House 987, Nagar 12, Chennai",25
+P3300564,Lucknow,Uttar Pradesh,Independent house,Ready / resale,,,,408,2860000.0,"Flat/House 66, Nagar 52, Lucknow",10
+P3300565,Gurugram,Haryana,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Heights,,717,10570000.0,"Flat/House 767, Ward 1, Gurugram",24
+P3300566,Jaipur,Rajasthan,Apartment,Ready / resale,Greenleaf Realty,Greenleaf Heights,,764,4970000.0,"Flat/House 742, Nagar 27, Jaipur",18
+P3300567,Mumbai,Maharashtra,Apartment,Under construction,Skyline Habitat,Skyline Heights,RERA-MUM-30586,238,5790000.0,"Flat/House 90, Sector 55, Mumbai",0
+P3300568,Hyderabad,Telangana,Independent house,Ready / resale,,,,538,5780000.0,"Flat/House 777, Ward 55, Hyderabad",15
+P3300569,Indore,Madhya Pradesh,Independent house,Ready / resale,,,,339,2030000.0,"Flat/House 69, Ward 13, Indore",4
+P3300570,Mumbai,Maharashtra,Apartment,Under construction,Mahavir Buildcon,Mahavir Enclave,RERA-MUM-84574,134,3270000.0,"Flat/House 769, Ward 58, Mumbai",0
+P3300571,Jaipur,Rajasthan,Apartment,Ready / resale,Sundaram Estates,Sundaram Enclave,,464,3020000.0,"Flat/House 196, Layout 34, Jaipur",8
+P3300572,Pune,Maharashtra,Apartment,Under construction,Aaranya Developers,Aaranya Greens,RERA-PUN-34253,456,4670000.0,"Flat/House 52, Sector 33, Pune",0
+P3300573,Indore,Madhya Pradesh,Apartment,Ready / resale,Sundaram Estates,Sundaram Heights,,1967,11800000.0,"Flat/House 806, Sector 5, Indore",16
+P3300574,Gurugram,Haryana,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,787,11600000.0,"Flat/House 86, Ward 48, Gurugram",4
+P3300575,Hyderabad,Telangana,Apartment,Ready / resale,Aaranya Developers,Aaranya Residency,,988,10620000.0,"Flat/House 228, Layout 30, Hyderabad",24
+P3300576,Indore,Madhya Pradesh,Apartment,Ready / resale,Aaranya Developers,Aaranya Heights,,1238,7430000.0,"Flat/House 378, Nagar 41, Indore",20
+P3300577,Pune,Maharashtra,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,321,3290000.0,"Flat/House 679, Sector 49, Pune",10
+P3300578,Bengaluru,Karnataka,Apartment,Ready / resale,Sundaram Estates,Sundaram Courtyard,,348,4270000.0,"Flat/House 108, Sector 14, Bengaluru",10
+P3300579,Bengaluru,Karnataka,Apartment,Ready / resale,Mahavir Buildcon,Mahavir Greens,,583,7140000.0,"Flat/House 12, Nagar 18, Bengaluru",16
+P3300580,Chennai,Tamil Nadu,Apartment,Ready / resale,Aaranya Developers,Aaranya Greens,,919,10220000.0,"Flat/House 975, Nagar 26, Chennai",9
+P3300581,Jaipur,Rajasthan,Independent house,Ready / resale,,,,923,6000000.0,"Flat/House 74, Nagar 57, Jaipur",15
+P3300582,Kochi,Kerala,Plot + construction,Ready / resale,,,,741,6390000.0,"Flat/House 523, Nagar 26, Kochi",2
+P3300583,Gurugram,Haryana,Apartment,Under construction,Sundaram Estates,Sundaram Heights,RERA-GGN-33005,230,3390000.0,"Flat/House 828, Sector 4, Gurugram",0
+P3300584,Mumbai,Maharashtra,Apartment,Under construction,Aaranya Developers,Aaranya Heights,RERA-MUM-83611,202,4920000.0,"Flat/House 539, Layout 34, Mumbai",0
+P3300585,Kochi,Kerala,Independent house,Ready / resale,,,,877,7560000.0,"Flat/House 707, Layout 56, Kochi",22
+P3300586,Ahmedabad,Gujarat,Plot + construction,Ready / resale,,,,395,3160000.0,"Flat/House 212, Layout 45, Ahmedabad",21
+P3300587,Ahmedabad,Gujarat,Plot + construction,Ready / resale,,,,285,2280000.0,"Flat/House 340, Layout 15, Ahmedabad",12
+P3300588,Ahmedabad,Gujarat,Apartment,Under construction,Skyline Habitat,Skyline Courtyard,RERA-AMD-94837,1976,15800000.0,"Flat/House 714, Nagar 3, Ahmedabad",0
+P3300589,Hyderabad,Telangana,Apartment,Under construction,Mahavir Buildcon,Mahavir Heights,RERA-HYD-53958,454,4880000.0,"Flat/House 398, Nagar 11, Hyderabad",0
+P3300590,Gurugram,Haryana,Apartment,Under construction,Greenleaf Realty,Greenleaf Residency,RERA-GGN-31629,1138,16780000.0,"Flat/House 701, Ward 37, Gurugram",0
+P3300591,Lucknow,Uttar Pradesh,Apartment,Under construction,Skyline Habitat,Skyline Residency,RERA-LKO-17291,679,4750000.0,"Flat/House 472, Ward 42, Lucknow",0
+P3300592,Indore,Madhya Pradesh,Apartment,Under construction,Skyline Habitat,Skyline Enclave,RERA-IDR-19370,945,5670000.0,"Flat/House 738, Layout 1, Indore",0
+P3300593,Jaipur,Rajasthan,Apartment,Under construction,Coastal Homes,Coastal Enclave,RERA-JAI-59635,495,3220000.0,"Flat/House 73, Layout 50, Jaipur",0
+P3300594,Mumbai,Maharashtra,Independent house,Ready / resale,,,,236,5760000.0,"Flat/House 688, Ward 19, Mumbai",7
+P3300595,Jaipur,Rajasthan,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,1710,11110000.0,"Flat/House 228, Nagar 22, Jaipur",5
+P3300596,Bengaluru,Karnataka,Apartment,Under construction,Sundaram Estates,Sundaram Greens,RERA-BLR-24812,499,6120000.0,"Flat/House 594, Nagar 1, Bengaluru",0
+P3300597,Lucknow,Uttar Pradesh,Plot + construction,Ready / resale,,,,1510,10570000.0,"Flat/House 568, Ward 1, Lucknow",17
+P3300598,Ahmedabad,Gujarat,Apartment,Ready / resale,Sundaram Estates,Sundaram Residency,,1682,13460000.0,"Flat/House 20, Ward 13, Ahmedabad",4
+P3300599,Bengaluru,Karnataka,Apartment,Under construction,Coastal Homes,Coastal Courtyard,RERA-BLR-50536,1007,12340000.0,"Flat/House 37, Sector 26, Bengaluru",0
+P3300600,Hyderabad,Telangana,Apartment,Under construction,Greenleaf Realty,Greenleaf Courtyard,RERA-HYD-13469,385,4140000.0,"Flat/House 95, Nagar 60, Hyderabad",0

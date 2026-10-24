@@ -1,0 +1,37 @@
+[
+ {
+  "name": "application_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "valuer",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "valuation_date",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "market_value",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "realisable_value",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "distress_value",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "remarks",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

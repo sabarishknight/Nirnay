@@ -1,0 +1,27 @@
+[
+ {
+  "name": "loan_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "month",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "emi_due",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "amount_paid",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dpd",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "name": "account_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "customer_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "account_type",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "open_date",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "status",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "avg_monthly_balance_6m",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "current_balance",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

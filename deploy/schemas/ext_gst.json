@@ -1,0 +1,37 @@
+[
+ {
+  "name": "gstin",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "legal_name",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "status",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "registration_date",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "turnover_12m",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "returns_filed_12m",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "returns_late_12m",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

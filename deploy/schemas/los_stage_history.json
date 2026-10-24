@@ -1,0 +1,27 @@
+[
+ {
+  "name": "application_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "stage",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "entered_on",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "exited_on",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "working_days",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

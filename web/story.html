@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Approach | Nirnay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/app.css">
+<style>
+  body { background: #fff; }
+  .story-top { max-width: 1180px; margin: 0 auto; padding: 40px 20px 0; }
+  .story { display: grid; grid-template-columns: minmax(0, 1fr) 330px; gap: 56px; max-width: 1180px; margin: 0 auto; padding: 0 20px 80px; }
+  @media (max-width: 980px) { .story { grid-template-columns: minmax(0, 1fr); gap: 0; } .file-col { display: none; } .intro h1 { font-size: 28px; } }
+  .story > * { min-width: 0; }
+  .intro h1 { font-size: 36px; line-height: 1.15; max-width: 22ch; letter-spacing: -0.015em; }
+  .intro p.lead { font-size: 18px; color: var(--ink-2); max-width: 60ch; margin-top: 14px; line-height: 1.55; }
+  .act-head { margin: 48px 0 8px; padding-top: 18px; border-top: 2px solid var(--ink); display: flex; gap: 18px; align-items: baseline; }
+  .act-head .act { font-size: 14px; color: var(--navy); font-weight: 600; white-space: nowrap; }
+  .act-head h2 { font-size: 28px; letter-spacing: -0.01em; }
+  .beat { padding: 26px 0 8px; }
+  .beat h3 { font-size: 19px; margin-bottom: 8px; }
+  .beat p { font-size: 15.5px; line-height: 1.65; color: #26303b; max-width: 66ch; }
+  .approach { margin: 28px 0 0; border: 1px solid var(--line); border-radius: 8px; padding: 18px; background: #fbfcfd; }
+  .approach-scroll { overflow-x: auto; }
+  .approach svg { width: 100%; min-width: 720px; height: auto; display: block; }
+  /* sources */
+  .sources { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 16px 0 6px; }
+  @media (max-width: 700px) { .sources { grid-template-columns: 1fr; } }
+  .src-col h4 { font-size: 13px; color: var(--ink-2); font-weight: 500; margin-bottom: 8px; }
+  .src { border: 1px solid var(--line); border-radius: var(--r); padding: 8px 10px; margin-bottom: 6px; font-size: 13.5px; background: #fff; }
+  .src small { display: block; color: var(--ink-3); font-size: 12px; }
+  /* layers */
+  .layers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; margin: 18px 0 8px; border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; }
+  @media (max-width: 700px) { .layers { grid-template-columns: 1fr; } }
+  .layer { padding: 14px 16px; border-right: 1px solid var(--line); position: relative; }
+  .layer:last-child { border-right: 0; }
+  .layer .ln { font-size: 12.5px; color: var(--ink-3); }
+  .layer h4 { font-size: 15px; margin: 2px 0 8px; }
+  .layer p { font-size: 13.5px !important; margin: 0 0 10px; }
+  .layer .eg { font-family: var(--mono); font-size: 11.5px; background: #f6f7f9; border-radius: 4px; padding: 8px; color: #2b3540; line-height: 1.5; }
+  .layer.l1 { background: #fafbfc; } .layer.l2 { background: #f5f8fb; } .layer.l3 { background: var(--navy-weak); }
+  /* swimlane */
+  .lanes { width: 100%; border-collapse: collapse; font-size: 13px; margin: 14px 0; }
+  .lanes th, .lanes td { border-bottom: 1px solid var(--line-2); padding: 8px 8px; text-align: left; vertical-align: top; }
+  .lanes th { font-weight: 500; color: var(--ink-3); font-size: 12.5px; }
+  .lanes td.who { white-space: nowrap; font-weight: 500; }
+  .lanes .a { color: var(--navy); }
+  .lanes .h { color: var(--pass); }
+  .tri { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 14px 0; }
+  @media (max-width: 800px) { .tri { grid-template-columns: 1fr; } }
+  .tri > div { border: 1px solid var(--line); border-radius: var(--r); padding: 14px; }
+  .tri h4 { font-size: 15px; margin-bottom: 6px; }
+  .tri p { font-size: 13.5px !important; margin: 0; }
+  .tri .eg { margin-top: 8px; font-size: 12.5px; color: var(--ink-2); border-top: 1px solid var(--line-2); padding-top: 8px; }
+  .value { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 14px; }
+  .value td, .value th { padding: 10px 8px; border-bottom: 1px solid var(--line-2); text-align: left; vertical-align: top; }
+  .value th { font-size: 12.5px; color: var(--ink-3); font-weight: 500; }
+  .value td:first-child { font-weight: 500; }
+  .pilot { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; border: 1px solid var(--line); border-radius: var(--r); margin-top: 14px; }
+  @media (max-width: 800px) { .pilot { grid-template-columns: 1fr; } }
+  .pilot > div { padding: 14px 16px; border-right: 1px solid var(--line); }
+  .pilot > div:last-child { border-right: 0; }
+  .pilot .wk { font-size: 12.5px; color: var(--ink-3); }
+  .pilot h4 { margin: 2px 0 6px; font-size: 15px; }
+  .pilot p { font-size: 13.5px !important; margin: 0; }
+  /* the file that fills as you read */
+  .file-col { position: relative; }
+  .file { position: sticky; top: 90px; border: 1px solid var(--line); border-radius: 8px; background: #fbfbfc; padding: 16px 16px 14px; font-size: 13px; }
+  .file .tab { position: absolute; top: -13px; left: 16px; background: #fbfbfc; border: 1px solid var(--line); border-bottom: 0; border-radius: 6px 6px 0 0; padding: 2px 10px; font-size: 12px; color: var(--ink-3); }
+  .file h4 { font-size: 15px; }
+  .file .sub { color: var(--ink-3); font-size: 12.5px; margin-bottom: 10px; }
+  .file .grp { font-size: 12px; color: var(--ink-3); margin: 10px 0 4px; }
+  .file .it { display: flex; justify-content: space-between; gap: 8px; padding: 4px 0; color: var(--ink-3); transition: color .3s; border-bottom: 1px dashed var(--line-2); }
+  .file .it .v { font-variant-numeric: tabular-nums; opacity: 0; transition: opacity .3s; }
+  .file .it.on { color: var(--ink); }
+  .file .it.on .v { opacity: 1; }
+  .file .it .v.pass { color: var(--pass); } .file .it .v.flag { color: var(--flag); }
+  .file .clock { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line); display: flex; justify-content: space-between; }
+  .file .clock b { font-variant-numeric: tabular-nums; }
+  .file .stamp { margin: 12px auto 0; width: max-content; border: 3px solid var(--stamp); color: var(--stamp); border-radius: 6px; padding: 4px 12px; transform: rotate(-5deg); font-weight: 600; letter-spacing: .06em; opacity: 0; transition: opacity .2s; }
+  .file.sanctioned .stamp { opacity: 1; animation: press .45s cubic-bezier(.2,.9,.3,1.2) both; }
+  @keyframes press { from { transform: rotate(-5deg) scale(1.6); opacity: 0; } to { transform: rotate(-5deg) scale(1); opacity: 1; } }
+</style>
+</head>
+<body>
+<div class="story-top">
+    <header class="intro">
+      <h1>One home loan file, nine systems, eighteen working days.</h1>
+      <p class="lead">This is the approach in two acts. First, bring the file together once, in a lakehouse. Then let one agent work the file against your policy, so your credit officer starts from a drafted, sourced note instead of a pile of PDFs. Follow Priya's file on the right as you read.</p>
+    </header>
+
+    <figure class="approach" aria-label="Approach diagram: sources flow into a three-layer lakehouse (Act 1); one credit case agent works on top of it and hands off to people (Act 2)">
+      <div class="approach-scroll"><svg viewBox="0 0 1000 404" role="img" font-family="IBM Plex Sans, system-ui, sans-serif">
+        <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6b7480"/></marker></defs>
+        <!-- act bands -->
+        <text x="232" y="18" font-size="13" font-weight="600" fill="#173a5e">Act 1: lakehouse</text>
+        <text x="582" y="18" font-size="13" font-weight="600" fill="#173a5e">Act 2: agent and people</text>
+        <line x1="232" y1="26" x2="548" y2="26" stroke="#173a5e" stroke-width="2"/>
+        <line x1="582" y1="26" x2="1000" y2="26" stroke="#173a5e" stroke-width="2"/>
+        <!-- sources -->
+        <text x="0" y="52" font-size="12" fill="#6b7480">Sources</text>
+        <g font-size="12" fill="#18212b">
+          <rect x="0" y="62" width="190" height="88" rx="6" fill="#fff" stroke="#dce1e6"/>
+          <text x="12" y="82" font-weight="600">Documents and policy</text>
+          <text x="12" y="102" fill="#4a5563">Payslips, ITR, sale deeds</text><text x="12" y="120" fill="#4a5563">Credit policy, RBI circulars</text><text x="12" y="138" fill="#4a5563">Legal, valuation reports</text>
+          <rect x="0" y="162" width="190" height="70" rx="6" fill="#fff" stroke="#dce1e6"/>
+          <text x="12" y="182" font-weight="600">Bank systems</text>
+          <text x="12" y="202" fill="#4a5563">Core banking</text><text x="12" y="220" fill="#4a5563">Loan origination</text>
+          <rect x="0" y="244" width="190" height="106" rx="6" fill="#fff" stroke="#dce1e6"/>
+          <text x="12" y="264" font-weight="600">Outside the bank</text>
+          <text x="12" y="284" fill="#4a5563">CIBIL, CERSAI</text><text x="12" y="302" fill="#4a5563">PAN, CKYC</text><text x="12" y="320" fill="#4a5563">Account Aggregator</text><text x="12" y="338" fill="#4a5563">EPFO, GST</text>
+        </g>
+        <path d="M192,106 C215,106 215,200 230,200" fill="none" stroke="#6b7480" stroke-width="1.5" marker-end="url(#ah)"/>
+        <path d="M192,197 L230,200" fill="none" stroke="#6b7480" stroke-width="1.5" marker-end="url(#ah)"/>
+        <path d="M192,297 C215,297 215,200 230,200" fill="none" stroke="#6b7480" stroke-width="1.5" marker-end="url(#ah)"/>
+        <!-- lakehouse -->
+        <rect x="232" y="44" width="316" height="306" rx="8" fill="#e9eff6" stroke="#b9c8da"/>
+        <text x="248" y="66" font-size="13" font-weight="600" fill="#173a5e">BigQuery, Mumbai region</text>
+        <g font-size="12">
+          <rect x="248" y="80" width="90" height="250" rx="6" fill="#fff" stroke="#dce1e6"/>
+          <text x="260" y="102" font-weight="600" fill="#18212b">Raw</text>
+          <text x="260" y="124" fill="#4a5563">As it</text><text x="260" y="140" fill="#4a5563">arrived;</text><text x="260" y="156" fill="#4a5563">never</text><text x="260" y="172" fill="#4a5563">overwritten</text>
+          <rect x="350" y="80" width="90" height="250" rx="6" fill="#fff" stroke="#dce1e6"/>
+          <text x="362" y="102" font-weight="600" fill="#18212b">Curated</text>
+          <text x="362" y="124" fill="#4a5563">Cleaned,</text><text x="362" y="140" fill="#4a5563">joined: one</text><text x="362" y="156" fill="#4a5563">view of the</text><text x="362" y="172" fill="#4a5563">applicant</text>
+          <rect x="452" y="80" width="84" height="250" rx="6" fill="#fff" stroke="#173a5e"/>
+          <text x="462" y="102" font-weight="600" fill="#173a5e">Decision-</text><text x="462" y="118" font-weight="600" fill="#173a5e">ready</text>
+          <text x="462" y="140" fill="#4a5563">FOIR, LTV,</text><text x="462" y="156" fill="#4a5563">income,</text><text x="462" y="172" fill="#4a5563">screening</text>
+          <text x="256" y="292" font-size="11" fill="#6b7480">Priya: 12</text><text x="256" y="308" font-size="11" fill="#6b7480">salary rows</text>
+          <text x="358" y="292" font-size="11" fill="#6b7480">Avg salary</text><text x="358" y="308" font-size="11" fill="#6b7480">₹1,42,469</text>
+          <text x="460" y="292" font-size="11" fill="#173a5e">FOIR 47.7%</text><text x="460" y="308" font-size="11" fill="#173a5e">cap 60%</text>
+        </g>
+        <path d="M339,205 L348,205" stroke="#6b7480" stroke-width="1.5" marker-end="url(#ah)"/>
+        <path d="M441,205 L450,205" stroke="#6b7480" stroke-width="1.5" marker-end="url(#ah)"/>
+        <path d="M537,200 L580,200" stroke="#173a5e" stroke-width="2" marker-end="url(#ah)"/>
+        <!-- agent -->
+        <rect x="582" y="44" width="230" height="306" rx="8" fill="#fff" stroke="#173a5e" stroke-width="1.5"/>
+        <text x="598" y="66" font-size="13" font-weight="600" fill="#173a5e">Credit case agent</text>
+        <g font-size="12" fill="#18212b">
+          <text x="598" y="96">1  Open the file</text><text x="598" y="128">2  Read documents</text><text x="598" y="160">3  Verify, in parallel</text>
+          <text x="598" y="192">4  Apply policy</text><text x="598" y="224">5  Recommend, route</text><text x="598" y="256">6  Draft the note</text><text x="598" y="288">7  Hand off</text>
+        </g>
+        <text x="598" y="320" font-size="11.5" fill="#6b7480">Gemini reads and writes;</text><text x="598" y="336" font-size="11.5" fill="#6b7480">code calculates and cites</text>
+        <path d="M813,200 L846,200" stroke="#173a5e" stroke-width="2" marker-end="url(#ah)"/>
+        <!-- people -->
+        <text x="850" y="52" font-size="12" fill="#6b7480">People decide</text>
+        <g font-size="12">
+          <rect x="850" y="62" width="150" height="70" rx="6" fill="#e6f3ec" stroke="#b8dcc7"/>
+          <text x="862" y="84" font-weight="600" fill="#18212b">Credit officer</text><text x="862" y="104" fill="#4a5563">Edits, accepts or</text><text x="862" y="120" fill="#4a5563">overrides with reason</text>
+          <rect x="850" y="144" width="150" height="70" rx="6" fill="#e6f3ec" stroke="#b8dcc7"/>
+          <text x="862" y="166" font-weight="600" fill="#18212b">Higher authority</text><text x="862" y="186" fill="#4a5563">Approves deviations</text><text x="862" y="202" fill="#4a5563">per delegation</text>
+          <rect x="850" y="226" width="150" height="54" rx="6" fill="#e6f3ec" stroke="#b8dcc7"/>
+          <text x="862" y="248" font-weight="600" fill="#18212b">Legal, valuer, RCU</text><text x="862" y="266" fill="#4a5563">Stay human</text>
+          <rect x="850" y="292" width="150" height="58" rx="6" fill="#fff" stroke="#dce1e6"/>
+          <text x="862" y="314" font-weight="600" fill="#18212b">Applicant</text><text x="862" y="332" fill="#4a5563">Status, KFS, consent</text>
+        </g>
+        <!-- feedback and policy watch -->
+        <path d="M925,352 L925,368 L720,368 L720,356" fill="none" stroke="#1c7a4a" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#ah)"/>
+        <text x="736" y="394" font-size="12" fill="#1c7a4a">Overrides feed back into policy</text>
+        <path d="M494,332 L494,368 L640,368 L640,356" fill="none" stroke="#173a5e" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#ah)"/>
+        <text x="248" y="394" font-size="12" fill="#173a5e">Policy watch re-screens open files when a rule changes</text>
+      </svg></div>
+    </figure>
+</div>
+<div class="story">
+  <article>
+
+
+    <!-- ============================================================ ACT 1 -->
+    <div class="act-head" id="act1"><span class="act">Act 1</span><h2>The lakehouse: bring the file together once</h2></div>
+
+    <section class="beat" data-stage="1">
+      <h3>Today, the file lives in nine places</h3>
+      <p>Priya applies for ₹68 lakh to buy a flat in Pune. To appraise her, a credit officer opens the loan origination system, core banking, a shared drive of scanned PDFs, the CIBIL portal, the CERSAI portal, and waits on the valuer and the panel advocate. Each source has its own format and its own delay, and the officer re-keys numbers between them. Most of the 18 days is waiting and re-keying, not judgement.</p>
+      <div class="sources">
+        <div class="src-col"><h4>Documents and policy</h4>
+          <div class="src">Applicant documents<small>Salary slips, Form 16, ITR, bank statements, sale agreement</small></div>
+          <div class="src">Credit policy and RBI circulars<small>Change several times a year</small></div>
+          <div class="src">Legal and valuation reports<small>From panel advocates and valuers</small></div></div>
+        <div class="src-col"><h4>The bank's own systems</h4>
+          <div class="src">Core banking<small>Accounts, salary credits, existing loans, repayments</small></div>
+          <div class="src">Loan origination system<small>Application, stage, assigned officer</small></div></div>
+        <div class="src-col"><h4>Outside the bank</h4>
+          <div class="src">Credit bureau (CIBIL)<small>Score, loans elsewhere, enquiries</small></div>
+          <div class="src">CERSAI<small>Existing charges on the property</small></div>
+          <div class="src">PAN, CKYC, Account Aggregator<small>Identity and consented bank data</small></div>
+          <div class="src">EPFO, GST<small>Employment and business turnover</small></div></div>
+      </div>
+    </section>
+
+    <section class="beat" data-stage="2">
+      <h3>Land everything as it arrives, then refine it in three layers</h3>
+      <p>Every source lands in BigQuery as it is: core banking through change-data-capture, documents as files with the fields read from them, and every bureau or CERSAI response saved exactly as returned. Nothing is overwritten, so any figure in a note for sanction can be traced back to the raw record behind it.</p>
+      <div class="layers">
+        <div class="layer l1"><div class="ln">Layer 1</div><h4>Raw</h4><p>Exactly what arrived, when it arrived.</p>
+          <div class="eg">core_txn_monthly<br>12 monthly rows; last 3<br>salary credits:<br>1,43,136  1,42,141  1,42,129</div></div>
+        <div class="layer l2"><div class="ln">Layer 2</div><h4>Curated</h4><p>Cleaned and joined: one view of the applicant.</p>
+          <div class="eg">bank_income<br>salary_credit_avg_3m<br>= ₹1,42,469</div></div>
+        <div class="layer l3"><div class="ln">Layer 3</div><h4>Decision-ready</h4><p>The numbers policy is written in, computed the same way for every file.</p>
+          <div class="eg">application_features<br>FOIR 47.7% (cap 60%)<br>LTV 73.9% (cap 80%)</div></div>
+      </div>
+    </section>
+
+    <section class="beat" data-stage="3">
+      <h3>The payoff: one version of the customer, computed one way</h3>
+      <p>Because FOIR, LTV and income are computed in the lakehouse rather than in each officer's spreadsheet, two branches can no longer reach two answers on the same facts. The same layer feeds the lending head's dashboard and, in Act 2, the agent. It also makes the bank's portfolio questions cheap: "which files in progress would breach policy if the repo rate rose?" is one query, not a week of calls.</p>
+      <div class="callout">Act 1 is valuable on its own. A bank can stop here and still get consistency and an audit trail. Act 2 is what turns the data into hours saved.</div>
+    </section>
+
+    <!-- ============================================================ ACT 2 -->
+    <div class="act-head" id="act2"><span class="act">Act 2</span><h2>The agent: let it work the file, let people decide</h2></div>
+
+    <section class="beat" data-stage="4">
+      <h3>One agent, the same seven steps on every file</h3>
+      <p>We use one well-designed credit case agent, not a swarm. It runs a fixed sequence, because consistency is the point, and fans out only where work is independent: the external checks run in parallel. It reads documents and writes the note with Gemini; every rule and every number is computed in code and cites a policy clause. It never sanctions or declines.</p>
+      <table class="lanes">
+        <thead><tr><th>Step</th><th>Agent does</th><th>People do</th></tr></thead>
+        <tbody>
+          <tr><td class="who">1 Open the file</td><td class="a">Reads the application and history from the lakehouse</td><td></td></tr>
+          <tr><td class="who">2 Read documents</td><td class="a">Reads each PDF, cross-checks payslip, Form 16, bank credits, EPFO</td><td></td></tr>
+          <tr><td class="who">3 Verify</td><td class="a">Calls PAN/CKYC, CIBIL, CERSAI, Account Aggregator, EPFO or GST at once</td><td class="h">Applicant gives consent</td></tr>
+          <tr><td class="who">4 Apply policy</td><td class="a">Up to 14 checks, each with its clause and source</td><td class="h">Advocate and valuer write their reports</td></tr>
+          <tr><td class="who">5 Recommend</td><td class="a">Sanction, deviation, hold or decline; finds the right authority</td><td></td></tr>
+          <tr><td class="who">6 Draft note</td><td class="a">Writes the note for sanction from verified facts only</td><td></td></tr>
+          <tr><td class="who">7 Hand off</td><td></td><td class="h">Officer edits, accepts or overrides with a reason; authority approves deviations; RCU verifies suspected fraud</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="beat" data-stage="5">
+      <h3>Where it earns its keep</h3>
+      <p>Checking a clean file faster is useful. The real value is in the files that are not clean, where officers spend most of their time.</p>
+      <div class="tri">
+        <div><h4>Deviations come with a way out</h4><p>When FOIR is just over the cap, the agent does not stop at "refer". It works out what would bring the file within policy.</p>
+          <div class="eg">Arjun Mehta: FOIR 55.5% vs 55%. Reduce to ₹54.4 lakh, extend to 22 years, or add his wife as co-owner (FOIR 39.9%).</div></div>
+        <div><h4>Contradictions surface on day one</h4><p>Documents are checked against independent sources, not just read.</p>
+          <div class="eg">Sunita Yadav: the seller says the house is unencumbered; CERSAI and the EC show a 2019 mortgage with no release. Legal query raised before sanction, not after disbursement.</div></div>
+        <div><h4>Policy changes reach files already in progress</h4><p>When a rule changes, the agent re-screens every open file in the lakehouse.</p>
+          <div class="eg">RBI raised the repo rate to 5.50% on 7 Oct 2026. Fifteen files in progress now breach their FOIR cap, worth ₹9.5 crore.</div></div>
+      </div>
+    </section>
+
+    <section class="beat" data-stage="6">
+      <h3>People stay in charge, and the agent learns from them</h3>
+      <p>The credit officer sees every check, every source and the drafted note, and can change any of it. Overriding the agent takes one reason, which is stored. Deviations go to the authority in the delegation of powers. Declines need a human and written reasons to the applicant. Suspected fraud goes to the Risk Containment Unit as a check, never as an accusation. Override reasons are reviewed monthly: if officers keep accepting something the policy rejects, the policy or the agent changes.</p>
+    </section>
+
+    <section class="beat" id="value" data-stage="7">
+      <h3>What changes for the bank</h3>
+      <table class="value">
+        <thead><tr><th></th><th>Today</th><th>With the lakehouse and agent</th></tr></thead>
+        <tbody>
+          <tr><td>Login to sanction</td><td>About 18 working days in this book</td><td>About 8.5 (estimate); legal and valuation remain the long pole</td></tr>
+          <tr><td>Officer time per file</td><td>Hours re-keying and chasing</td><td>Review and judgement on a drafted note</td></tr>
+          <tr><td>Consistency</td><td>Depends on branch and officer</td><td>Same checks, same order, same arithmetic on every file</td></tr>
+          <tr><td>Compliance evidence</td><td>Reconstructed at audit</td><td>Every step logged with its source and clause</td></tr>
+          <tr><td>Policy change</td><td>Applies to new files only</td><td>Open files re-screened the same day</td></tr>
+          <tr><td>Customer</td><td>"Where is my file?"</td><td>Stage-by-stage status and the KFS on sanction</td></tr>
+        </tbody>
+      </table>
+      <p class="muted" style="font-size:13px">The turnaround estimate assumes consented API pulls replace document chasing at login (2 days to half a day), the agent review replaces manual appraisal (5 days to 1), CERSAI and encumbrance checks start on day one (legal and technical 8.5 days to 6), and routing to the right authority is immediate (2.6 days to 1). A pilot measures the real figures.</p>
+    </section>
+
+    <section class="beat" data-stage="8">
+      <h3>How we would start: a six-week pilot</h3>
+      <p>Low risk first. The agent runs in shadow mode on one region's home loans before any officer relies on it.</p>
+      <div class="pilot">
+        <div><div class="wk">Weeks 1 to 2</div><h4>Lakehouse slice</h4><p>Land core banking, loan origination and bureau data for one region in BigQuery (Mumbai region). Encode the home-loan policy as clauses and rules with your credit policy team.</p></div>
+        <div><div class="wk">Weeks 3 to 4</div><h4>Shadow mode</h4><p>The agent reviews every new file; officers decide as today. We measure agreement, catch-rate on deviations and time per file.</p></div>
+        <div><div class="wk">Weeks 5 to 6</div><h4>Assisted mode</h4><p>Officers start from the agent's note in two branches. Go or no-go on measured turnaround, override rate and audit findings.</p></div>
+      </div>
+      <p style="margin-top:18px"><a class="btn primary" href="/demo">Try it on the officer desk</a> &nbsp; <a class="btn" href="/architecture">See the architecture</a></p>
+    </section>
+  </article>
+
+  <aside class="file-col" aria-hidden="true">
+    <div class="file" id="file">
+      <span class="tab">Loan file</span>
+      <h4>Priya Raghavan</h4>
+      <div class="sub mono">HL-2026-104401, ₹68 lakh, 25 years</div>
+      <div class="grp">Brought together (Act 1)</div>
+      <div class="it" data-on="1"><span>Application</span><span class="v">received</span></div>
+      <div class="it" data-on="2"><span>Core banking</span><span class="v">since 2016</span></div>
+      <div class="it" data-on="2"><span>Salary slips, Form 16</span><span class="v">4 documents</span></div>
+      <div class="it" data-on="2"><span>CIBIL</span><span class="v">792</span></div>
+      <div class="it" data-on="2"><span>CERSAI</span><span class="v pass">no charge</span></div>
+      <div class="it" data-on="3"><span>FOIR</span><span class="v pass">47.7% / 60%</span></div>
+      <div class="it" data-on="3"><span>LTV</span><span class="v pass">73.9% / 80%</span></div>
+      <div class="grp">Worked by the agent (Act 2)</div>
+      <div class="it" data-on="4"><span>Policy checks</span><span class="v pass">12 pass, 0 flags</span></div>
+      <div class="it" data-on="5"><span>Recommendation</span><span class="v">Sanction</span></div>
+      <div class="it" data-on="5"><span>Note for sanction</span><span class="v">drafted</span></div>
+      <div class="it" data-on="6"><span>Credit officer</span><span class="v">reviewed</span></div>
+      <div class="clock"><span>Credit decision</span><b id="days">not started</b></div>
+      <div class="stamp">SANCTIONED</div>
+    </div>
+  </aside>
+</div>
+<script src="/static/js/common.js"></script>
+<script>
+const file = document.getElementById("file");
+function setStage(n) {
+  file.querySelectorAll(".it").forEach(i => i.classList.toggle("on", +i.dataset.on <= n));
+  document.getElementById("days").textContent = n >= 6 ? "same day" : n >= 4 ? "agent reviewing" : n >= 1 ? "file assembling" : "not started";
+  file.classList.toggle("sanctioned", n >= 6);
+}
+const seen = new Set();
+const io = new IntersectionObserver(es => {
+  es.forEach(e => { if (e.isIntersecting) seen.add(+e.target.dataset.stage); else if (e.boundingClientRect.top > 0) seen.delete(+e.target.dataset.stage); });
+  setStage(Math.max(0, ...seen));
+}, { rootMargin: "-35% 0px -55% 0px" });
+document.querySelectorAll("[data-stage]").forEach(s => io.observe(s));
+</script>
+</body>
+</html>

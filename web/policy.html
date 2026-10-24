@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Policy library | Nirnay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/app.css">
+<style>@media(max-width:1000px){#pl{grid-template-columns:1fr!important}} .cl{padding:14px 18px;border-bottom:1px solid var(--line-2)} .cl:last-child{border-bottom:0} .cl p{margin:6px 0 0;font-size:14px;color:#26303b;max-width:80ch} .grp{padding:10px 18px;background:#f7f8fa;border-bottom:1px solid var(--line);font-weight:500}</style></head>
+<body>
+<main class="wrap"><div class="page-head"><div><h1>Policy library</h1><p>The clauses the agent cites. The home loan policy is illustrative, written for this demo; the RBI and statutory entries summarise real public documents and link to them.</p></div>
+<a class="btn" href="/static/docs/policy/home_loan_credit_policy_v4_2.pdf">Download the policy (PDF)</a></div>
+<div class="grid" style="grid-template-columns:minmax(0,1fr) 380px;align-items:start" id="pl">
+<div class="panel" id="clauses"><div class="empty">Loading…</div></div>
+<div class="panel" style="position:sticky;top:72px"><div class="panel-h"><strong>Ask the policy</strong></div><div class="panel-b">
+<p style="font-size:13.5px;margin-top:0">Answers come only from these clauses, with references. Try one of these:</p>
+<div style="display:flex;flex-direction:column;gap:6px;margin-bottom:10px" id="sugg"></div>
+<textarea id="q" rows="3" placeholder="Can a co-applicant's income be added if she is not on the title?"></textarea>
+<div style="margin-top:8px"><button class="btn primary" id="ask">Ask</button></div><div id="ans" style="margin-top:12px;font-size:14px"></div></div></div></div></main>
+<script src="/static/js/common.js"></script>
+<script>const S=["Can a co-applicant's income be added if she is not on the title?","What is the LTV cap on a ₹60 lakh loan?","Who can approve a file with one deviation?","What happens if CERSAI shows another lender's charge?"];
+document.getElementById("sugg").innerHTML=S.map(s=>`<button class="btn sm" style="justify-content:flex-start;text-align:left">${esc(s)}</button>`).join("");
+document.querySelectorAll("#sugg button").forEach(b=>b.onclick=()=>{document.getElementById("q").value=b.textContent;ask();});
+api("/api/policy/clauses").then(j=>{const g={};j.clauses.forEach(c=>{const k=c.clause_id.startsWith("HLP")?"Home Loan Credit Policy v4.2 (illustrative)":"RBI and statutory references";(g[k]=g[k]||[]).push(c);});
+document.getElementById("clauses").innerHTML=Object.entries(g).map(([k,cs])=>`<div class="grp">${esc(k)}</div>`+cs.map(c=>`<div class="cl" id="${c.clause_id}"><span class="clause">${esc(c.clause_id)}</span> <b>${esc(c.title)}</b>${c.clause_id.startsWith("HLP")?"":`<div class="muted" style="font-size:12.5px;margin-top:4px">${esc(c.document)}</div>`}<p>${esc(c.text)}</p>${c.source_url?`<p style="font-size:13px"><a href="${esc(c.source_url)}" target="_blank" rel="noopener">Source</a></p>`:""}</div>`).join("")).join("");});
+async function ask(){const q=document.getElementById("q").value;const a=document.getElementById("ans");a.innerHTML='<span class="muted">Looking it up…</span>';
+try{const r=await api("/api/ask",{method:"POST",body:JSON.stringify({question:q})});a.innerHTML=`<p>${esc(r.answer).replace(/\[([A-Z0-9-]+)\]/g,'<a class="clause" href="#$1">$1</a>')}</p><p class="muted" style="font-size:12.5px">${r.how.mode==="gemini"?"Answered by "+esc(r.how.model):"Offline mode: closest clauses shown"}</p>`;}catch(e){a.innerHTML=`<div class="msg err">${esc(e.message)}</div>`;}}
+document.getElementById("ask").onclick=ask;</script>
+</body>
+</html>

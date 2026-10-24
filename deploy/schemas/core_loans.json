@@ -1,0 +1,52 @@
+[
+ {
+  "name": "loan_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "customer_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "product",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "lender",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "sanctioned_amount",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "outstanding",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "emi",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "interest_rate",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "start_date",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "status",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

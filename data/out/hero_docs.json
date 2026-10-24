@@ -1,0 +1,244 @@
+{
+ "HL-2026-104401": [
+  {
+   "doc_key": "salary_slip",
+   "doc_type": "Salary slip (3 months)",
+   "file": "/static/docs/HL-2026-104401/salary_slip.pdf",
+   "fields": {
+    "employee_name": "Priya Raghavan",
+    "employee_id": "KI-20817",
+    "designation": "Senior Software Engineer",
+    "pan": "BQRPR4821K",
+    "gross_monthly": 198500,
+    "deductions_monthly": 56300,
+    "net_monthly_avg_3m": 142117,
+    "months": "Aug, Sep, Oct 2026"
+   },
+   "text": "Employee: Priya Raghavan (KI-20817)\nDesignation: Senior Software Engineer\nPAN: BQRPR4821K\nUAN: 103399380267"
+  },
+  {
+   "doc_key": "form16",
+   "doc_type": "Form 16 (2 years)",
+   "file": "/static/docs/HL-2026-104401/form16.pdf",
+   "fields": {
+    "employer": "Kestrel Infotech Ltd",
+    "tan": "PNEK01234E",
+    "employee": "Priya Raghavan",
+    "pan": "BQRPR4821K",
+    "gross_salary_annual": 2310000,
+    "tax_deducted_annual": 512400,
+    "net_after_tax_monthly_equiv": 149800
+   },
+   "text": "employer: Kestrel Infotech Ltd\ntan: PNEK01234E\nemployee: Priya Raghavan\npan: BQRPR4821K\ngross_salary_annual: 2310000\ntax_deducted_annual: 512400\nnet_after_tax_monthly_equiv: 149800"
+  },
+  {
+   "doc_key": "bank_statement",
+   "doc_type": "Bank statement (6 months)",
+   "file": "/static/docs/HL-2026-104401/bank_statement.pdf",
+   "fields": {
+    "account_holder": "Priya Raghavan",
+    "avg_monthly_salary_credit": 142300,
+    "salary_credits_found": 6,
+    "emi_debits": "Car loan Rs 14,500 monthly",
+    "cheque_bounces": 0,
+    "avg_eod_balance": 402000
+   },
+   "text": "account_holder: Priya Raghavan\navg_monthly_salary_credit: 142300\nsalary_credits_found: 6\nemi_debits: Car loan Rs 14,500 monthly\ncheque_bounces: 0\navg_eod_balance: 402000"
+  },
+  {
+   "doc_key": "allotment",
+   "doc_type": "Sale agreement / allotment letter",
+   "file": "/static/docs/HL-2026-104401/allotment.pdf",
+   "fields": {
+    "buyer": "Priya Raghavan",
+    "unit": "Tower B, Flat 1104",
+    "carpet_area_sqft": 1085,
+    "agreement_value": 9200000,
+    "stamp_duty_and_registration": 640000,
+    "rera_number": "RERA-PUN-52118",
+    "construction_stage": "9th-floor slab, 62% complete",
+    "possession_date": "June 2028"
+   },
+   "text": "buyer: Priya Raghavan\nunit: Tower B, Flat 1104\ncarpet_area_sqft: 1085\nagreement_value: 9200000\nstamp_duty_and_registration: 640000\nrera_number: RERA-PUN-52118\nconstruction_stage: 9th-floor slab, 62% complete\npossession_date: June 2028"
+  }
+ ],
+ "HL-2026-104402": [
+  {
+   "doc_key": "itr",
+   "doc_type": "ITR with computation (2 years)",
+   "file": "/static/docs/HL-2026-104402/itr.pdf",
+   "fields": {
+    "name": "Arjun Mehta",
+    "pan": "AKZPM7712D",
+    "business": "Mehta Packaging (proprietorship)",
+    "income_after_tax_fy2024_25": 1102000,
+    "income_after_tax_fy2025_26": 1197000,
+    "depreciation_fy2024_25": 26000,
+    "depreciation_fy2025_26": 27000,
+    "turnover_fy2025_26": 7940000,
+    "assessed_monthly_income": 98000
+   },
+   "text": "Name / PAN: Arjun Mehta / AKZPM7712D\nBusiness: Mehta Packaging (proprietorship), Ahmedabad\nAverage cash income over 2 years: Rs 11,76,000 a year, i.e. Rs 98,000 a month."
+  },
+  {
+   "doc_key": "gst",
+   "doc_type": "GST returns (12 months)",
+   "file": "/static/docs/HL-2026-104402/gst.pdf",
+   "fields": {
+    "gstin": "24AKZPM7712D1Z5",
+    "turnover_12m": 8160000,
+    "returns_filed": 12,
+    "returns_filed_late": 1,
+    "status": "Active"
+   },
+   "text": "gstin: 24AKZPM7712D1Z5\nturnover_12m: 8160000\nreturns_filed: 12\nreturns_filed_late: 1\nstatus: Active"
+  },
+  {
+   "doc_key": "bank_statement",
+   "doc_type": "Bank statement (12 months)",
+   "file": "/static/docs/HL-2026-104402/bank_statement.pdf",
+   "fields": {
+    "account_holder": "Arjun Mehta / Mehta Packaging",
+    "avg_monthly_credits_current_account": 690000,
+    "avg_monthly_credits_savings": 98000,
+    "emi_debits": "Car loan Rs 6,150 monthly",
+    "cheque_bounces": 0
+   },
+   "text": "account_holder: Arjun Mehta / Mehta Packaging\navg_monthly_credits_current_account: 690000\navg_monthly_credits_savings: 98000\nemi_debits: Car loan Rs 6,150 monthly\ncheque_bounces: 0"
+  },
+  {
+   "doc_key": "sale_agreement",
+   "doc_type": "Sale agreement / allotment letter",
+   "file": "/static/docs/HL-2026-104402/sale_agreement.pdf",
+   "fields": {
+    "buyer": "Arjun Mehta",
+    "co_owner_on_title": "None (sole purchaser)",
+    "seller": "Hemant Joshi",
+    "unit": "Flat 7B, Shantivan Apartments",
+    "carpet_area_sqft": 1240,
+    "agreement_value": 7400000,
+    "society_noc": "Issued 28 Sep 2026"
+   },
+   "text": "buyer: Arjun Mehta\nco_owner_on_title: None (sole purchaser)\nseller: Hemant Joshi\nunit: Flat 7B, Shantivan Apartments\ncarpet_area_sqft: 1240\nagreement_value: 7400000\nsociety_noc: Issued 28 Sep 2026"
+  },
+  {
+   "doc_key": "spouse_salary",
+   "doc_type": "Co-applicant salary slip",
+   "file": "/static/docs/HL-2026-104402/spouse_salary.pdf",
+   "fields": {
+    "employee_name": "Kavya Mehta",
+    "employer": "Govt. of Gujarat (Education)",
+    "net_monthly": 38200,
+    "gross_monthly": 52600
+   },
+   "text": "employee_name: Kavya Mehta\nemployer: Govt. of Gujarat (Education)\nnet_monthly: 38200\ngross_monthly: 52600"
+  }
+ ],
+ "HL-2026-104403": [
+  {
+   "doc_key": "salary_slip",
+   "doc_type": "Salary slip (3 months)",
+   "file": "/static/docs/HL-2026-104403/salary_slip.pdf",
+   "fields": {
+    "employee_name": "Sunita Yadav",
+    "employer": "Govt. of Uttar Pradesh (Basic Education)",
+    "net_monthly_avg_3m": 71500,
+    "gross_monthly": 89200
+   },
+   "text": "employee_name: Sunita Yadav\nemployer: Govt. of Uttar Pradesh (Basic Education)\nnet_monthly_avg_3m: 71500\ngross_monthly: 89200"
+  },
+  {
+   "doc_key": "co_salary_slip",
+   "doc_type": "Co-applicant salary slip",
+   "file": "/static/docs/HL-2026-104403/co_salary_slip.pdf",
+   "fields": {
+    "employee_name": "Rakesh Yadav",
+    "employer": "Pinecrest Logistics Pvt Ltd",
+    "net_monthly_avg_3m": 46000,
+    "gross_monthly": 54800
+   },
+   "text": "employee_name: Rakesh Yadav\nemployer: Pinecrest Logistics Pvt Ltd\nnet_monthly_avg_3m: 46000\ngross_monthly: 54800"
+  },
+  {
+   "doc_key": "sale_deed_draft",
+   "doc_type": "Sale agreement / allotment letter",
+   "file": "/static/docs/HL-2026-104403/sale_deed_draft.pdf",
+   "fields": {
+    "buyers": "Sunita Yadav and Rakesh Yadav (joint)",
+    "seller": "Om Prakash Srivastava",
+    "agreement_value": 5200000,
+    "plot_area_sqft": 1450,
+    "seller_declaration": "Property free from all encumbrances; earlier housing loan from Gomti Housing Finance Ltd fully repaid in March 2025"
+   },
+   "text": "buyers: Sunita Yadav and Rakesh Yadav (joint)\nseller: Om Prakash Srivastava\nagreement_value: 5200000\nplot_area_sqft: 1450\nseller_declaration: Property free from all encumbrances; earlier housing loan from Gomti Housing Finance Ltd fully repaid in March 2025"
+  },
+  {
+   "doc_key": "encumbrance",
+   "doc_type": "Encumbrance certificate",
+   "file": "/static/docs/HL-2026-104403/encumbrance.pdf",
+   "fields": {
+    "period": "1996 to 2026",
+    "entry_1": "2011: Sale deed in favour of Om Prakash Srivastava",
+    "entry_2": "2019: Memorandum of deposit of title deeds in favour of Gomti Housing Finance Ltd, Rs 29,00,000",
+    "release_recorded": "No release deed or memorandum of release recorded"
+   },
+   "text": "period: 1996 to 2026\nentry_1: 2011: Sale deed in favour of Om Prakash Srivastava\nentry_2: 2019: Memorandum of deposit of title deeds in favour of Gomti Housing Finance Ltd, Rs 29,00,000\nrelease_recorded: No release deed or memorandum of release recorded"
+  }
+ ],
+ "HL-2026-104404": [
+  {
+   "doc_key": "salary_slip",
+   "doc_type": "Salary slip (3 months)",
+   "file": "/static/docs/HL-2026-104404/salary_slip.pdf",
+   "fields": {
+    "employee_name": "Vikram Sethi",
+    "designation": "Area Sales Manager",
+    "gross_monthly": 171000,
+    "net_monthly_avg_3m": 135000,
+    "months": "Aug, Sep, Oct 2026"
+   },
+   "text": "Employee: Vikram Sethi (MR-4410)\nDesignation: Area Sales Manager\nPAN: DNSPS6604R"
+  },
+  {
+   "doc_key": "form16",
+   "doc_type": "Form 16 (2 years)",
+   "file": "/static/docs/HL-2026-104404/form16.pdf",
+   "fields": {
+    "employer": "Meghdoot Retail Pvt Ltd",
+    "employee": "Vikram Sethi",
+    "pan": "DNSPS6604R",
+    "gross_salary_annual": 1320000,
+    "tax_deducted_annual": 118600,
+    "net_after_tax_monthly_equiv": 100100
+   },
+   "text": "employer: Meghdoot Retail Pvt Ltd\nemployee: Vikram Sethi\npan: DNSPS6604R\ngross_salary_annual: 1320000\ntax_deducted_annual: 118600\nnet_after_tax_monthly_equiv: 100100"
+  },
+  {
+   "doc_key": "bank_statement",
+   "doc_type": "Bank statement (6 months)",
+   "file": "/static/docs/HL-2026-104404/bank_statement.pdf",
+   "fields": {
+    "account_holder": "Vikram Sethi",
+    "avg_monthly_salary_credit": 88400,
+    "salary_credits_found": 6,
+    "salary_credit_narration": "NEFT MEGHDOOT RETAIL SAL",
+    "emi_debits": "Personal loan Rs 11,800 monthly",
+    "cheque_bounces": 0
+   },
+   "text": "account_holder: Vikram Sethi\navg_monthly_salary_credit: 88400\nsalary_credits_found: 6\nsalary_credit_narration: NEFT MEGHDOOT RETAIL SAL\nemi_debits: Personal loan Rs 11,800 monthly\ncheque_bounces: 0"
+  },
+  {
+   "doc_key": "sale_agreement",
+   "doc_type": "Sale agreement / allotment letter",
+   "file": "/static/docs/HL-2026-104404/sale_agreement.pdf",
+   "fields": {
+    "buyer": "Vikram Sethi",
+    "seller": "Neeraj Arora",
+    "agreement_value": 8900000,
+    "carpet_area_sqft": 960,
+    "occupation_certificate": "Available (2020)"
+   },
+   "text": "buyer: Vikram Sethi\nseller: Neeraj Arora\nagreement_value: 8900000\ncarpet_area_sqft: 960\noccupation_certificate: Available (2020)"
+  }
+ ]
+}

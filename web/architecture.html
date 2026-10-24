@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Architecture | Nirnay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/app.css">
+<style>
+  .arch { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 16px; align-items: stretch; }
+  @media (max-width: 1100px) { .arch { grid-template-columns: minmax(0, 1fr); } }
+  .arch > * { min-width: 0; }
+  .flow code, .ref code, .row code { word-break: break-all; }
+  .stack { border: 1px solid var(--line); border-radius: var(--r); background: #fff; overflow: hidden; }
+  .row { display: grid; grid-template-columns: 170px 1fr 1fr 1fr; border-bottom: 1px solid var(--line); }
+  .row:last-child { border-bottom: 0; }
+  .row > div { padding: 12px 14px; font-size: 13px; border-right: 1px solid var(--line-2); }
+  .row > div:last-child { border-right: 0; }
+  .row .name { background: #f7f8fa; }
+  .row .name b { display: block; font-size: 14px; }
+  .row .name span { color: var(--ink-3); font-size: 12px; }
+  .row.head > div { background: #f7f8fa; font-size: 12.5px; color: var(--ink-3); padding: 8px 14px; }
+  .row.lake .name { background: var(--navy-weak); }
+  .row.agentrow .name { background: #eef1f8; }
+  .chips { display: flex; flex-wrap: wrap; gap: 5px; }
+  .chip { border: 1px solid var(--line); border-radius: 4px; padding: 2px 7px; font-size: 12.5px; background: #fff; }
+  .chip.k { border-color: #b9c8da; background: var(--navy-weak); color: var(--navy); }
+  .row ul { margin: 0; padding-left: 16px; } .row li { margin-bottom: 3px; }
+  [data-view="business"] .col-tech, [data-view="business"] .col-prod { display: none; }
+  [data-view="business"] .row { grid-template-columns: 170px 1fr; }
+  [data-view="technical"] .col-biz { display: none; }
+  [data-view="technical"] .row { grid-template-columns: 170px 1fr 1fr; }
+  @media (max-width: 800px) { .row, [data-view] .row { grid-template-columns: 1fr !important; } .row > div { border-right: 0; border-bottom: 1px solid var(--line-2); } .row.head { display: none; } }
+  .side { display: grid; gap: 16px; align-content: start; }
+  .side .panel-b { font-size: 13px; }
+  .side ul { margin: 0; padding-left: 16px; } .side li { margin-bottom: 5px; }
+  .flow { counter-reset: s; list-style: none; padding: 0; margin: 0; }
+  .flow li { counter-increment: s; position: relative; padding: 8px 0 8px 34px; border-bottom: 1px solid var(--line-2); font-size: 13.5px; }
+  .flow li::before { content: counter(s); position: absolute; left: 0; top: 8px; width: 22px; height: 22px; border-radius: 50%; background: var(--navy); color: #fff; font-size: 12px; display: grid; place-items: center; }
+  .flow code, .ref code { font-family: var(--mono); font-size: 12px; background: #f3f5f7; padding: 1px 4px; border-radius: 3px; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="page-head">
+    <div><h1>Architecture</h1>
+      <p>The functional layers a bank needs for agentic credit appraisal, the services that implement each one in this demo, and what we would use in production on Google Cloud. Read left to right: business view, then the technical view underneath it.</p></div>
+    <div class="seg" role="group" aria-label="View"><button aria-pressed="false" data-v="business">Business</button><button aria-pressed="false" data-v="technical">Technical</button><button aria-pressed="true" data-v="both">Side by side</button></div>
+  </div>
+
+  <div class="arch">
+    <div class="stack" id="stack" data-view="both">
+      <div class="row head"><div>Layer</div><div class="col-biz">What the bank gets</div><div class="col-tech">In this demo</div><div class="col-prod">In production on Google Cloud</div></div>
+
+      <div class="row"><div class="name"><b>Channels</b><span>Who uses it</span></div>
+        <div class="col-biz"><div class="chips"><span class="chip">Credit officer desk</span><span class="chip">Higher authority approval</span><span class="chip">Lending head view</span><span class="chip">Applicant status and KFS</span></div></div>
+        <div class="col-tech">Static HTML and JavaScript served by one <b>Cloud Run</b> service; agent progress streamed over server-sent events.</div>
+        <div class="col-prod">Embedded in the bank's loan origination system; bank SSO through Identity-Aware Proxy; customer view in the mobile app.</div></div>
+
+      <div class="row agentrow"><div class="name"><b>Orchestration</b><span>Runner, session, hand-offs</span></div>
+        <div class="col-biz">One review per file with a full event log; pauses for human decisions and resumes after them.</div>
+        <div class="col-tech">Python runner (Starlette on uvicorn). Each run keeps its session events in memory and writes them to <code class="mono">lending_gold.agent_audit</code>.</div>
+        <div class="col-prod"><b>Agent Development Kit</b> Runner with sessions and memory on <b>Vertex AI Agent Engine</b>; Pub/Sub triggers a review when a file changes stage.</div></div>
+
+      <div class="row agentrow"><div class="name"><b>Agents</b><span>What does the work</span></div>
+        <div class="col-biz"><ul><li><b>Credit case agent</b>: seven fixed steps per file, with external checks in parallel.</li><li><b>Policy watch</b>: re-screens open files when a rule or the repo rate changes.</li></ul></div>
+        <div class="col-tech">A workflow agent: sequential steps, a parallel fan-out for external checks, and the model called only where reading or writing language is needed.</div>
+        <div class="col-prod">ADK <code class="mono">SequentialAgent</code> containing a <code class="mono">ParallelAgent</code> and two <code class="mono">LlmAgent</code> skills; A2A later for valuer and advocate partner agents.</div></div>
+
+      <div class="row agentrow"><div class="name"><b>Model</b><span>Reading and writing</span></div>
+        <div class="col-biz">Reads scanned documents; drafts the note for sanction; answers policy questions with clause references. Does not do arithmetic or make the decision.</div>
+        <div class="col-tech"><b>Gemini on Vertex AI</b> over REST: PDFs sent inline, JSON output for extraction, low temperature for drafting. Falls back to pre-extracted values if unreachable.</div>
+        <div class="col-prod">Gemini with an evaluation set built from officer-reviewed files, versioned prompts and a model-risk sign-off; Document AI for high-volume OCR.</div></div>
+
+      <div class="row"><div class="name"><b>Tools</b><span>What the agent can touch</span></div>
+        <div class="col-biz"><div class="chips"><span class="chip">Read the lakehouse</span><span class="chip">CIBIL</span><span class="chip">CERSAI</span><span class="chip">PAN and CKYC</span><span class="chip">Account Aggregator</span><span class="chip">EPFO</span><span class="chip">GST</span><span class="chip">Write audit</span><span class="chip">Route to authority</span></div></div>
+        <div class="col-tech">Function tools; external services are mocks with realistic responses, latency and per-call cost at <code class="mono">/mock/{service}/{key}</code>. Every response lands in <code class="mono">lending_raw.ext_api_log</code>.</div>
+        <div class="col-prod"><b>MCP Toolbox for Databases</b> for BigQuery; bureau, CERSAI, NSDL and AA APIs behind <b>Apigee</b> as OpenAPI tools; write actions limited to audit and task creation.</div></div>
+
+      <div class="row"><div class="name"><b>Knowledge</b><span>What it reasons over</span></div>
+        <div class="col-biz">The bank's credit policy and the RBI rules it rests on, as numbered clauses; decision-ready features; past decisions and overrides.</div>
+        <div class="col-tech">Policy pack v4.2: 23 clauses with ids and numeric parameters, so a rule change is a data change. Gold tables for features.</div>
+        <div class="col-prod">Circulars and policy in <b>Vertex AI Search</b> (RAG) with clause ids; BigQuery vector search for similar past files; Dataplex business glossary.</div></div>
+
+      <div class="row lake"><div class="name"><b>Lakehouse</b><span>BigQuery</span></div>
+        <div class="col-biz"><div class="chips"><span class="chip k">Raw: as it arrived</span><span class="chip k">Curated: one view of the applicant</span><span class="chip k">Decision-ready: FOIR, LTV, screening</span></div></div>
+        <div class="col-tech"><b>BigQuery</b> datasets <code class="mono">lending_raw</code> (20 tables), <code class="mono">lending_curated</code> (5), <code class="mono">lending_gold</code> (5) in <b>asia-south1, Mumbai</b>. Transforms are plain SQL files run at load.</div>
+        <div class="col-prod">Same layout with <b>Dataform</b> pipelines, BigLake tables over Cloud Storage for documents, partitioning by month, row-level security by region.</div></div>
+
+      <div class="row"><div class="name"><b>Ingestion</b><span>How data arrives</span></div>
+        <div class="col-biz">Core banking and loan system changes arrive continuously; documents when uploaded; external checks when called.</div>
+        <div class="col-tech">Synthetic data (600 applications, 760+ customers, 7,200 monthly transaction rows) loaded with <code class="mono">bq load</code>; API responses inserted live.</div>
+        <div class="col-prod"><b>Datastream</b> change-data-capture from core banking and the LOS; Cloud Storage with Eventarc for documents; Pub/Sub for API events.</div></div>
+
+      <div class="row"><div class="name"><b>Sources</b><span>Three kinds of data</span></div>
+        <div class="col-biz"><div class="chips"><span class="chip">Applicant documents</span><span class="chip">Credit policy, RBI circulars</span><span class="chip">Core banking</span><span class="chip">Loan origination</span><span class="chip">Credit bureau</span><span class="chip">CERSAI</span><span class="chip">PAN, CKYC, AA</span><span class="chip">EPFO, GST</span></div></div>
+        <div class="col-tech">Generated with Claude: realistic Indian names, cities, employers, pricing, bureau tradelines and repayment history; four demo files with full PDF documents.</div>
+        <div class="col-prod">The bank's systems of record (for example Finacle or Flexcube core banking) and licensed bureau, CERSAI, AA and GSTN connections.</div></div>
+    </div>
+
+    <div class="side">
+      <div class="panel"><div class="panel-h"><strong>Human in the loop</strong></div><div class="panel-b"><ul>
+        <li>Applicant consent before bureau and AA pulls.</li>
+        <li>Credit officer edits the note and decides; an override needs a reason.</li>
+        <li>Deviations go to the authority in the delegation of powers.</li>
+        <li>Declines need a person and written reasons.</li>
+        <li>Advocate, valuer and RCU stay human.</li></ul></div></div>
+      <div class="panel"><div class="panel-h"><strong>Feedback loop</strong></div><div class="panel-b"><ul>
+        <li>Decisions and override reasons stored in <code class="mono">officer_decisions</code> (Firestore and BigQuery in production).</li>
+        <li>Lending head reviews override patterns monthly.</li>
+        <li>Fixes ship as policy-pack or prompt changes through CI/CD, tested on an evaluation set of past files.</li></ul></div></div>
+      <div class="panel"><div class="panel-h"><strong>Governance</strong></div><div class="panel-b"><ul>
+        <li>Every agent step logged with source and clause.</li>
+        <li>Data stays in India: BigQuery and Cloud Run in Mumbai.</li>
+        <li>Least-privilege service account; VPC Service Controls and CMEK in production.</li>
+        <li>Aadhaar masked at source; Sensitive Data Protection on documents.</li>
+        <li>DPDP Act consent records; RBI IT outsourcing and model-risk governance.</li></ul></div></div>
+    </div>
+  </div>
+
+  <section class="grid g2" style="margin-top:24px;align-items:start">
+    <div class="panel"><div class="panel-h"><strong>One review, end to end</strong><span class="muted">What happens when the officer clicks Run agent review</span></div><div class="panel-b">
+      <ol class="flow">
+        <li>The browser calls <code>POST /api/run/{file}</code>; the runner starts a session and streams events back over <code>/events</code>.</li>
+        <li>Seven parameterised queries read the file from BigQuery: application, property with valuation and legal reports, relationship, repayments, bank income, the gold features row, co-applicant.</li>
+        <li>Each PDF goes to Gemini with the list of fields to return as JSON; reads run in parallel. The agent compares payslip, Form 16, bank credits, ITR and GST.</li>
+        <li>PAN/CKYC, CIBIL, CERSAI, Account Aggregator and EPFO or GST are called at once; responses are written to <code>lending_raw.ext_api_log</code>.</li>
+        <li>Policy rules run in code with parameters from the policy pack; each result carries a clause id and its sources.</li>
+        <li>The routing rule picks the recommendation and the sanctioning authority; for deviations it computes the loan, tenor or co-borrower change that fits policy.</li>
+        <li>Gemini drafts the note from the verified facts only, citing clauses. The file goes to the officer; their decision is written to <code>lending_gold.officer_decisions</code>.</li>
+      </ol></div></div>
+    <div class="panel"><div class="panel-h"><strong>Mapped to the reference architecture</strong></div><div class="panel-b ref">
+      <table class="t"><thead><tr><th>Reference component</th><th>In Nirnay</th></tr></thead><tbody>
+        <tr><td>FE, BE/proxy, FastAPI app</td><td>Pages and API in one Cloud Run service; SSE for agent events</td></tr>
+        <tr><td>Runner, session, events</td><td>Run object per review; events streamed and audited</td></tr>
+        <tr><td>Memory, artifacts</td><td>Lakehouse history and decision log; PDFs and the note as artifacts</td></tr>
+        <tr><td>Agent: workflow, sequential, parallel</td><td>Seven sequential steps with a parallel verification step</td></tr>
+        <tr><td>Agent: LLM</td><td>Document reading and note drafting skills</td></tr>
+        <tr><td>Toolbox: read database</td><td>Named BigQuery queries, shown with their SQL in the UI</td></tr>
+        <tr><td>Toolbox: RAG corpus</td><td>Policy pack with clause ids; Ask the policy</td></tr>
+        <tr><td>Tool integrations: OpenAPI</td><td>Mock bureau, CERSAI, PAN, AA, EPFO, GST services</td></tr>
+        <tr><td>Enterprise knowledge: features</td><td><code>lending_gold.application_features</code></td></tr>
+        <tr><td>Data platform, ETL</td><td>BigQuery raw, curated, gold; SQL transforms</td></tr>
+        <tr><td>HIL tool, HIL decision storage</td><td>Decision panel; <code>officer_decisions</code></td></tr>
+        <tr><td>Feedback, pattern analyzer</td><td>Override patterns on the lending head view</td></tr>
+        <tr><td>Prompt CI/CD, RLHF</td><td>Production step: evaluation set from reviewed files</td></tr>
+      </tbody></table></div></div>
+  </section>
+
+  <section class="panel" style="margin-top:16px"><div class="panel-h"><strong>What is real in this demo and what is simulated</strong></div><div class="panel-b tbl-scroll">
+    <table class="t"><thead><tr><th>Part</th><th>Status</th><th>Notes</th></tr></thead><tbody>
+      <tr><td>BigQuery lakehouse and SQL transforms</td><td>Real</td><td>Three datasets in asia-south1; every number on screen comes from a query you can open.</td></tr>
+      <tr><td>Gemini reading documents and drafting the note</td><td>Real</td><td>Live calls to Vertex AI from Cloud Run. The footer shows which model answered.</td></tr>
+      <tr><td>Audit trail and decision log</td><td>Real</td><td>Written to BigQuery on every run and decision.</td></tr>
+      <tr><td>Customers, accounts, documents</td><td>Synthetic</td><td>Generated for this demo. No real person or bank.</td></tr>
+      <tr><td>CIBIL, CERSAI, PAN, AA, EPFO, GST</td><td>Simulated</td><td>Mock services shaped like the real ones, with realistic latency and illustrative per-call cost.</td></tr>
+      <tr><td>Credit policy v4.2</td><td>Illustrative</td><td>Written for the demo. The RBI rules it cites (LTV caps, external benchmark, KFS, CERSAI, release of documents) are real and linked.</td></tr>
+      <tr><td>Security</td><td>Not production</td><td>No login. Production adds SSO, VPC Service Controls, CMEK and role-based access.</td></tr>
+    </tbody></table></div></section>
+</main>
+<script src="/static/js/common.js"></script>
+<script>
+document.querySelectorAll(".seg button").forEach(b => b.onclick = () => {
+  document.querySelectorAll(".seg button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  document.getElementById("stack").dataset.view = b.dataset.v;
+});
+</script>
+</body>
+</html>

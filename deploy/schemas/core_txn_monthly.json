@@ -1,0 +1,42 @@
+[
+ {
+  "name": "account_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "month",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "total_credits",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "salary_credit",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "total_debits",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "emi_debits",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "cheque_bounces",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "closing_balance",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "name": "pan",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "pan_status",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "name_on_pan",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "name_match",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "aadhaar_seeded",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "ckyc_number",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

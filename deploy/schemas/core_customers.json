@@ -1,0 +1,92 @@
+[
+ {
+  "name": "customer_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "cif",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "full_name",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "gender",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "dob",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "pan",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "aadhaar_masked",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "mobile_masked",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "city",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "state",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "pincode",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "occupation_type",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "employer_name",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "employer_category",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "gstin",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "uan",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "customer_since",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "home_branch",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

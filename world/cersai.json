@@ -1,0 +1,3352 @@
+{
+ "P3300001": {
+  "property_id": "P3300001",
+  "search_ref": "CS7707530174",
+  "charges": []
+ },
+ "P3300002": {
+  "property_id": "P3300002",
+  "search_ref": "CS7442410976",
+  "charges": []
+ },
+ "P3300003": {
+  "property_id": "P3300003",
+  "search_ref": "CS9769397931",
+  "charges": [
+   {
+    "security_interest_id": "SI-400019887211",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Om Prakash Srivastava (current owner / seller)",
+    "type": "Equitable mortgage",
+    "created_on": "2019-03-14",
+    "amount_secured": 2900000,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300004": {
+  "property_id": "P3300004",
+  "search_ref": "CS3663362591",
+  "charges": []
+ },
+ "P3300005": {
+  "property_id": "P3300005",
+  "search_ref": "CS9791902066",
+  "charges": [
+   {
+    "security_interest_id": "SI-400039367804",
+    "charge_holder": "Pragati Housing Finance",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2022-02-06",
+    "amount_secured": 1450000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300006": {
+  "property_id": "P3300006",
+  "search_ref": "CS7868144556",
+  "charges": []
+ },
+ "P3300007": {
+  "property_id": "P3300007",
+  "search_ref": "CS5331560819",
+  "charges": []
+ },
+ "P3300008": {
+  "property_id": "P3300008",
+  "search_ref": "CS9236020882",
+  "charges": []
+ },
+ "P3300009": {
+  "property_id": "P3300009",
+  "search_ref": "CS5551691755",
+  "charges": []
+ },
+ "P3300010": {
+  "property_id": "P3300010",
+  "search_ref": "CS6492533366",
+  "charges": []
+ },
+ "P3300011": {
+  "property_id": "P3300011",
+  "search_ref": "CS9197365023",
+  "charges": []
+ },
+ "P3300012": {
+  "property_id": "P3300012",
+  "search_ref": "CS4207079535",
+  "charges": []
+ },
+ "P3300013": {
+  "property_id": "P3300013",
+  "search_ref": "CS5974387985",
+  "charges": [
+   {
+    "security_interest_id": "SI-400032858374",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2023-08-17",
+    "amount_secured": 3200000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300014": {
+  "property_id": "P3300014",
+  "search_ref": "CS2554023201",
+  "charges": []
+ },
+ "P3300015": {
+  "property_id": "P3300015",
+  "search_ref": "CS6944447993",
+  "charges": []
+ },
+ "P3300016": {
+  "property_id": "P3300016",
+  "search_ref": "CS6991575865",
+  "charges": []
+ },
+ "P3300017": {
+  "property_id": "P3300017",
+  "search_ref": "CS5300220587",
+  "charges": [
+   {
+    "security_interest_id": "SI-400019003150",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2021-04-02",
+    "amount_secured": 820000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300018": {
+  "property_id": "P3300018",
+  "search_ref": "CS6855272431",
+  "charges": []
+ },
+ "P3300019": {
+  "property_id": "P3300019",
+  "search_ref": "CS8407736946",
+  "charges": []
+ },
+ "P3300020": {
+  "property_id": "P3300020",
+  "search_ref": "CS5786120486",
+  "charges": []
+ },
+ "P3300021": {
+  "property_id": "P3300021",
+  "search_ref": "CS9532229652",
+  "charges": []
+ },
+ "P3300022": {
+  "property_id": "P3300022",
+  "search_ref": "CS3964149869",
+  "charges": []
+ },
+ "P3300023": {
+  "property_id": "P3300023",
+  "search_ref": "CS9287768587",
+  "charges": []
+ },
+ "P3300024": {
+  "property_id": "P3300024",
+  "search_ref": "CS2764670679",
+  "charges": []
+ },
+ "P3300025": {
+  "property_id": "P3300025",
+  "search_ref": "CS6293222821",
+  "charges": []
+ },
+ "P3300026": {
+  "property_id": "P3300026",
+  "search_ref": "CS5706525239",
+  "charges": []
+ },
+ "P3300027": {
+  "property_id": "P3300027",
+  "search_ref": "CS4606023404",
+  "charges": []
+ },
+ "P3300028": {
+  "property_id": "P3300028",
+  "search_ref": "CS7718212760",
+  "charges": []
+ },
+ "P3300029": {
+  "property_id": "P3300029",
+  "search_ref": "CS4150612405",
+  "charges": []
+ },
+ "P3300030": {
+  "property_id": "P3300030",
+  "search_ref": "CS2030727452",
+  "charges": []
+ },
+ "P3300031": {
+  "property_id": "P3300031",
+  "search_ref": "CS1810631959",
+  "charges": []
+ },
+ "P3300032": {
+  "property_id": "P3300032",
+  "search_ref": "CS4261182610",
+  "charges": []
+ },
+ "P3300033": {
+  "property_id": "P3300033",
+  "search_ref": "CS1335098374",
+  "charges": []
+ },
+ "P3300034": {
+  "property_id": "P3300034",
+  "search_ref": "CS2377733529",
+  "charges": []
+ },
+ "P3300035": {
+  "property_id": "P3300035",
+  "search_ref": "CS4477762449",
+  "charges": []
+ },
+ "P3300036": {
+  "property_id": "P3300036",
+  "search_ref": "CS9434685970",
+  "charges": []
+ },
+ "P3300037": {
+  "property_id": "P3300037",
+  "search_ref": "CS7156932169",
+  "charges": []
+ },
+ "P3300038": {
+  "property_id": "P3300038",
+  "search_ref": "CS8524017328",
+  "charges": []
+ },
+ "P3300039": {
+  "property_id": "P3300039",
+  "search_ref": "CS7977982555",
+  "charges": []
+ },
+ "P3300040": {
+  "property_id": "P3300040",
+  "search_ref": "CS6849780596",
+  "charges": []
+ },
+ "P3300041": {
+  "property_id": "P3300041",
+  "search_ref": "CS8794019789",
+  "charges": []
+ },
+ "P3300042": {
+  "property_id": "P3300042",
+  "search_ref": "CS4857610582",
+  "charges": []
+ },
+ "P3300043": {
+  "property_id": "P3300043",
+  "search_ref": "CS4530460024",
+  "charges": []
+ },
+ "P3300044": {
+  "property_id": "P3300044",
+  "search_ref": "CS3128821017",
+  "charges": []
+ },
+ "P3300045": {
+  "property_id": "P3300045",
+  "search_ref": "CS2297618435",
+  "charges": []
+ },
+ "P3300046": {
+  "property_id": "P3300046",
+  "search_ref": "CS9422492432",
+  "charges": []
+ },
+ "P3300047": {
+  "property_id": "P3300047",
+  "search_ref": "CS6781426057",
+  "charges": []
+ },
+ "P3300048": {
+  "property_id": "P3300048",
+  "search_ref": "CS4214894473",
+  "charges": []
+ },
+ "P3300049": {
+  "property_id": "P3300049",
+  "search_ref": "CS7959607796",
+  "charges": []
+ },
+ "P3300050": {
+  "property_id": "P3300050",
+  "search_ref": "CS6462496774",
+  "charges": []
+ },
+ "P3300051": {
+  "property_id": "P3300051",
+  "search_ref": "CS4465231681",
+  "charges": []
+ },
+ "P3300052": {
+  "property_id": "P3300052",
+  "search_ref": "CS3467854636",
+  "charges": []
+ },
+ "P3300053": {
+  "property_id": "P3300053",
+  "search_ref": "CS7798274122",
+  "charges": []
+ },
+ "P3300054": {
+  "property_id": "P3300054",
+  "search_ref": "CS3980518333",
+  "charges": []
+ },
+ "P3300055": {
+  "property_id": "P3300055",
+  "search_ref": "CS6974682533",
+  "charges": []
+ },
+ "P3300056": {
+  "property_id": "P3300056",
+  "search_ref": "CS3322481628",
+  "charges": []
+ },
+ "P3300057": {
+  "property_id": "P3300057",
+  "search_ref": "CS4568205459",
+  "charges": []
+ },
+ "P3300058": {
+  "property_id": "P3300058",
+  "search_ref": "CS8369564509",
+  "charges": []
+ },
+ "P3300059": {
+  "property_id": "P3300059",
+  "search_ref": "CS4830135204",
+  "charges": []
+ },
+ "P3300060": {
+  "property_id": "P3300060",
+  "search_ref": "CS5762014021",
+  "charges": []
+ },
+ "P3300061": {
+  "property_id": "P3300061",
+  "search_ref": "CS7999317218",
+  "charges": []
+ },
+ "P3300062": {
+  "property_id": "P3300062",
+  "search_ref": "CS7795083902",
+  "charges": []
+ },
+ "P3300063": {
+  "property_id": "P3300063",
+  "search_ref": "CS4052769013",
+  "charges": []
+ },
+ "P3300064": {
+  "property_id": "P3300064",
+  "search_ref": "CS6752713962",
+  "charges": []
+ },
+ "P3300065": {
+  "property_id": "P3300065",
+  "search_ref": "CS5053476524",
+  "charges": []
+ },
+ "P3300066": {
+  "property_id": "P3300066",
+  "search_ref": "CS9692720537",
+  "charges": []
+ },
+ "P3300067": {
+  "property_id": "P3300067",
+  "search_ref": "CS8618295001",
+  "charges": []
+ },
+ "P3300068": {
+  "property_id": "P3300068",
+  "search_ref": "CS9957150386",
+  "charges": []
+ },
+ "P3300069": {
+  "property_id": "P3300069",
+  "search_ref": "CS8622050320",
+  "charges": []
+ },
+ "P3300070": {
+  "property_id": "P3300070",
+  "search_ref": "CS5383258673",
+  "charges": []
+ },
+ "P3300071": {
+  "property_id": "P3300071",
+  "search_ref": "CS5150619520",
+  "charges": []
+ },
+ "P3300072": {
+  "property_id": "P3300072",
+  "search_ref": "CS8175861995",
+  "charges": []
+ },
+ "P3300073": {
+  "property_id": "P3300073",
+  "search_ref": "CS3667882152",
+  "charges": []
+ },
+ "P3300074": {
+  "property_id": "P3300074",
+  "search_ref": "CS9914636822",
+  "charges": []
+ },
+ "P3300075": {
+  "property_id": "P3300075",
+  "search_ref": "CS7749296033",
+  "charges": []
+ },
+ "P3300076": {
+  "property_id": "P3300076",
+  "search_ref": "CS6956276364",
+  "charges": []
+ },
+ "P3300077": {
+  "property_id": "P3300077",
+  "search_ref": "CS4585212894",
+  "charges": []
+ },
+ "P3300078": {
+  "property_id": "P3300078",
+  "search_ref": "CS1325149199",
+  "charges": []
+ },
+ "P3300079": {
+  "property_id": "P3300079",
+  "search_ref": "CS7075683052",
+  "charges": []
+ },
+ "P3300080": {
+  "property_id": "P3300080",
+  "search_ref": "CS5465422186",
+  "charges": []
+ },
+ "P3300081": {
+  "property_id": "P3300081",
+  "search_ref": "CS9008410808",
+  "charges": []
+ },
+ "P3300082": {
+  "property_id": "P3300082",
+  "search_ref": "CS6042595232",
+  "charges": []
+ },
+ "P3300083": {
+  "property_id": "P3300083",
+  "search_ref": "CS6980756744",
+  "charges": []
+ },
+ "P3300084": {
+  "property_id": "P3300084",
+  "search_ref": "CS9648281633",
+  "charges": []
+ },
+ "P3300085": {
+  "property_id": "P3300085",
+  "search_ref": "CS2157987435",
+  "charges": []
+ },
+ "P3300086": {
+  "property_id": "P3300086",
+  "search_ref": "CS1200499485",
+  "charges": []
+ },
+ "P3300087": {
+  "property_id": "P3300087",
+  "search_ref": "CS4736800733",
+  "charges": []
+ },
+ "P3300088": {
+  "property_id": "P3300088",
+  "search_ref": "CS9221916822",
+  "charges": []
+ },
+ "P3300089": {
+  "property_id": "P3300089",
+  "search_ref": "CS8964350747",
+  "charges": []
+ },
+ "P3300090": {
+  "property_id": "P3300090",
+  "search_ref": "CS8815470330",
+  "charges": []
+ },
+ "P3300091": {
+  "property_id": "P3300091",
+  "search_ref": "CS5306201080",
+  "charges": []
+ },
+ "P3300092": {
+  "property_id": "P3300092",
+  "search_ref": "CS1434907243",
+  "charges": []
+ },
+ "P3300093": {
+  "property_id": "P3300093",
+  "search_ref": "CS8819642243",
+  "charges": [
+   {
+    "security_interest_id": "SI-400034059677",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2018-01-12",
+    "amount_secured": 3860000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300094": {
+  "property_id": "P3300094",
+  "search_ref": "CS1286314680",
+  "charges": []
+ },
+ "P3300095": {
+  "property_id": "P3300095",
+  "search_ref": "CS1051278499",
+  "charges": []
+ },
+ "P3300096": {
+  "property_id": "P3300096",
+  "search_ref": "CS2552861067",
+  "charges": []
+ },
+ "P3300097": {
+  "property_id": "P3300097",
+  "search_ref": "CS9348597956",
+  "charges": []
+ },
+ "P3300098": {
+  "property_id": "P3300098",
+  "search_ref": "CS2295773852",
+  "charges": []
+ },
+ "P3300099": {
+  "property_id": "P3300099",
+  "search_ref": "CS6118458832",
+  "charges": []
+ },
+ "P3300100": {
+  "property_id": "P3300100",
+  "search_ref": "CS1996484319",
+  "charges": []
+ },
+ "P3300101": {
+  "property_id": "P3300101",
+  "search_ref": "CS1432088174",
+  "charges": []
+ },
+ "P3300102": {
+  "property_id": "P3300102",
+  "search_ref": "CS4383397067",
+  "charges": []
+ },
+ "P3300103": {
+  "property_id": "P3300103",
+  "search_ref": "CS5694322821",
+  "charges": []
+ },
+ "P3300104": {
+  "property_id": "P3300104",
+  "search_ref": "CS7282309387",
+  "charges": []
+ },
+ "P3300105": {
+  "property_id": "P3300105",
+  "search_ref": "CS6154766751",
+  "charges": []
+ },
+ "P3300106": {
+  "property_id": "P3300106",
+  "search_ref": "CS8312565658",
+  "charges": []
+ },
+ "P3300107": {
+  "property_id": "P3300107",
+  "search_ref": "CS9098958904",
+  "charges": []
+ },
+ "P3300108": {
+  "property_id": "P3300108",
+  "search_ref": "CS5195370440",
+  "charges": []
+ },
+ "P3300109": {
+  "property_id": "P3300109",
+  "search_ref": "CS3397906350",
+  "charges": []
+ },
+ "P3300110": {
+  "property_id": "P3300110",
+  "search_ref": "CS8816336733",
+  "charges": []
+ },
+ "P3300111": {
+  "property_id": "P3300111",
+  "search_ref": "CS7686150475",
+  "charges": []
+ },
+ "P3300112": {
+  "property_id": "P3300112",
+  "search_ref": "CS3994454911",
+  "charges": []
+ },
+ "P3300113": {
+  "property_id": "P3300113",
+  "search_ref": "CS1495795432",
+  "charges": [
+   {
+    "security_interest_id": "SI-400037953215",
+    "charge_holder": "Pragati Housing Finance",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2020-02-08",
+    "amount_secured": 3230000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300114": {
+  "property_id": "P3300114",
+  "search_ref": "CS5276404619",
+  "charges": []
+ },
+ "P3300115": {
+  "property_id": "P3300115",
+  "search_ref": "CS1516816598",
+  "charges": []
+ },
+ "P3300116": {
+  "property_id": "P3300116",
+  "search_ref": "CS8999301264",
+  "charges": []
+ },
+ "P3300117": {
+  "property_id": "P3300117",
+  "search_ref": "CS9955541685",
+  "charges": []
+ },
+ "P3300118": {
+  "property_id": "P3300118",
+  "search_ref": "CS4400940175",
+  "charges": []
+ },
+ "P3300119": {
+  "property_id": "P3300119",
+  "search_ref": "CS9949100862",
+  "charges": []
+ },
+ "P3300120": {
+  "property_id": "P3300120",
+  "search_ref": "CS2105243885",
+  "charges": []
+ },
+ "P3300121": {
+  "property_id": "P3300121",
+  "search_ref": "CS5881986333",
+  "charges": []
+ },
+ "P3300122": {
+  "property_id": "P3300122",
+  "search_ref": "CS3889320295",
+  "charges": []
+ },
+ "P3300123": {
+  "property_id": "P3300123",
+  "search_ref": "CS5060485374",
+  "charges": []
+ },
+ "P3300124": {
+  "property_id": "P3300124",
+  "search_ref": "CS4028332027",
+  "charges": []
+ },
+ "P3300125": {
+  "property_id": "P3300125",
+  "search_ref": "CS6437650730",
+  "charges": []
+ },
+ "P3300126": {
+  "property_id": "P3300126",
+  "search_ref": "CS7265018103",
+  "charges": []
+ },
+ "P3300127": {
+  "property_id": "P3300127",
+  "search_ref": "CS8501477864",
+  "charges": []
+ },
+ "P3300128": {
+  "property_id": "P3300128",
+  "search_ref": "CS7600367723",
+  "charges": []
+ },
+ "P3300129": {
+  "property_id": "P3300129",
+  "search_ref": "CS3126411378",
+  "charges": []
+ },
+ "P3300130": {
+  "property_id": "P3300130",
+  "search_ref": "CS6209548008",
+  "charges": []
+ },
+ "P3300131": {
+  "property_id": "P3300131",
+  "search_ref": "CS1230770660",
+  "charges": []
+ },
+ "P3300132": {
+  "property_id": "P3300132",
+  "search_ref": "CS8899501750",
+  "charges": []
+ },
+ "P3300133": {
+  "property_id": "P3300133",
+  "search_ref": "CS9297363559",
+  "charges": []
+ },
+ "P3300134": {
+  "property_id": "P3300134",
+  "search_ref": "CS5055396988",
+  "charges": []
+ },
+ "P3300135": {
+  "property_id": "P3300135",
+  "search_ref": "CS1854763728",
+  "charges": []
+ },
+ "P3300136": {
+  "property_id": "P3300136",
+  "search_ref": "CS6511707242",
+  "charges": []
+ },
+ "P3300137": {
+  "property_id": "P3300137",
+  "search_ref": "CS6669418361",
+  "charges": []
+ },
+ "P3300138": {
+  "property_id": "P3300138",
+  "search_ref": "CS6968213640",
+  "charges": []
+ },
+ "P3300139": {
+  "property_id": "P3300139",
+  "search_ref": "CS6445746202",
+  "charges": []
+ },
+ "P3300140": {
+  "property_id": "P3300140",
+  "search_ref": "CS9178926099",
+  "charges": []
+ },
+ "P3300141": {
+  "property_id": "P3300141",
+  "search_ref": "CS6799948413",
+  "charges": [
+   {
+    "security_interest_id": "SI-400012158916",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2018-09-25",
+    "amount_secured": 2050000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300142": {
+  "property_id": "P3300142",
+  "search_ref": "CS5333134648",
+  "charges": []
+ },
+ "P3300143": {
+  "property_id": "P3300143",
+  "search_ref": "CS4349675599",
+  "charges": [
+   {
+    "security_interest_id": "SI-400071669901",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2023-09-10",
+    "amount_secured": 1660000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300144": {
+  "property_id": "P3300144",
+  "search_ref": "CS4332479360",
+  "charges": []
+ },
+ "P3300145": {
+  "property_id": "P3300145",
+  "search_ref": "CS8996076607",
+  "charges": []
+ },
+ "P3300146": {
+  "property_id": "P3300146",
+  "search_ref": "CS5933011994",
+  "charges": []
+ },
+ "P3300147": {
+  "property_id": "P3300147",
+  "search_ref": "CS1863388354",
+  "charges": []
+ },
+ "P3300148": {
+  "property_id": "P3300148",
+  "search_ref": "CS7613953414",
+  "charges": []
+ },
+ "P3300149": {
+  "property_id": "P3300149",
+  "search_ref": "CS6564078670",
+  "charges": [
+   {
+    "security_interest_id": "SI-400050718062",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2023-06-18",
+    "amount_secured": 1940000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300150": {
+  "property_id": "P3300150",
+  "search_ref": "CS9763971503",
+  "charges": []
+ },
+ "P3300151": {
+  "property_id": "P3300151",
+  "search_ref": "CS5493567796",
+  "charges": []
+ },
+ "P3300152": {
+  "property_id": "P3300152",
+  "search_ref": "CS2066581884",
+  "charges": []
+ },
+ "P3300153": {
+  "property_id": "P3300153",
+  "search_ref": "CS9191022161",
+  "charges": []
+ },
+ "P3300154": {
+  "property_id": "P3300154",
+  "search_ref": "CS3408871905",
+  "charges": []
+ },
+ "P3300155": {
+  "property_id": "P3300155",
+  "search_ref": "CS9705023055",
+  "charges": [
+   {
+    "security_interest_id": "SI-400092135097",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2019-12-01",
+    "amount_secured": 1900000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300156": {
+  "property_id": "P3300156",
+  "search_ref": "CS1743214048",
+  "charges": []
+ },
+ "P3300157": {
+  "property_id": "P3300157",
+  "search_ref": "CS7860695852",
+  "charges": []
+ },
+ "P3300158": {
+  "property_id": "P3300158",
+  "search_ref": "CS9395724866",
+  "charges": []
+ },
+ "P3300159": {
+  "property_id": "P3300159",
+  "search_ref": "CS4917552544",
+  "charges": []
+ },
+ "P3300160": {
+  "property_id": "P3300160",
+  "search_ref": "CS6473443000",
+  "charges": [
+   {
+    "security_interest_id": "SI-400036833186",
+    "charge_holder": "Eastern Home Credit Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2020-08-20",
+    "amount_secured": 2170000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300161": {
+  "property_id": "P3300161",
+  "search_ref": "CS4550632221",
+  "charges": []
+ },
+ "P3300162": {
+  "property_id": "P3300162",
+  "search_ref": "CS4890934113",
+  "charges": [
+   {
+    "security_interest_id": "SI-400090259993",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2023-04-07",
+    "amount_secured": 3620000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300163": {
+  "property_id": "P3300163",
+  "search_ref": "CS3726059338",
+  "charges": []
+ },
+ "P3300164": {
+  "property_id": "P3300164",
+  "search_ref": "CS7187197274",
+  "charges": []
+ },
+ "P3300165": {
+  "property_id": "P3300165",
+  "search_ref": "CS1234628568",
+  "charges": []
+ },
+ "P3300166": {
+  "property_id": "P3300166",
+  "search_ref": "CS6894653696",
+  "charges": []
+ },
+ "P3300167": {
+  "property_id": "P3300167",
+  "search_ref": "CS6061532823",
+  "charges": []
+ },
+ "P3300168": {
+  "property_id": "P3300168",
+  "search_ref": "CS4852922863",
+  "charges": []
+ },
+ "P3300169": {
+  "property_id": "P3300169",
+  "search_ref": "CS1398807241",
+  "charges": []
+ },
+ "P3300170": {
+  "property_id": "P3300170",
+  "search_ref": "CS2735306640",
+  "charges": []
+ },
+ "P3300171": {
+  "property_id": "P3300171",
+  "search_ref": "CS6936846791",
+  "charges": []
+ },
+ "P3300172": {
+  "property_id": "P3300172",
+  "search_ref": "CS4174767379",
+  "charges": []
+ },
+ "P3300173": {
+  "property_id": "P3300173",
+  "search_ref": "CS5286565396",
+  "charges": []
+ },
+ "P3300174": {
+  "property_id": "P3300174",
+  "search_ref": "CS7798956009",
+  "charges": []
+ },
+ "P3300175": {
+  "property_id": "P3300175",
+  "search_ref": "CS9847390280",
+  "charges": []
+ },
+ "P3300176": {
+  "property_id": "P3300176",
+  "search_ref": "CS3740428594",
+  "charges": []
+ },
+ "P3300177": {
+  "property_id": "P3300177",
+  "search_ref": "CS3295596420",
+  "charges": []
+ },
+ "P3300178": {
+  "property_id": "P3300178",
+  "search_ref": "CS5174377237",
+  "charges": []
+ },
+ "P3300179": {
+  "property_id": "P3300179",
+  "search_ref": "CS4112355498",
+  "charges": []
+ },
+ "P3300180": {
+  "property_id": "P3300180",
+  "search_ref": "CS4389192219",
+  "charges": []
+ },
+ "P3300181": {
+  "property_id": "P3300181",
+  "search_ref": "CS3283625503",
+  "charges": []
+ },
+ "P3300182": {
+  "property_id": "P3300182",
+  "search_ref": "CS6926060272",
+  "charges": []
+ },
+ "P3300183": {
+  "property_id": "P3300183",
+  "search_ref": "CS6243050773",
+  "charges": []
+ },
+ "P3300184": {
+  "property_id": "P3300184",
+  "search_ref": "CS3703911313",
+  "charges": []
+ },
+ "P3300185": {
+  "property_id": "P3300185",
+  "search_ref": "CS1512186384",
+  "charges": []
+ },
+ "P3300186": {
+  "property_id": "P3300186",
+  "search_ref": "CS1440714045",
+  "charges": []
+ },
+ "P3300187": {
+  "property_id": "P3300187",
+  "search_ref": "CS2430136412",
+  "charges": []
+ },
+ "P3300188": {
+  "property_id": "P3300188",
+  "search_ref": "CS4998742863",
+  "charges": []
+ },
+ "P3300189": {
+  "property_id": "P3300189",
+  "search_ref": "CS4529843553",
+  "charges": []
+ },
+ "P3300190": {
+  "property_id": "P3300190",
+  "search_ref": "CS6025403794",
+  "charges": []
+ },
+ "P3300191": {
+  "property_id": "P3300191",
+  "search_ref": "CS7728058852",
+  "charges": []
+ },
+ "P3300192": {
+  "property_id": "P3300192",
+  "search_ref": "CS8313623639",
+  "charges": []
+ },
+ "P3300193": {
+  "property_id": "P3300193",
+  "search_ref": "CS9084153024",
+  "charges": []
+ },
+ "P3300194": {
+  "property_id": "P3300194",
+  "search_ref": "CS4940416626",
+  "charges": []
+ },
+ "P3300195": {
+  "property_id": "P3300195",
+  "search_ref": "CS8308364545",
+  "charges": []
+ },
+ "P3300196": {
+  "property_id": "P3300196",
+  "search_ref": "CS5789316379",
+  "charges": []
+ },
+ "P3300197": {
+  "property_id": "P3300197",
+  "search_ref": "CS8985792629",
+  "charges": []
+ },
+ "P3300198": {
+  "property_id": "P3300198",
+  "search_ref": "CS4168731370",
+  "charges": []
+ },
+ "P3300199": {
+  "property_id": "P3300199",
+  "search_ref": "CS9503792622",
+  "charges": []
+ },
+ "P3300200": {
+  "property_id": "P3300200",
+  "search_ref": "CS2593188466",
+  "charges": []
+ },
+ "P3300201": {
+  "property_id": "P3300201",
+  "search_ref": "CS9319344007",
+  "charges": []
+ },
+ "P3300202": {
+  "property_id": "P3300202",
+  "search_ref": "CS1683105511",
+  "charges": []
+ },
+ "P3300203": {
+  "property_id": "P3300203",
+  "search_ref": "CS2701024089",
+  "charges": []
+ },
+ "P3300204": {
+  "property_id": "P3300204",
+  "search_ref": "CS8022023462",
+  "charges": []
+ },
+ "P3300205": {
+  "property_id": "P3300205",
+  "search_ref": "CS2068886233",
+  "charges": []
+ },
+ "P3300206": {
+  "property_id": "P3300206",
+  "search_ref": "CS9784426212",
+  "charges": []
+ },
+ "P3300207": {
+  "property_id": "P3300207",
+  "search_ref": "CS8432641663",
+  "charges": []
+ },
+ "P3300208": {
+  "property_id": "P3300208",
+  "search_ref": "CS5935120504",
+  "charges": []
+ },
+ "P3300209": {
+  "property_id": "P3300209",
+  "search_ref": "CS5316097138",
+  "charges": []
+ },
+ "P3300210": {
+  "property_id": "P3300210",
+  "search_ref": "CS9943343304",
+  "charges": []
+ },
+ "P3300211": {
+  "property_id": "P3300211",
+  "search_ref": "CS1497722153",
+  "charges": []
+ },
+ "P3300212": {
+  "property_id": "P3300212",
+  "search_ref": "CS9346966708",
+  "charges": []
+ },
+ "P3300213": {
+  "property_id": "P3300213",
+  "search_ref": "CS4930088171",
+  "charges": []
+ },
+ "P3300214": {
+  "property_id": "P3300214",
+  "search_ref": "CS3923144323",
+  "charges": []
+ },
+ "P3300215": {
+  "property_id": "P3300215",
+  "search_ref": "CS2009664836",
+  "charges": []
+ },
+ "P3300216": {
+  "property_id": "P3300216",
+  "search_ref": "CS1698997341",
+  "charges": []
+ },
+ "P3300217": {
+  "property_id": "P3300217",
+  "search_ref": "CS8606136218",
+  "charges": []
+ },
+ "P3300218": {
+  "property_id": "P3300218",
+  "search_ref": "CS9260376745",
+  "charges": []
+ },
+ "P3300219": {
+  "property_id": "P3300219",
+  "search_ref": "CS2502368990",
+  "charges": []
+ },
+ "P3300220": {
+  "property_id": "P3300220",
+  "search_ref": "CS8565251468",
+  "charges": []
+ },
+ "P3300221": {
+  "property_id": "P3300221",
+  "search_ref": "CS3382556280",
+  "charges": []
+ },
+ "P3300222": {
+  "property_id": "P3300222",
+  "search_ref": "CS7002856772",
+  "charges": []
+ },
+ "P3300223": {
+  "property_id": "P3300223",
+  "search_ref": "CS2376285097",
+  "charges": []
+ },
+ "P3300224": {
+  "property_id": "P3300224",
+  "search_ref": "CS3340250586",
+  "charges": []
+ },
+ "P3300225": {
+  "property_id": "P3300225",
+  "search_ref": "CS5463266180",
+  "charges": []
+ },
+ "P3300226": {
+  "property_id": "P3300226",
+  "search_ref": "CS5847289707",
+  "charges": []
+ },
+ "P3300227": {
+  "property_id": "P3300227",
+  "search_ref": "CS7620853260",
+  "charges": []
+ },
+ "P3300228": {
+  "property_id": "P3300228",
+  "search_ref": "CS9981646869",
+  "charges": []
+ },
+ "P3300229": {
+  "property_id": "P3300229",
+  "search_ref": "CS5286357729",
+  "charges": []
+ },
+ "P3300230": {
+  "property_id": "P3300230",
+  "search_ref": "CS4908312950",
+  "charges": []
+ },
+ "P3300231": {
+  "property_id": "P3300231",
+  "search_ref": "CS3496734350",
+  "charges": []
+ },
+ "P3300232": {
+  "property_id": "P3300232",
+  "search_ref": "CS9114207662",
+  "charges": [
+   {
+    "security_interest_id": "SI-400029013381",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2018-03-24",
+    "amount_secured": 3190000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300233": {
+  "property_id": "P3300233",
+  "search_ref": "CS4141183663",
+  "charges": []
+ },
+ "P3300234": {
+  "property_id": "P3300234",
+  "search_ref": "CS1719303537",
+  "charges": []
+ },
+ "P3300235": {
+  "property_id": "P3300235",
+  "search_ref": "CS4987161686",
+  "charges": []
+ },
+ "P3300236": {
+  "property_id": "P3300236",
+  "search_ref": "CS7727028446",
+  "charges": []
+ },
+ "P3300237": {
+  "property_id": "P3300237",
+  "search_ref": "CS8207365686",
+  "charges": []
+ },
+ "P3300238": {
+  "property_id": "P3300238",
+  "search_ref": "CS8840485800",
+  "charges": []
+ },
+ "P3300239": {
+  "property_id": "P3300239",
+  "search_ref": "CS8850631882",
+  "charges": []
+ },
+ "P3300240": {
+  "property_id": "P3300240",
+  "search_ref": "CS3659667659",
+  "charges": []
+ },
+ "P3300241": {
+  "property_id": "P3300241",
+  "search_ref": "CS2558295928",
+  "charges": []
+ },
+ "P3300242": {
+  "property_id": "P3300242",
+  "search_ref": "CS2102579702",
+  "charges": []
+ },
+ "P3300243": {
+  "property_id": "P3300243",
+  "search_ref": "CS3408237811",
+  "charges": [
+   {
+    "security_interest_id": "SI-400086884852",
+    "charge_holder": "Pragati Housing Finance",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2016-02-12",
+    "amount_secured": 3940000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300244": {
+  "property_id": "P3300244",
+  "search_ref": "CS3281023258",
+  "charges": []
+ },
+ "P3300245": {
+  "property_id": "P3300245",
+  "search_ref": "CS3191570590",
+  "charges": []
+ },
+ "P3300246": {
+  "property_id": "P3300246",
+  "search_ref": "CS4112062903",
+  "charges": []
+ },
+ "P3300247": {
+  "property_id": "P3300247",
+  "search_ref": "CS2299996898",
+  "charges": []
+ },
+ "P3300248": {
+  "property_id": "P3300248",
+  "search_ref": "CS3111703282",
+  "charges": []
+ },
+ "P3300249": {
+  "property_id": "P3300249",
+  "search_ref": "CS8154934842",
+  "charges": [
+   {
+    "security_interest_id": "SI-400062722856",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2020-04-02",
+    "amount_secured": 1280000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300250": {
+  "property_id": "P3300250",
+  "search_ref": "CS7050849914",
+  "charges": [
+   {
+    "security_interest_id": "SI-400057666279",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2016-03-06",
+    "amount_secured": 5920000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300251": {
+  "property_id": "P3300251",
+  "search_ref": "CS3462623663",
+  "charges": []
+ },
+ "P3300252": {
+  "property_id": "P3300252",
+  "search_ref": "CS9372930298",
+  "charges": []
+ },
+ "P3300253": {
+  "property_id": "P3300253",
+  "search_ref": "CS5769482260",
+  "charges": []
+ },
+ "P3300254": {
+  "property_id": "P3300254",
+  "search_ref": "CS5851831493",
+  "charges": []
+ },
+ "P3300255": {
+  "property_id": "P3300255",
+  "search_ref": "CS7332306306",
+  "charges": []
+ },
+ "P3300256": {
+  "property_id": "P3300256",
+  "search_ref": "CS9762379296",
+  "charges": []
+ },
+ "P3300257": {
+  "property_id": "P3300257",
+  "search_ref": "CS2354350157",
+  "charges": []
+ },
+ "P3300258": {
+  "property_id": "P3300258",
+  "search_ref": "CS3999405532",
+  "charges": []
+ },
+ "P3300259": {
+  "property_id": "P3300259",
+  "search_ref": "CS1367152948",
+  "charges": []
+ },
+ "P3300260": {
+  "property_id": "P3300260",
+  "search_ref": "CS2475881007",
+  "charges": []
+ },
+ "P3300261": {
+  "property_id": "P3300261",
+  "search_ref": "CS2829583956",
+  "charges": []
+ },
+ "P3300262": {
+  "property_id": "P3300262",
+  "search_ref": "CS7155976908",
+  "charges": []
+ },
+ "P3300263": {
+  "property_id": "P3300263",
+  "search_ref": "CS6302276194",
+  "charges": [
+   {
+    "security_interest_id": "SI-400025779744",
+    "charge_holder": "Pragati Housing Finance",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2019-12-13",
+    "amount_secured": 3420000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300264": {
+  "property_id": "P3300264",
+  "search_ref": "CS4002746376",
+  "charges": []
+ },
+ "P3300265": {
+  "property_id": "P3300265",
+  "search_ref": "CS5137466964",
+  "charges": []
+ },
+ "P3300266": {
+  "property_id": "P3300266",
+  "search_ref": "CS6598243674",
+  "charges": []
+ },
+ "P3300267": {
+  "property_id": "P3300267",
+  "search_ref": "CS3021576085",
+  "charges": []
+ },
+ "P3300268": {
+  "property_id": "P3300268",
+  "search_ref": "CS6659597032",
+  "charges": []
+ },
+ "P3300269": {
+  "property_id": "P3300269",
+  "search_ref": "CS4930348355",
+  "charges": []
+ },
+ "P3300270": {
+  "property_id": "P3300270",
+  "search_ref": "CS3473241879",
+  "charges": []
+ },
+ "P3300271": {
+  "property_id": "P3300271",
+  "search_ref": "CS5178052311",
+  "charges": []
+ },
+ "P3300272": {
+  "property_id": "P3300272",
+  "search_ref": "CS7887250832",
+  "charges": []
+ },
+ "P3300273": {
+  "property_id": "P3300273",
+  "search_ref": "CS4843300277",
+  "charges": []
+ },
+ "P3300274": {
+  "property_id": "P3300274",
+  "search_ref": "CS7786063443",
+  "charges": []
+ },
+ "P3300275": {
+  "property_id": "P3300275",
+  "search_ref": "CS8314332806",
+  "charges": []
+ },
+ "P3300276": {
+  "property_id": "P3300276",
+  "search_ref": "CS8025049350",
+  "charges": []
+ },
+ "P3300277": {
+  "property_id": "P3300277",
+  "search_ref": "CS6803566468",
+  "charges": []
+ },
+ "P3300278": {
+  "property_id": "P3300278",
+  "search_ref": "CS7143543659",
+  "charges": []
+ },
+ "P3300279": {
+  "property_id": "P3300279",
+  "search_ref": "CS7248993039",
+  "charges": []
+ },
+ "P3300280": {
+  "property_id": "P3300280",
+  "search_ref": "CS4275744419",
+  "charges": []
+ },
+ "P3300281": {
+  "property_id": "P3300281",
+  "search_ref": "CS5029819219",
+  "charges": []
+ },
+ "P3300282": {
+  "property_id": "P3300282",
+  "search_ref": "CS4232532170",
+  "charges": []
+ },
+ "P3300283": {
+  "property_id": "P3300283",
+  "search_ref": "CS1205545441",
+  "charges": []
+ },
+ "P3300284": {
+  "property_id": "P3300284",
+  "search_ref": "CS2001449065",
+  "charges": []
+ },
+ "P3300285": {
+  "property_id": "P3300285",
+  "search_ref": "CS5399323493",
+  "charges": []
+ },
+ "P3300286": {
+  "property_id": "P3300286",
+  "search_ref": "CS7638544996",
+  "charges": []
+ },
+ "P3300287": {
+  "property_id": "P3300287",
+  "search_ref": "CS1167943393",
+  "charges": []
+ },
+ "P3300288": {
+  "property_id": "P3300288",
+  "search_ref": "CS4119190722",
+  "charges": []
+ },
+ "P3300289": {
+  "property_id": "P3300289",
+  "search_ref": "CS2911301483",
+  "charges": []
+ },
+ "P3300290": {
+  "property_id": "P3300290",
+  "search_ref": "CS5321875154",
+  "charges": []
+ },
+ "P3300291": {
+  "property_id": "P3300291",
+  "search_ref": "CS9475852509",
+  "charges": []
+ },
+ "P3300292": {
+  "property_id": "P3300292",
+  "search_ref": "CS8918167727",
+  "charges": []
+ },
+ "P3300293": {
+  "property_id": "P3300293",
+  "search_ref": "CS7114218745",
+  "charges": []
+ },
+ "P3300294": {
+  "property_id": "P3300294",
+  "search_ref": "CS8838255273",
+  "charges": []
+ },
+ "P3300295": {
+  "property_id": "P3300295",
+  "search_ref": "CS4841731357",
+  "charges": []
+ },
+ "P3300296": {
+  "property_id": "P3300296",
+  "search_ref": "CS9551338800",
+  "charges": []
+ },
+ "P3300297": {
+  "property_id": "P3300297",
+  "search_ref": "CS4526414025",
+  "charges": []
+ },
+ "P3300298": {
+  "property_id": "P3300298",
+  "search_ref": "CS1197735456",
+  "charges": []
+ },
+ "P3300299": {
+  "property_id": "P3300299",
+  "search_ref": "CS7861795433",
+  "charges": []
+ },
+ "P3300300": {
+  "property_id": "P3300300",
+  "search_ref": "CS5535969690",
+  "charges": []
+ },
+ "P3300301": {
+  "property_id": "P3300301",
+  "search_ref": "CS6244497414",
+  "charges": []
+ },
+ "P3300302": {
+  "property_id": "P3300302",
+  "search_ref": "CS7514960098",
+  "charges": []
+ },
+ "P3300303": {
+  "property_id": "P3300303",
+  "search_ref": "CS7076163750",
+  "charges": []
+ },
+ "P3300304": {
+  "property_id": "P3300304",
+  "search_ref": "CS2985036448",
+  "charges": []
+ },
+ "P3300305": {
+  "property_id": "P3300305",
+  "search_ref": "CS2322935415",
+  "charges": []
+ },
+ "P3300306": {
+  "property_id": "P3300306",
+  "search_ref": "CS5664465309",
+  "charges": []
+ },
+ "P3300307": {
+  "property_id": "P3300307",
+  "search_ref": "CS8383341596",
+  "charges": []
+ },
+ "P3300308": {
+  "property_id": "P3300308",
+  "search_ref": "CS1996093770",
+  "charges": []
+ },
+ "P3300309": {
+  "property_id": "P3300309",
+  "search_ref": "CS7187291986",
+  "charges": []
+ },
+ "P3300310": {
+  "property_id": "P3300310",
+  "search_ref": "CS6932209969",
+  "charges": []
+ },
+ "P3300311": {
+  "property_id": "P3300311",
+  "search_ref": "CS2534893723",
+  "charges": []
+ },
+ "P3300312": {
+  "property_id": "P3300312",
+  "search_ref": "CS4398009916",
+  "charges": []
+ },
+ "P3300313": {
+  "property_id": "P3300313",
+  "search_ref": "CS4429360339",
+  "charges": []
+ },
+ "P3300314": {
+  "property_id": "P3300314",
+  "search_ref": "CS2869866197",
+  "charges": []
+ },
+ "P3300315": {
+  "property_id": "P3300315",
+  "search_ref": "CS9670823518",
+  "charges": []
+ },
+ "P3300316": {
+  "property_id": "P3300316",
+  "search_ref": "CS9504238442",
+  "charges": []
+ },
+ "P3300317": {
+  "property_id": "P3300317",
+  "search_ref": "CS6451632726",
+  "charges": []
+ },
+ "P3300318": {
+  "property_id": "P3300318",
+  "search_ref": "CS2489769333",
+  "charges": []
+ },
+ "P3300319": {
+  "property_id": "P3300319",
+  "search_ref": "CS2916981562",
+  "charges": []
+ },
+ "P3300320": {
+  "property_id": "P3300320",
+  "search_ref": "CS3913474777",
+  "charges": []
+ },
+ "P3300321": {
+  "property_id": "P3300321",
+  "search_ref": "CS8357134651",
+  "charges": []
+ },
+ "P3300322": {
+  "property_id": "P3300322",
+  "search_ref": "CS6100384177",
+  "charges": []
+ },
+ "P3300323": {
+  "property_id": "P3300323",
+  "search_ref": "CS6188211877",
+  "charges": []
+ },
+ "P3300324": {
+  "property_id": "P3300324",
+  "search_ref": "CS6110293926",
+  "charges": []
+ },
+ "P3300325": {
+  "property_id": "P3300325",
+  "search_ref": "CS9280632071",
+  "charges": []
+ },
+ "P3300326": {
+  "property_id": "P3300326",
+  "search_ref": "CS8707105609",
+  "charges": []
+ },
+ "P3300327": {
+  "property_id": "P3300327",
+  "search_ref": "CS2777646338",
+  "charges": []
+ },
+ "P3300328": {
+  "property_id": "P3300328",
+  "search_ref": "CS5738748309",
+  "charges": []
+ },
+ "P3300329": {
+  "property_id": "P3300329",
+  "search_ref": "CS1745512366",
+  "charges": []
+ },
+ "P3300330": {
+  "property_id": "P3300330",
+  "search_ref": "CS6176099902",
+  "charges": []
+ },
+ "P3300331": {
+  "property_id": "P3300331",
+  "search_ref": "CS1476427135",
+  "charges": []
+ },
+ "P3300332": {
+  "property_id": "P3300332",
+  "search_ref": "CS2663576083",
+  "charges": []
+ },
+ "P3300333": {
+  "property_id": "P3300333",
+  "search_ref": "CS6917125816",
+  "charges": []
+ },
+ "P3300334": {
+  "property_id": "P3300334",
+  "search_ref": "CS7430099552",
+  "charges": []
+ },
+ "P3300335": {
+  "property_id": "P3300335",
+  "search_ref": "CS2227588887",
+  "charges": []
+ },
+ "P3300336": {
+  "property_id": "P3300336",
+  "search_ref": "CS5696463308",
+  "charges": [
+   {
+    "security_interest_id": "SI-400038218263",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2022-12-02",
+    "amount_secured": 5440000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300337": {
+  "property_id": "P3300337",
+  "search_ref": "CS2641121092",
+  "charges": []
+ },
+ "P3300338": {
+  "property_id": "P3300338",
+  "search_ref": "CS6260540261",
+  "charges": []
+ },
+ "P3300339": {
+  "property_id": "P3300339",
+  "search_ref": "CS7323648509",
+  "charges": []
+ },
+ "P3300340": {
+  "property_id": "P3300340",
+  "search_ref": "CS2660266239",
+  "charges": []
+ },
+ "P3300341": {
+  "property_id": "P3300341",
+  "search_ref": "CS4644631676",
+  "charges": []
+ },
+ "P3300342": {
+  "property_id": "P3300342",
+  "search_ref": "CS2600439192",
+  "charges": []
+ },
+ "P3300343": {
+  "property_id": "P3300343",
+  "search_ref": "CS5325192434",
+  "charges": []
+ },
+ "P3300344": {
+  "property_id": "P3300344",
+  "search_ref": "CS3938323365",
+  "charges": []
+ },
+ "P3300345": {
+  "property_id": "P3300345",
+  "search_ref": "CS8281084802",
+  "charges": []
+ },
+ "P3300346": {
+  "property_id": "P3300346",
+  "search_ref": "CS7440364856",
+  "charges": []
+ },
+ "P3300347": {
+  "property_id": "P3300347",
+  "search_ref": "CS8496267478",
+  "charges": []
+ },
+ "P3300348": {
+  "property_id": "P3300348",
+  "search_ref": "CS6390330431",
+  "charges": []
+ },
+ "P3300349": {
+  "property_id": "P3300349",
+  "search_ref": "CS3124886716",
+  "charges": []
+ },
+ "P3300350": {
+  "property_id": "P3300350",
+  "search_ref": "CS5715293106",
+  "charges": []
+ },
+ "P3300351": {
+  "property_id": "P3300351",
+  "search_ref": "CS8314058825",
+  "charges": []
+ },
+ "P3300352": {
+  "property_id": "P3300352",
+  "search_ref": "CS1742654047",
+  "charges": []
+ },
+ "P3300353": {
+  "property_id": "P3300353",
+  "search_ref": "CS9147633984",
+  "charges": []
+ },
+ "P3300354": {
+  "property_id": "P3300354",
+  "search_ref": "CS7947777976",
+  "charges": []
+ },
+ "P3300355": {
+  "property_id": "P3300355",
+  "search_ref": "CS4013599635",
+  "charges": []
+ },
+ "P3300356": {
+  "property_id": "P3300356",
+  "search_ref": "CS6544638759",
+  "charges": []
+ },
+ "P3300357": {
+  "property_id": "P3300357",
+  "search_ref": "CS4211992639",
+  "charges": []
+ },
+ "P3300358": {
+  "property_id": "P3300358",
+  "search_ref": "CS8886277170",
+  "charges": []
+ },
+ "P3300359": {
+  "property_id": "P3300359",
+  "search_ref": "CS5507520077",
+  "charges": []
+ },
+ "P3300360": {
+  "property_id": "P3300360",
+  "search_ref": "CS3570317729",
+  "charges": []
+ },
+ "P3300361": {
+  "property_id": "P3300361",
+  "search_ref": "CS3202351394",
+  "charges": []
+ },
+ "P3300362": {
+  "property_id": "P3300362",
+  "search_ref": "CS9257436112",
+  "charges": []
+ },
+ "P3300363": {
+  "property_id": "P3300363",
+  "search_ref": "CS9094516532",
+  "charges": []
+ },
+ "P3300364": {
+  "property_id": "P3300364",
+  "search_ref": "CS5447897483",
+  "charges": []
+ },
+ "P3300365": {
+  "property_id": "P3300365",
+  "search_ref": "CS7473264709",
+  "charges": []
+ },
+ "P3300366": {
+  "property_id": "P3300366",
+  "search_ref": "CS8196292868",
+  "charges": []
+ },
+ "P3300367": {
+  "property_id": "P3300367",
+  "search_ref": "CS5734634739",
+  "charges": []
+ },
+ "P3300368": {
+  "property_id": "P3300368",
+  "search_ref": "CS6248369012",
+  "charges": []
+ },
+ "P3300369": {
+  "property_id": "P3300369",
+  "search_ref": "CS7109609229",
+  "charges": []
+ },
+ "P3300370": {
+  "property_id": "P3300370",
+  "search_ref": "CS3459036495",
+  "charges": []
+ },
+ "P3300371": {
+  "property_id": "P3300371",
+  "search_ref": "CS1437851380",
+  "charges": []
+ },
+ "P3300372": {
+  "property_id": "P3300372",
+  "search_ref": "CS3820387196",
+  "charges": []
+ },
+ "P3300373": {
+  "property_id": "P3300373",
+  "search_ref": "CS1960142793",
+  "charges": []
+ },
+ "P3300374": {
+  "property_id": "P3300374",
+  "search_ref": "CS9502752980",
+  "charges": []
+ },
+ "P3300375": {
+  "property_id": "P3300375",
+  "search_ref": "CS7527118545",
+  "charges": []
+ },
+ "P3300376": {
+  "property_id": "P3300376",
+  "search_ref": "CS4623243929",
+  "charges": []
+ },
+ "P3300377": {
+  "property_id": "P3300377",
+  "search_ref": "CS1598818389",
+  "charges": []
+ },
+ "P3300378": {
+  "property_id": "P3300378",
+  "search_ref": "CS1141818837",
+  "charges": []
+ },
+ "P3300379": {
+  "property_id": "P3300379",
+  "search_ref": "CS9293693821",
+  "charges": []
+ },
+ "P3300380": {
+  "property_id": "P3300380",
+  "search_ref": "CS7456631921",
+  "charges": []
+ },
+ "P3300381": {
+  "property_id": "P3300381",
+  "search_ref": "CS8657285605",
+  "charges": []
+ },
+ "P3300382": {
+  "property_id": "P3300382",
+  "search_ref": "CS9594254149",
+  "charges": []
+ },
+ "P3300383": {
+  "property_id": "P3300383",
+  "search_ref": "CS7802756290",
+  "charges": []
+ },
+ "P3300384": {
+  "property_id": "P3300384",
+  "search_ref": "CS9005098604",
+  "charges": []
+ },
+ "P3300385": {
+  "property_id": "P3300385",
+  "search_ref": "CS7890298957",
+  "charges": []
+ },
+ "P3300386": {
+  "property_id": "P3300386",
+  "search_ref": "CS4615449097",
+  "charges": []
+ },
+ "P3300387": {
+  "property_id": "P3300387",
+  "search_ref": "CS5905086681",
+  "charges": []
+ },
+ "P3300388": {
+  "property_id": "P3300388",
+  "search_ref": "CS8929277605",
+  "charges": []
+ },
+ "P3300389": {
+  "property_id": "P3300389",
+  "search_ref": "CS4467702131",
+  "charges": []
+ },
+ "P3300390": {
+  "property_id": "P3300390",
+  "search_ref": "CS9794689411",
+  "charges": []
+ },
+ "P3300391": {
+  "property_id": "P3300391",
+  "search_ref": "CS4842241507",
+  "charges": []
+ },
+ "P3300392": {
+  "property_id": "P3300392",
+  "search_ref": "CS6286154323",
+  "charges": []
+ },
+ "P3300393": {
+  "property_id": "P3300393",
+  "search_ref": "CS9673808258",
+  "charges": []
+ },
+ "P3300394": {
+  "property_id": "P3300394",
+  "search_ref": "CS2975748561",
+  "charges": []
+ },
+ "P3300395": {
+  "property_id": "P3300395",
+  "search_ref": "CS2281305887",
+  "charges": []
+ },
+ "P3300396": {
+  "property_id": "P3300396",
+  "search_ref": "CS8174467565",
+  "charges": []
+ },
+ "P3300397": {
+  "property_id": "P3300397",
+  "search_ref": "CS9506776462",
+  "charges": []
+ },
+ "P3300398": {
+  "property_id": "P3300398",
+  "search_ref": "CS5209607789",
+  "charges": []
+ },
+ "P3300399": {
+  "property_id": "P3300399",
+  "search_ref": "CS7864725430",
+  "charges": []
+ },
+ "P3300400": {
+  "property_id": "P3300400",
+  "search_ref": "CS9384657286",
+  "charges": []
+ },
+ "P3300401": {
+  "property_id": "P3300401",
+  "search_ref": "CS3559551298",
+  "charges": []
+ },
+ "P3300402": {
+  "property_id": "P3300402",
+  "search_ref": "CS8575548719",
+  "charges": []
+ },
+ "P3300403": {
+  "property_id": "P3300403",
+  "search_ref": "CS8712356477",
+  "charges": []
+ },
+ "P3300404": {
+  "property_id": "P3300404",
+  "search_ref": "CS3416953867",
+  "charges": [
+   {
+    "security_interest_id": "SI-400011264794",
+    "charge_holder": "Pragati Housing Finance",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2015-07-01",
+    "amount_secured": 2430000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300405": {
+  "property_id": "P3300405",
+  "search_ref": "CS7852754639",
+  "charges": []
+ },
+ "P3300406": {
+  "property_id": "P3300406",
+  "search_ref": "CS8518569510",
+  "charges": []
+ },
+ "P3300407": {
+  "property_id": "P3300407",
+  "search_ref": "CS5402320691",
+  "charges": []
+ },
+ "P3300408": {
+  "property_id": "P3300408",
+  "search_ref": "CS3005472876",
+  "charges": []
+ },
+ "P3300409": {
+  "property_id": "P3300409",
+  "search_ref": "CS6151020148",
+  "charges": [
+   {
+    "security_interest_id": "SI-400095881460",
+    "charge_holder": "Eastern Home Credit Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2023-09-04",
+    "amount_secured": 5970000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300410": {
+  "property_id": "P3300410",
+  "search_ref": "CS8597974371",
+  "charges": []
+ },
+ "P3300411": {
+  "property_id": "P3300411",
+  "search_ref": "CS5492034575",
+  "charges": []
+ },
+ "P3300412": {
+  "property_id": "P3300412",
+  "search_ref": "CS3768403508",
+  "charges": [
+   {
+    "security_interest_id": "SI-400066378066",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2022-05-17",
+    "amount_secured": 4550000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300413": {
+  "property_id": "P3300413",
+  "search_ref": "CS7227044499",
+  "charges": []
+ },
+ "P3300414": {
+  "property_id": "P3300414",
+  "search_ref": "CS7533160845",
+  "charges": []
+ },
+ "P3300415": {
+  "property_id": "P3300415",
+  "search_ref": "CS1386085834",
+  "charges": []
+ },
+ "P3300416": {
+  "property_id": "P3300416",
+  "search_ref": "CS6984171764",
+  "charges": []
+ },
+ "P3300417": {
+  "property_id": "P3300417",
+  "search_ref": "CS3958859896",
+  "charges": []
+ },
+ "P3300418": {
+  "property_id": "P3300418",
+  "search_ref": "CS4551236942",
+  "charges": []
+ },
+ "P3300419": {
+  "property_id": "P3300419",
+  "search_ref": "CS2216715952",
+  "charges": []
+ },
+ "P3300420": {
+  "property_id": "P3300420",
+  "search_ref": "CS7601903510",
+  "charges": []
+ },
+ "P3300421": {
+  "property_id": "P3300421",
+  "search_ref": "CS1320217645",
+  "charges": [
+   {
+    "security_interest_id": "SI-400036860788",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2020-05-30",
+    "amount_secured": 3830000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300422": {
+  "property_id": "P3300422",
+  "search_ref": "CS9598979086",
+  "charges": []
+ },
+ "P3300423": {
+  "property_id": "P3300423",
+  "search_ref": "CS4459118105",
+  "charges": []
+ },
+ "P3300424": {
+  "property_id": "P3300424",
+  "search_ref": "CS3625364135",
+  "charges": []
+ },
+ "P3300425": {
+  "property_id": "P3300425",
+  "search_ref": "CS8298241480",
+  "charges": []
+ },
+ "P3300426": {
+  "property_id": "P3300426",
+  "search_ref": "CS5032451161",
+  "charges": []
+ },
+ "P3300427": {
+  "property_id": "P3300427",
+  "search_ref": "CS9815595272",
+  "charges": []
+ },
+ "P3300428": {
+  "property_id": "P3300428",
+  "search_ref": "CS2595422840",
+  "charges": []
+ },
+ "P3300429": {
+  "property_id": "P3300429",
+  "search_ref": "CS7995469754",
+  "charges": [
+   {
+    "security_interest_id": "SI-400043796432",
+    "charge_holder": "Eastern Home Credit Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2020-10-03",
+    "amount_secured": 1900000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300430": {
+  "property_id": "P3300430",
+  "search_ref": "CS3954748533",
+  "charges": []
+ },
+ "P3300431": {
+  "property_id": "P3300431",
+  "search_ref": "CS3976368026",
+  "charges": []
+ },
+ "P3300432": {
+  "property_id": "P3300432",
+  "search_ref": "CS2055129694",
+  "charges": []
+ },
+ "P3300433": {
+  "property_id": "P3300433",
+  "search_ref": "CS7380701670",
+  "charges": []
+ },
+ "P3300434": {
+  "property_id": "P3300434",
+  "search_ref": "CS7777662303",
+  "charges": []
+ },
+ "P3300435": {
+  "property_id": "P3300435",
+  "search_ref": "CS7700705185",
+  "charges": []
+ },
+ "P3300436": {
+  "property_id": "P3300436",
+  "search_ref": "CS9296830331",
+  "charges": []
+ },
+ "P3300437": {
+  "property_id": "P3300437",
+  "search_ref": "CS2571899306",
+  "charges": []
+ },
+ "P3300438": {
+  "property_id": "P3300438",
+  "search_ref": "CS1633500433",
+  "charges": []
+ },
+ "P3300439": {
+  "property_id": "P3300439",
+  "search_ref": "CS1600525601",
+  "charges": []
+ },
+ "P3300440": {
+  "property_id": "P3300440",
+  "search_ref": "CS4260647200",
+  "charges": []
+ },
+ "P3300441": {
+  "property_id": "P3300441",
+  "search_ref": "CS9627973656",
+  "charges": []
+ },
+ "P3300442": {
+  "property_id": "P3300442",
+  "search_ref": "CS1467730669",
+  "charges": []
+ },
+ "P3300443": {
+  "property_id": "P3300443",
+  "search_ref": "CS8593707652",
+  "charges": []
+ },
+ "P3300444": {
+  "property_id": "P3300444",
+  "search_ref": "CS5171574816",
+  "charges": []
+ },
+ "P3300445": {
+  "property_id": "P3300445",
+  "search_ref": "CS7206347294",
+  "charges": []
+ },
+ "P3300446": {
+  "property_id": "P3300446",
+  "search_ref": "CS4853934239",
+  "charges": []
+ },
+ "P3300447": {
+  "property_id": "P3300447",
+  "search_ref": "CS5934765408",
+  "charges": []
+ },
+ "P3300448": {
+  "property_id": "P3300448",
+  "search_ref": "CS2422944899",
+  "charges": []
+ },
+ "P3300449": {
+  "property_id": "P3300449",
+  "search_ref": "CS9402835247",
+  "charges": []
+ },
+ "P3300450": {
+  "property_id": "P3300450",
+  "search_ref": "CS2881405366",
+  "charges": []
+ },
+ "P3300451": {
+  "property_id": "P3300451",
+  "search_ref": "CS4805437494",
+  "charges": []
+ },
+ "P3300452": {
+  "property_id": "P3300452",
+  "search_ref": "CS3620928820",
+  "charges": [
+   {
+    "security_interest_id": "SI-400023945552",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2018-03-27",
+    "amount_secured": 1420000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300453": {
+  "property_id": "P3300453",
+  "search_ref": "CS8198342043",
+  "charges": []
+ },
+ "P3300454": {
+  "property_id": "P3300454",
+  "search_ref": "CS6108635018",
+  "charges": []
+ },
+ "P3300455": {
+  "property_id": "P3300455",
+  "search_ref": "CS7112107631",
+  "charges": []
+ },
+ "P3300456": {
+  "property_id": "P3300456",
+  "search_ref": "CS9296795163",
+  "charges": [
+   {
+    "security_interest_id": "SI-400090235373",
+    "charge_holder": "Eastern Home Credit Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2018-12-11",
+    "amount_secured": 2300000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300457": {
+  "property_id": "P3300457",
+  "search_ref": "CS1378597264",
+  "charges": []
+ },
+ "P3300458": {
+  "property_id": "P3300458",
+  "search_ref": "CS5601013504",
+  "charges": [
+   {
+    "security_interest_id": "SI-400082699628",
+    "charge_holder": "Pragati Housing Finance",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2016-12-08",
+    "amount_secured": 4430000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300459": {
+  "property_id": "P3300459",
+  "search_ref": "CS1448150934",
+  "charges": []
+ },
+ "P3300460": {
+  "property_id": "P3300460",
+  "search_ref": "CS2183857020",
+  "charges": []
+ },
+ "P3300461": {
+  "property_id": "P3300461",
+  "search_ref": "CS1680109216",
+  "charges": []
+ },
+ "P3300462": {
+  "property_id": "P3300462",
+  "search_ref": "CS3843025187",
+  "charges": []
+ },
+ "P3300463": {
+  "property_id": "P3300463",
+  "search_ref": "CS2452620454",
+  "charges": []
+ },
+ "P3300464": {
+  "property_id": "P3300464",
+  "search_ref": "CS5238491095",
+  "charges": []
+ },
+ "P3300465": {
+  "property_id": "P3300465",
+  "search_ref": "CS8387091971",
+  "charges": []
+ },
+ "P3300466": {
+  "property_id": "P3300466",
+  "search_ref": "CS9190106136",
+  "charges": []
+ },
+ "P3300467": {
+  "property_id": "P3300467",
+  "search_ref": "CS8964913507",
+  "charges": []
+ },
+ "P3300468": {
+  "property_id": "P3300468",
+  "search_ref": "CS8900690338",
+  "charges": []
+ },
+ "P3300469": {
+  "property_id": "P3300469",
+  "search_ref": "CS2231448336",
+  "charges": []
+ },
+ "P3300470": {
+  "property_id": "P3300470",
+  "search_ref": "CS1538614968",
+  "charges": []
+ },
+ "P3300471": {
+  "property_id": "P3300471",
+  "search_ref": "CS4100863945",
+  "charges": []
+ },
+ "P3300472": {
+  "property_id": "P3300472",
+  "search_ref": "CS5400580950",
+  "charges": []
+ },
+ "P3300473": {
+  "property_id": "P3300473",
+  "search_ref": "CS3081124924",
+  "charges": []
+ },
+ "P3300474": {
+  "property_id": "P3300474",
+  "search_ref": "CS1520682419",
+  "charges": []
+ },
+ "P3300475": {
+  "property_id": "P3300475",
+  "search_ref": "CS9664037600",
+  "charges": []
+ },
+ "P3300476": {
+  "property_id": "P3300476",
+  "search_ref": "CS3070840348",
+  "charges": []
+ },
+ "P3300477": {
+  "property_id": "P3300477",
+  "search_ref": "CS4469111739",
+  "charges": []
+ },
+ "P3300478": {
+  "property_id": "P3300478",
+  "search_ref": "CS9926464133",
+  "charges": []
+ },
+ "P3300479": {
+  "property_id": "P3300479",
+  "search_ref": "CS2813801585",
+  "charges": []
+ },
+ "P3300480": {
+  "property_id": "P3300480",
+  "search_ref": "CS2817664903",
+  "charges": []
+ },
+ "P3300481": {
+  "property_id": "P3300481",
+  "search_ref": "CS2313409510",
+  "charges": []
+ },
+ "P3300482": {
+  "property_id": "P3300482",
+  "search_ref": "CS5783988481",
+  "charges": []
+ },
+ "P3300483": {
+  "property_id": "P3300483",
+  "search_ref": "CS3987963086",
+  "charges": []
+ },
+ "P3300484": {
+  "property_id": "P3300484",
+  "search_ref": "CS6874349096",
+  "charges": []
+ },
+ "P3300485": {
+  "property_id": "P3300485",
+  "search_ref": "CS9161461472",
+  "charges": []
+ },
+ "P3300486": {
+  "property_id": "P3300486",
+  "search_ref": "CS4591276746",
+  "charges": []
+ },
+ "P3300487": {
+  "property_id": "P3300487",
+  "search_ref": "CS3430601654",
+  "charges": []
+ },
+ "P3300488": {
+  "property_id": "P3300488",
+  "search_ref": "CS7297457977",
+  "charges": []
+ },
+ "P3300489": {
+  "property_id": "P3300489",
+  "search_ref": "CS7736891249",
+  "charges": []
+ },
+ "P3300490": {
+  "property_id": "P3300490",
+  "search_ref": "CS4375161003",
+  "charges": []
+ },
+ "P3300491": {
+  "property_id": "P3300491",
+  "search_ref": "CS6041930296",
+  "charges": []
+ },
+ "P3300492": {
+  "property_id": "P3300492",
+  "search_ref": "CS1596227438",
+  "charges": []
+ },
+ "P3300493": {
+  "property_id": "P3300493",
+  "search_ref": "CS8102229022",
+  "charges": []
+ },
+ "P3300494": {
+  "property_id": "P3300494",
+  "search_ref": "CS3038375579",
+  "charges": []
+ },
+ "P3300495": {
+  "property_id": "P3300495",
+  "search_ref": "CS1701469658",
+  "charges": [
+   {
+    "security_interest_id": "SI-400023740522",
+    "charge_holder": "Eastern Home Credit Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2018-03-01",
+    "amount_secured": 3620000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300496": {
+  "property_id": "P3300496",
+  "search_ref": "CS3137652803",
+  "charges": []
+ },
+ "P3300497": {
+  "property_id": "P3300497",
+  "search_ref": "CS8063971024",
+  "charges": []
+ },
+ "P3300498": {
+  "property_id": "P3300498",
+  "search_ref": "CS2074951383",
+  "charges": []
+ },
+ "P3300499": {
+  "property_id": "P3300499",
+  "search_ref": "CS2733666195",
+  "charges": []
+ },
+ "P3300500": {
+  "property_id": "P3300500",
+  "search_ref": "CS1471319215",
+  "charges": []
+ },
+ "P3300501": {
+  "property_id": "P3300501",
+  "search_ref": "CS5922092135",
+  "charges": []
+ },
+ "P3300502": {
+  "property_id": "P3300502",
+  "search_ref": "CS6555101912",
+  "charges": []
+ },
+ "P3300503": {
+  "property_id": "P3300503",
+  "search_ref": "CS1071282059",
+  "charges": []
+ },
+ "P3300504": {
+  "property_id": "P3300504",
+  "search_ref": "CS6639035364",
+  "charges": []
+ },
+ "P3300505": {
+  "property_id": "P3300505",
+  "search_ref": "CS3792800420",
+  "charges": []
+ },
+ "P3300506": {
+  "property_id": "P3300506",
+  "search_ref": "CS7267931415",
+  "charges": []
+ },
+ "P3300507": {
+  "property_id": "P3300507",
+  "search_ref": "CS5980459518",
+  "charges": []
+ },
+ "P3300508": {
+  "property_id": "P3300508",
+  "search_ref": "CS7904501932",
+  "charges": []
+ },
+ "P3300509": {
+  "property_id": "P3300509",
+  "search_ref": "CS6145404749",
+  "charges": []
+ },
+ "P3300510": {
+  "property_id": "P3300510",
+  "search_ref": "CS7385301599",
+  "charges": []
+ },
+ "P3300511": {
+  "property_id": "P3300511",
+  "search_ref": "CS6108539400",
+  "charges": []
+ },
+ "P3300512": {
+  "property_id": "P3300512",
+  "search_ref": "CS5650465636",
+  "charges": []
+ },
+ "P3300513": {
+  "property_id": "P3300513",
+  "search_ref": "CS2230806222",
+  "charges": []
+ },
+ "P3300514": {
+  "property_id": "P3300514",
+  "search_ref": "CS6499317366",
+  "charges": []
+ },
+ "P3300515": {
+  "property_id": "P3300515",
+  "search_ref": "CS7216937618",
+  "charges": [
+   {
+    "security_interest_id": "SI-400094496711",
+    "charge_holder": "Pragati Housing Finance",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2019-08-10",
+    "amount_secured": 1320000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300516": {
+  "property_id": "P3300516",
+  "search_ref": "CS8938517097",
+  "charges": []
+ },
+ "P3300517": {
+  "property_id": "P3300517",
+  "search_ref": "CS5204289814",
+  "charges": []
+ },
+ "P3300518": {
+  "property_id": "P3300518",
+  "search_ref": "CS1068531022",
+  "charges": []
+ },
+ "P3300519": {
+  "property_id": "P3300519",
+  "search_ref": "CS9270019714",
+  "charges": []
+ },
+ "P3300520": {
+  "property_id": "P3300520",
+  "search_ref": "CS1127109036",
+  "charges": []
+ },
+ "P3300521": {
+  "property_id": "P3300521",
+  "search_ref": "CS5504863556",
+  "charges": []
+ },
+ "P3300522": {
+  "property_id": "P3300522",
+  "search_ref": "CS6387383304",
+  "charges": []
+ },
+ "P3300523": {
+  "property_id": "P3300523",
+  "search_ref": "CS7428418532",
+  "charges": []
+ },
+ "P3300524": {
+  "property_id": "P3300524",
+  "search_ref": "CS2675640529",
+  "charges": []
+ },
+ "P3300525": {
+  "property_id": "P3300525",
+  "search_ref": "CS6172219503",
+  "charges": []
+ },
+ "P3300526": {
+  "property_id": "P3300526",
+  "search_ref": "CS2475510467",
+  "charges": []
+ },
+ "P3300527": {
+  "property_id": "P3300527",
+  "search_ref": "CS8549565599",
+  "charges": []
+ },
+ "P3300528": {
+  "property_id": "P3300528",
+  "search_ref": "CS2622038036",
+  "charges": []
+ },
+ "P3300529": {
+  "property_id": "P3300529",
+  "search_ref": "CS4412597229",
+  "charges": []
+ },
+ "P3300530": {
+  "property_id": "P3300530",
+  "search_ref": "CS9629623042",
+  "charges": []
+ },
+ "P3300531": {
+  "property_id": "P3300531",
+  "search_ref": "CS4346578257",
+  "charges": []
+ },
+ "P3300532": {
+  "property_id": "P3300532",
+  "search_ref": "CS1112934353",
+  "charges": []
+ },
+ "P3300533": {
+  "property_id": "P3300533",
+  "search_ref": "CS3458398502",
+  "charges": []
+ },
+ "P3300534": {
+  "property_id": "P3300534",
+  "search_ref": "CS2372098199",
+  "charges": []
+ },
+ "P3300535": {
+  "property_id": "P3300535",
+  "search_ref": "CS8920699580",
+  "charges": []
+ },
+ "P3300536": {
+  "property_id": "P3300536",
+  "search_ref": "CS7537622814",
+  "charges": []
+ },
+ "P3300537": {
+  "property_id": "P3300537",
+  "search_ref": "CS5630183038",
+  "charges": []
+ },
+ "P3300538": {
+  "property_id": "P3300538",
+  "search_ref": "CS1508191537",
+  "charges": []
+ },
+ "P3300539": {
+  "property_id": "P3300539",
+  "search_ref": "CS4302276406",
+  "charges": []
+ },
+ "P3300540": {
+  "property_id": "P3300540",
+  "search_ref": "CS4285709363",
+  "charges": [
+   {
+    "security_interest_id": "SI-400034504296",
+    "charge_holder": "Eastern Home Credit Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2017-01-05",
+    "amount_secured": 3370000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300541": {
+  "property_id": "P3300541",
+  "search_ref": "CS6838328244",
+  "charges": []
+ },
+ "P3300542": {
+  "property_id": "P3300542",
+  "search_ref": "CS4500008429",
+  "charges": []
+ },
+ "P3300543": {
+  "property_id": "P3300543",
+  "search_ref": "CS1413577595",
+  "charges": []
+ },
+ "P3300544": {
+  "property_id": "P3300544",
+  "search_ref": "CS8489289065",
+  "charges": []
+ },
+ "P3300545": {
+  "property_id": "P3300545",
+  "search_ref": "CS6209015682",
+  "charges": []
+ },
+ "P3300546": {
+  "property_id": "P3300546",
+  "search_ref": "CS7147148940",
+  "charges": []
+ },
+ "P3300547": {
+  "property_id": "P3300547",
+  "search_ref": "CS8612564317",
+  "charges": []
+ },
+ "P3300548": {
+  "property_id": "P3300548",
+  "search_ref": "CS5267709243",
+  "charges": []
+ },
+ "P3300549": {
+  "property_id": "P3300549",
+  "search_ref": "CS6620777948",
+  "charges": []
+ },
+ "P3300550": {
+  "property_id": "P3300550",
+  "search_ref": "CS8410895899",
+  "charges": []
+ },
+ "P3300551": {
+  "property_id": "P3300551",
+  "search_ref": "CS4886983827",
+  "charges": []
+ },
+ "P3300552": {
+  "property_id": "P3300552",
+  "search_ref": "CS6331655203",
+  "charges": []
+ },
+ "P3300553": {
+  "property_id": "P3300553",
+  "search_ref": "CS8825459042",
+  "charges": []
+ },
+ "P3300554": {
+  "property_id": "P3300554",
+  "search_ref": "CS8841236432",
+  "charges": []
+ },
+ "P3300555": {
+  "property_id": "P3300555",
+  "search_ref": "CS1596660656",
+  "charges": []
+ },
+ "P3300556": {
+  "property_id": "P3300556",
+  "search_ref": "CS3512358103",
+  "charges": []
+ },
+ "P3300557": {
+  "property_id": "P3300557",
+  "search_ref": "CS4112698704",
+  "charges": []
+ },
+ "P3300558": {
+  "property_id": "P3300558",
+  "search_ref": "CS5107632231",
+  "charges": []
+ },
+ "P3300559": {
+  "property_id": "P3300559",
+  "search_ref": "CS4020610208",
+  "charges": []
+ },
+ "P3300560": {
+  "property_id": "P3300560",
+  "search_ref": "CS7091063279",
+  "charges": []
+ },
+ "P3300561": {
+  "property_id": "P3300561",
+  "search_ref": "CS3713779669",
+  "charges": [
+   {
+    "security_interest_id": "SI-400086419645",
+    "charge_holder": "Eastern Home Credit Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2023-04-16",
+    "amount_secured": 4920000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300562": {
+  "property_id": "P3300562",
+  "search_ref": "CS6522395475",
+  "charges": []
+ },
+ "P3300563": {
+  "property_id": "P3300563",
+  "search_ref": "CS1042172859",
+  "charges": []
+ },
+ "P3300564": {
+  "property_id": "P3300564",
+  "search_ref": "CS5884764473",
+  "charges": []
+ },
+ "P3300565": {
+  "property_id": "P3300565",
+  "search_ref": "CS9752560356",
+  "charges": []
+ },
+ "P3300566": {
+  "property_id": "P3300566",
+  "search_ref": "CS8821478694",
+  "charges": []
+ },
+ "P3300567": {
+  "property_id": "P3300567",
+  "search_ref": "CS5521784192",
+  "charges": []
+ },
+ "P3300568": {
+  "property_id": "P3300568",
+  "search_ref": "CS6992420988",
+  "charges": []
+ },
+ "P3300569": {
+  "property_id": "P3300569",
+  "search_ref": "CS5134745565",
+  "charges": []
+ },
+ "P3300570": {
+  "property_id": "P3300570",
+  "search_ref": "CS6096462852",
+  "charges": []
+ },
+ "P3300571": {
+  "property_id": "P3300571",
+  "search_ref": "CS8061136365",
+  "charges": []
+ },
+ "P3300572": {
+  "property_id": "P3300572",
+  "search_ref": "CS3263069025",
+  "charges": [
+   {
+    "security_interest_id": "SI-400017099880",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2020-12-23",
+    "amount_secured": 1900000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300573": {
+  "property_id": "P3300573",
+  "search_ref": "CS2514366506",
+  "charges": []
+ },
+ "P3300574": {
+  "property_id": "P3300574",
+  "search_ref": "CS7630828883",
+  "charges": []
+ },
+ "P3300575": {
+  "property_id": "P3300575",
+  "search_ref": "CS5278365275",
+  "charges": []
+ },
+ "P3300576": {
+  "property_id": "P3300576",
+  "search_ref": "CS4508843794",
+  "charges": []
+ },
+ "P3300577": {
+  "property_id": "P3300577",
+  "search_ref": "CS4293431155",
+  "charges": []
+ },
+ "P3300578": {
+  "property_id": "P3300578",
+  "search_ref": "CS5548107516",
+  "charges": []
+ },
+ "P3300579": {
+  "property_id": "P3300579",
+  "search_ref": "CS8826667977",
+  "charges": []
+ },
+ "P3300580": {
+  "property_id": "P3300580",
+  "search_ref": "CS9271852938",
+  "charges": []
+ },
+ "P3300581": {
+  "property_id": "P3300581",
+  "search_ref": "CS2686043816",
+  "charges": []
+ },
+ "P3300582": {
+  "property_id": "P3300582",
+  "search_ref": "CS7993202176",
+  "charges": []
+ },
+ "P3300583": {
+  "property_id": "P3300583",
+  "search_ref": "CS6792443370",
+  "charges": []
+ },
+ "P3300584": {
+  "property_id": "P3300584",
+  "search_ref": "CS6423761928",
+  "charges": [
+   {
+    "security_interest_id": "SI-400060920986",
+    "charge_holder": "Eastern Home Credit Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2023-01-05",
+    "amount_secured": 2330000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300585": {
+  "property_id": "P3300585",
+  "search_ref": "CS6772350129",
+  "charges": []
+ },
+ "P3300586": {
+  "property_id": "P3300586",
+  "search_ref": "CS6871584152",
+  "charges": []
+ },
+ "P3300587": {
+  "property_id": "P3300587",
+  "search_ref": "CS8612207129",
+  "charges": []
+ },
+ "P3300588": {
+  "property_id": "P3300588",
+  "search_ref": "CS7792554834",
+  "charges": []
+ },
+ "P3300589": {
+  "property_id": "P3300589",
+  "search_ref": "CS8606664382",
+  "charges": []
+ },
+ "P3300590": {
+  "property_id": "P3300590",
+  "search_ref": "CS9995846850",
+  "charges": []
+ },
+ "P3300591": {
+  "property_id": "P3300591",
+  "search_ref": "CS1439860402",
+  "charges": []
+ },
+ "P3300592": {
+  "property_id": "P3300592",
+  "search_ref": "CS4815396234",
+  "charges": []
+ },
+ "P3300593": {
+  "property_id": "P3300593",
+  "search_ref": "CS1010852321",
+  "charges": []
+ },
+ "P3300594": {
+  "property_id": "P3300594",
+  "search_ref": "CS1780448588",
+  "charges": [
+   {
+    "security_interest_id": "SI-400029293452",
+    "charge_holder": "Pragati Housing Finance",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2016-11-17",
+    "amount_secured": 2620000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300595": {
+  "property_id": "P3300595",
+  "search_ref": "CS7965228375",
+  "charges": []
+ },
+ "P3300596": {
+  "property_id": "P3300596",
+  "search_ref": "CS7652316197",
+  "charges": [
+   {
+    "security_interest_id": "SI-400063101260",
+    "charge_holder": "Sahyadri Urban Co-op Bank",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2017-02-12",
+    "amount_secured": 2500000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ },
+ "P3300597": {
+  "property_id": "P3300597",
+  "search_ref": "CS5625115952",
+  "charges": []
+ },
+ "P3300598": {
+  "property_id": "P3300598",
+  "search_ref": "CS6620524245",
+  "charges": []
+ },
+ "P3300599": {
+  "property_id": "P3300599",
+  "search_ref": "CS6490693170",
+  "charges": []
+ },
+ "P3300600": {
+  "property_id": "P3300600",
+  "search_ref": "CS2913032222",
+  "charges": [
+   {
+    "security_interest_id": "SI-400024171502",
+    "charge_holder": "Gomti Housing Finance Ltd",
+    "borrower": "Current owner / seller",
+    "type": "Equitable mortgage",
+    "created_on": "2023-10-29",
+    "amount_secured": 1770000.0,
+    "status": "Subsisting - satisfaction not filed"
+   }
+  ]
+ }
+}

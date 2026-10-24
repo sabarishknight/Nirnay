@@ -1,0 +1,27 @@
+[
+ {
+  "name": "effective_from",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "effective_to",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "repo_rate",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "eblr_spread",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "note",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

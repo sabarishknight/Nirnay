@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How this was built | Nirnay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/app.css">
+</head>
+<body>
+<main class="wrap narrow"><article class="prose">
+<h1>How this was built</h1>
+<p>The demo, its data and its documents were produced with Claude working as an agent: searching and reading sources, writing and running code, reviewing its own screens and deploying to Google Cloud. The candidate set direction, made the judgement calls and checked the work. <a href="/static/docs/D6_ai_usage_log.pdf">D6 AI usage log (PDF)</a> &nbsp; <a href="/static/docs/D5_research_note.pdf">D5 research note (PDF)</a></p>
+<h2>Where Claude was used</h2>
+<ul><li><b>Research</b>: RBI circulars, CERSAI, KFS, turnaround benchmarks and the 7 October 2026 repo hike, each verified against a source before it went into the policy pack.</li>
+<li><b>Data</b>: a seeded generator for 600 home loan applications with accounts, loans, repayments, bureau, CERSAI, KYC, Account Aggregator, EPFO and GST records, plus PDF documents for four demo files.</li>
+<li><b>Lakehouse and agent</b>: SQL for the raw, curated and decision-ready layers, tested locally and run in BigQuery; the credit case agent, rules engine and Policy Watch.</li>
+<li><b>Interface and writing</b>: eleven pages, reviewed through screenshots after each pass; this site's copy, the research note and the presenter pack.</li></ul>
+<h2>What was corrected along the way</h2>
+<ul><li>A citation that credited LTV caps to the wrong RBI circular, caught by reading the circular itself.</li>
+<li>Guessed RBI links, replaced with verified ones.</li>
+<li>A first data set with an unrealistic share of files outside policy, rebalanced.</li>
+<li>A join that produced 606 rows for 600 applications because of colliding IDs, caught by a row-count check.</li>
+<li>A mock GST service that looked empty because of a field-name clash, spotted on screen.</li></ul>
+<h2>Gemini inside the product</h2>
+<p>Inside the demo, Gemini on Vertex AI reads the applicant's PDFs and drafts the note for sanction and answers policy questions. It does not calculate or decide; rules and arithmetic run in code, and people make every decision.</p>
+</article></main>
+<script src="/static/js/common.js"></script>
+</body>
+</html>

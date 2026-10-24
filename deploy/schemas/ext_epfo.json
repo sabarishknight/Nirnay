@@ -1,0 +1,32 @@
+[
+ {
+  "name": "uan",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "employer",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "establishment_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "last_contribution_month",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "epf_wage",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "months_continuous",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

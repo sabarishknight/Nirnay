@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lending head | Nirnay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/app.css">
+<style>
+  .bars { display: grid; grid-template-columns: 150px 1fr; gap: 10px 14px; align-items: center; font-size: 13.5px; }
+  .bars .lbl { color: var(--ink-2); }
+  .bar-pair { display: grid; gap: 3px; }
+  .bar { height: 14px; border-radius: 0 4px 4px 0; position: relative; min-width: 2px; }
+  .bar.today { background: #9aa6b2; }
+  .bar.agent { background: var(--navy); }
+  .bar span { position: absolute; left: calc(100% + 6px); top: -2px; font-size: 12px; color: var(--ink-2); white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .legend { display: flex; gap: 16px; font-size: 12.5px; color: var(--ink-2); margin-bottom: 12px; flex-wrap: wrap; }
+  .legend i { display: inline-block; width: 12px; height: 12px; border-radius: 2px; vertical-align: -2px; margin-right: 6px; }
+  .mix { display: flex; height: 16px; border-radius: 4px; overflow: hidden; gap: 2px; margin: 8px 0 12px; }
+  .mix div { height: 100%; }
+  .events { display: grid; gap: 8px; }
+  .event { display: flex; gap: 10px; align-items: flex-start; border: 1px solid var(--line); border-radius: var(--r); padding: 10px 12px; cursor: pointer; background: #fff; }
+  .event:has(input:checked) { border-color: var(--navy-2); background: var(--navy-weak); }
+  .event input { margin-top: 3px; }
+  .event .k { font-size: 12px; color: var(--ink-3); }
+  .delta { color: var(--fail); font-weight: 500; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="page-head">
+    <div><h1>Retail lending: home loans</h1>
+      <p>The view for the Retail Lending head. Where files wait, how often officers disagree with the agent, and what a policy change does to the pipeline before anyone touches a file.</p></div>
+  </div>
+
+  <section class="grid g4" id="kpis" aria-label="Headline figures"></section>
+
+  <section class="grid g2" style="margin-top:16px">
+    <div class="panel">
+      <div class="panel-h"><strong>Working days per stage</strong><span class="muted">Completed stages, last 120 days</span></div>
+      <div class="panel-b">
+        <div class="legend"><span><i style="background:#9aa6b2"></i>Today (from the loan system)</span><span><i style="background:var(--navy)"></i>With the agent (estimate)</span></div>
+        <div class="bars" id="tat"></div>
+        <p class="muted" style="margin:14px 0 0;font-size:12.5px">Estimates assume consented API pulls replace document chasing at login, the agent review replaces manual appraisal work, and CERSAI and encumbrance checks start on day one. Legal and valuation stay with people, so they shrink least. See the <a href="/story#value">approach page</a>.</p>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-h"><strong>Files in progress, by batch screening</strong><span class="muted" id="mix-total"></span></div>
+      <div class="panel-b">
+        <div class="mix" id="mix" role="img"></div>
+        <table class="t" id="mix-t"></table>
+        <p class="muted" style="margin:12px 0 0;font-size:12.5px">Screening runs as SQL in the lakehouse every night and on any policy change. It flags; it does not decide.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel" style="margin-top:16px" id="watch">
+    <div class="panel-h"><strong>Policy watch</strong><span class="muted">What happens to files already in progress when a rule changes</span></div>
+    <div class="panel-b grid g2" style="align-items:start">
+      <div>
+        <p style="margin-top:0">Pick a change. The agent re-screens every in-progress file in the lakehouse under the old and the new rule, and lists the files that move outside policy, so officers can act before sanction rather than after.</p>
+        <div class="events" id="events"></div>
+        <div style="margin-top:12px"><button class="btn primary" id="run-watch">Re-screen files in progress</button></div>
+      </div>
+      <div id="watch-out"><div class="empty">The result appears here.</div></div>
+    </div>
+  </section>
+
+  <section class="grid g2" style="margin-top:16px">
+    <div class="panel">
+      <div class="panel-h"><strong>Where officers overrode the agent</strong><span class="muted" id="ovr-rate"></span></div>
+      <div class="panel-b">
+        <p style="margin-top:0;font-size:13.5px">Every override is stored with its reason. Recurring reasons go to the credit policy team: either the rule needs changing or the agent needs to weigh something it ignores.</p>
+        <div class="tbl-scroll"><table class="t" id="ovr"></table></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-h"><strong>Decisions recorded in this demo</strong><span class="muted">lending_gold.officer_decisions</span></div>
+      <div class="panel-b"><div class="tbl-scroll"><table class="t" id="live"></table></div></div>
+    </div>
+  </section>
+</main>
+<script src="/static/js/common.js"></script>
+<script>
+const AGENT_DAYS = { "Login & KYC": 0.5, "Credit appraisal": 1, "Legal & technical": 6, "Sanction": 1, "Documentation": 4 };
+const ORDER = ["Login & KYC", "Credit appraisal", "Legal & technical", "Sanction", "Documentation"];
+const INFLIGHT = ["Login & KYC", "Credit appraisal", "Legal & technical", "Sanction"];
+const MIXC = { "Within policy": "var(--pass)", "Deviation": "var(--flag)", "Hold": "#c9524a", "Not eligible": "var(--fail)" };
+
+async function load() {
+  const d = await api("/api/dashboard");
+  const pipe = d.dash_pipeline.rows, scr = d.dash_screening.rows, tat = d.dash_tat.rows, ov = d.dash_overrides.rows[0];
+  const inflight = pipe.filter(r => INFLIGHT.includes(r.stage));
+  const nIn = inflight.reduce((s, r) => s + r.files, 0), vIn = inflight.reduce((s, r) => s + r.amount, 0);
+  const tatBy = Object.fromEntries(tat.map(r => [r.stage, r]));
+  const toSanction = ["Login & KYC", "Credit appraisal", "Legal & technical", "Sanction"].reduce((s, k) => s + (tatBy[k]?.avg_working_days || 0), 0);
+  const agentSanction = ["Login & KYC", "Credit appraisal", "Legal & technical", "Sanction"].reduce((s, k) => s + AGENT_DAYS[k], 0);
+  const outside = scr.filter(r => r.screening_result !== "Within policy").reduce((s, r) => s + r.files, 0);
+  document.getElementById("kpis").innerHTML = [
+    [nIn, "Files in progress", `${lakh(vIn)} applied for`],
+    [toSanction.toFixed(1), "Working days, login to sanction", `About ${agentSanction.toFixed(1)} with the agent (estimate)`],
+    [outside, "Files outside policy in progress", "Deviation, hold or not eligible"],
+    [(100 * ov.overrides / ov.decisions).toFixed(1) + "%", "Officer override rate", `${ov.overrides} of ${ov.decisions} past decisions`],
+  ].map(([v, l, s]) => `<div class="panel panel-b stat"><div class="l">${l}</div><div class="v">${v}</div><div class="s">${s}</div></div>`).join("");
+
+  const max = Math.max(...ORDER.map(k => tatBy[k]?.avg_working_days || 0));
+  document.getElementById("tat").innerHTML = ORDER.map(k => {
+    const t = tatBy[k]?.avg_working_days || 0, a = AGENT_DAYS[k];
+    return `<div class="lbl">${k}</div><div class="bar-pair">
+      <div class="bar today" style="width:${70 * t / max}%" title="${k}: ${t} working days today, ${tatBy[k]?.files} files"><span>${t} days</span></div>
+      <div class="bar agent" style="width:${70 * a / max}%" title="${k}: about ${a} working days with the agent (estimate)"><span>${a} days</span></div></div>`;
+  }).join("");
+
+  const tot = scr.reduce((s, r) => s + r.files, 0);
+  const order = ["Within policy", "Deviation", "Hold", "Not eligible"];
+  const sorted = order.map(k => scr.find(r => r.screening_result === k)).filter(Boolean);
+  document.getElementById("mix-total").textContent = `${tot} files`;
+  document.getElementById("mix").innerHTML = sorted.map(r => `<div style="width:${100 * r.files / tot}%;background:${MIXC[r.screening_result]}" title="${r.screening_result}: ${r.files} files"></div>`).join("");
+  document.getElementById("mix").setAttribute("aria-label", sorted.map(r => `${r.screening_result} ${r.files}`).join(", "));
+  document.getElementById("mix-t").innerHTML = `<thead><tr><th>Result</th><th class="r">Files</th><th class="r">Amount</th></tr></thead><tbody>${sorted.map(r => `<tr><td>${statusPill(r.screening_result)}</td><td class="r num">${r.files}</td><td class="r num">${lakh(r.amount)}</td></tr>`).join("")}</tbody>`;
+
+  document.getElementById("ovr-rate").textContent = `${(100 * ov.overrides / ov.decisions).toFixed(1)}% of decisions`;
+  document.getElementById("ovr").innerHTML = `<thead><tr><th>Reason given</th><th>Agent said</th><th>Officer did</th><th class="r">Files</th></tr></thead><tbody>${d.dash_override_patterns.rows.map(r => `<tr><td>${esc(r.override_reason)}</td><td>${esc(r.agent_recommendation)}</td><td>${esc(r.officer_decision)}</td><td class="r num">${r.cases}</td></tr>`).join("")}</tbody>`;
+  const live = d.dash_live_decisions.rows;
+  document.getElementById("live").innerHTML = live.length ? `<thead><tr><th>File</th><th>Agent</th><th>Officer</th><th>Reason</th></tr></thead><tbody>${live.map(r => `<tr><td><a class="mono" href="/demo#${r.application_id}">${r.application_id}</a></td><td>${esc(r.agent_recommendation)}</td><td>${esc(r.officer_decision)}${r.override == 1 ? ' <span class="pill flag plain">override</span>' : ""}</td><td>${esc(r.override_reason || "")}</td></tr>`).join("")}</tbody>`
+    : `<tbody><tr><td class="empty">No decisions yet. Record one on the <a href="/demo">officer desk</a> and it appears here.</td></tr></tbody>`;
+}
+
+async function loadEvents() {
+  const j = await api("/api/policy/events");
+  document.getElementById("events").innerHTML = j.events.map((e, i) => `<label class="event"><input type="radio" name="ev" value="${e.event_id}" ${i === 0 ? "checked" : ""}><div><div>${esc(e.title)}</div><div class="k">${esc(e.kind)}. ${esc(e.summary)}</div></div></label>`).join("");
+}
+document.getElementById("run-watch").onclick = async () => {
+  const id = document.querySelector("input[name=ev]:checked").value;
+  const out = document.getElementById("watch-out");
+  out.innerHTML = `<div class="empty">Re-screening…</div>`;
+  const r = await api("/api/policy/watch", { method: "POST", body: JSON.stringify({ event_id: id }) });
+  out.innerHTML = `<div class="stat" style="margin-bottom:8px"><div class="v">${r.changed_count} <span style="font-size:15px;font-weight:400;color:var(--ink-2)">of ${r.screened} files move outside policy</span></div><div class="s">${lakh(r.exposure)} of loans affected</div></div>
+    <p style="font-size:13.5px">${esc(r.summary)}</p>
+    ${r.changed.length ? `<div class="tbl-scroll" style="max-height:330px;overflow-y:auto"><table class="t"><thead><tr><th>File</th><th>Stage</th><th class="r">FOIR before</th><th class="r">FOIR after</th><th class="r">Cap</th></tr></thead><tbody>
+      ${r.changed.map(c => `<tr><td><a href="/demo#${c.application_id}">${esc(c.full_name)}</a><div class="muted mono">${c.application_id}</div></td><td>${esc(c.stage)}</td><td class="r num">${c.foir_before}%</td><td class="r num delta">${c.foir_after}%</td><td class="r num">${c.cap_after}%</td></tr>`).join("")}</tbody></table></div>` : ""}
+    <details style="margin-top:10px"><summary>SQL that ran (${esc(r.engine)}, ${r.ms} ms)</summary><pre class="sql">${esc(r.sql)}</pre></details>`;
+};
+load(); loadEvents();
+</script>
+</body>
+</html>

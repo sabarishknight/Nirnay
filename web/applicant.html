@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Applicant view | Nirnay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/app.css">
+<style>
+  .split { display: grid; grid-template-columns: 1fr 400px; gap: 32px; align-items: start; }
+  @media (max-width: 900px) { .split { grid-template-columns: 1fr; } }
+  .phone { background: #fff; border: 1px solid var(--line); border-radius: 22px; padding: 22px 18px; max-width: 400px; width: 100%; margin: 0 auto; }
+  .phone h2 { font-size: 18px; }
+  .track { list-style: none; padding: 0; margin: 16px 0; }
+  .track li { position: relative; padding: 0 0 16px 30px; font-size: 14px; color: var(--ink-3); }
+  .track li::before { content: ""; position: absolute; left: 7px; top: 18px; bottom: 0; width: 2px; background: var(--line); }
+  .track li:last-child::before { display: none; }
+  .track li .m { position: absolute; left: 0; top: 2px; width: 16px; height: 16px; border-radius: 50%; border: 2px solid var(--line); background: #fff; }
+  .track li.done { color: var(--ink); } .track li.done .m { background: var(--pass); border-color: var(--pass); }
+  .track li.done::before { background: var(--pass); }
+  .track li.now { color: var(--navy); font-weight: 500; } .track li.now .m { border-color: var(--navy); box-shadow: inset 0 0 0 3px #fff; background: var(--navy); }
+  .note-box { background: var(--navy-weak); border-radius: 10px; padding: 12px 14px; font-size: 14px; margin: 12px 0; }
+  .kfs td { font-size: 13px; padding: 7px 8px; }
+  .picker a { display: block; padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--r); margin-bottom: 8px; text-decoration: none; background: #fff; color: var(--ink); }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="page-head"><div><h1>What the applicant sees</h1>
+    <p>The same file from the customer's side: where it is, what was consented to, and the Key Facts Statement once it is sanctioned. No credit jargon, no internal flags.</p></div></div>
+  <div class="split">
+    <div class="prose">
+      <h3 style="margin-top:0">Why this matters</h3>
+      <p>The most common complaint in home loans is not rejection but silence: applicants do not know where the file is or what is missing. The agent's step log gives the bank a status it can share honestly, stage by stage.</p>
+      <p>Consent is shown explicitly. Bureau pulls and Account Aggregator fetches happen only against a recorded consent, which is what the Account Aggregator framework and the Digital Personal Data Protection Act expect.</p>
+      <p>When the officer sanctions, the applicant receives the Key Facts Statement with the all-in Annual Percentage Rate, as RBI requires for every retail loan since 1 October 2024, and has three working days to accept.</p>
+      <h3>Try it</h3>
+      <p>Sanction Priya Raghavan's file on the <a href="/demo#HL-2026-104401">officer desk</a>, then come back here: the stage moves and the KFS appears.</p>
+      <div class="picker" id="picker"></div>
+    </div>
+    <div class="phone" id="phone"><div class="empty">Choose a file.</div></div>
+  </div>
+</main>
+<script src="/static/js/common.js"></script>
+<script>
+const FILES = [["HL-2026-104401", "Priya Raghavan"], ["HL-2026-104402", "Arjun Mehta"], ["HL-2026-104403", "Sunita Yadav"], ["HL-2026-104404", "Vikram Sethi"]];
+document.getElementById("picker").innerHTML = FILES.map(([id, n]) => `<a href="#${id}">${n} <span class="muted mono">${id}</span></a>`).join("");
+async function show() {
+  const id = location.hash.slice(1) || FILES[0][0];
+  const a = await api("/api/applicant/" + id);
+  const first = a.name.split(" ")[0];
+  document.getElementById("phone").innerHTML = `
+    <div class="muted" style="font-size:12.5px">Home loan application <span class="mono">${a.application_id}</span></div>
+    <h2 style="margin-top:4px">Hello ${esc(first)}</h2>
+    <p style="font-size:14px;margin:6px 0 0">${lakh(a.loan_amount)} for ${a.tenor_months / 12} years<br><span class="muted">${esc(a.property)}</span></p>
+    ${a.message ? `<div class="note-box">${esc(a.message)}</div>` : ""}
+    <ol class="track">${a.stages.map((s, i) => `<li class="${i < a.current ? "done" : i === a.current ? "now" : ""}"><span class="m"></span>${s}${i === a.current ? '<div class="muted" style="font-weight:400;font-size:12.5px">In progress</div>' : ""}</li>`).join("")}</ol>
+    ${a.kfs ? `<h3 style="font-size:15px;margin:8px 0">Key Facts Statement</h3><table class="t kfs"><tbody>
+      <tr><td class="muted">Loan amount</td><td class="r">${inr(a.kfs.loan_amount)}</td></tr>
+      <tr><td class="muted">Interest</td><td class="r">${a.kfs.rate.toFixed(2)}% floating (${esc(a.kfs.benchmark)} + ${a.kfs.spread.toFixed(2)}%)</td></tr>
+      <tr><td class="muted">EMI</td><td class="r">${inr(a.kfs.emi)} × ${a.kfs.instalments}</td></tr>
+      <tr><td class="muted">Processing fee incl. GST</td><td class="r">${inr(a.kfs.processing_fee)}</td></tr>
+      <tr><td class="muted">Legal, valuation, CERSAI (at cost)</td><td class="r">${inr(a.kfs.third_party_charges)}</td></tr>
+      <tr><td class="muted">Total interest</td><td class="r">${inr(a.kfs.total_interest)}</td></tr>
+      <tr><td><strong>Annual Percentage Rate</strong></td><td class="r"><strong>${a.kfs.apr}%</strong></td></tr>
+      <tr><td class="muted">Prepayment charges</td><td class="r">${esc(a.kfs.prepayment)}</td></tr>
+      <tr><td class="muted">To accept</td><td class="r">${esc(a.kfs.cooling_off)}</td></tr></tbody></table>
+      <button class="btn primary" style="width:100%;justify-content:center;margin-top:12px" onclick="this.textContent='Accepted (demo)';this.disabled=true">Accept the loan terms</button>` : ""}
+    <h3 style="font-size:15px;margin:16px 0 6px">Consents you gave</h3>
+    <ul style="padding-left:18px;margin:0;font-size:13.5px">${a.consents.map(c => `<li>${esc(c.what)}, ${dmy(c.given)}</li>`).join("")}</ul>
+    <h3 style="font-size:15px;margin:16px 0 6px">Documents received</h3>
+    <p style="font-size:13.5px;margin:0" class="muted">${a.documents.map(esc).join(", ")}</p>`;
+}
+window.addEventListener("hashchange", show); show();
+</script>
+</body>
+</html>

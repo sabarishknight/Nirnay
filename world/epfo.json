@@ -1,0 +1,3218 @@
+{
+ "103399380267": {
+  "uan": "103399380267",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "PUPUN0012345",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 78000,
+  "months_continuous": 58
+ },
+ "105232265016": {
+  "uan": "105232265016",
+  "employer": "GOVT OF GUJARAT",
+  "establishment_id": "GJAHD0099887",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 41000,
+  "months_continuous": 110
+ },
+ "108478051137": {
+  "uan": "108478051137",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "UPLKO0044556",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27000,
+  "months_continuous": 41
+ },
+ "106471407987": {
+  "uan": "106471407987",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "HRGGN0077123",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 46500,
+  "months_continuous": 27
+ },
+ "108059327184": {
+  "uan": "108059327184",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX273088790",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 26599,
+  "months_continuous": 135
+ },
+ "103981660851": {
+  "uan": "103981660851",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX599961895",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 104789,
+  "months_continuous": 67
+ },
+ "104837729719": {
+  "uan": "104837729719",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX516283035",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30459,
+  "months_continuous": 74
+ },
+ "104923228685": {
+  "uan": "104923228685",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX185269858",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43792,
+  "months_continuous": 47
+ },
+ "103334745196": {
+  "uan": "103334745196",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX225625554",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43631,
+  "months_continuous": 46
+ },
+ "107963469993": {
+  "uan": "107963469993",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX524147869",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 50923,
+  "months_continuous": 58
+ },
+ "101584537932": {
+  "uan": "101584537932",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX390158959",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 21250,
+  "months_continuous": 50
+ },
+ "101214536792": {
+  "uan": "101214536792",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX447322131",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 23284,
+  "months_continuous": 82
+ },
+ "101150982690": {
+  "uan": "101150982690",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX140855252",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29181,
+  "months_continuous": 9
+ },
+ "109999594848": {
+  "uan": "109999594848",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX236970969",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 120109,
+  "months_continuous": 24
+ },
+ "106079326433": {
+  "uan": "106079326433",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX419294083",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 19030,
+  "months_continuous": 105
+ },
+ "103837368919": {
+  "uan": "103837368919",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX527776405",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48588,
+  "months_continuous": 7
+ },
+ "102688612548": {
+  "uan": "102688612548",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX472123593",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30705,
+  "months_continuous": 58
+ },
+ "109125699594": {
+  "uan": "109125699594",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX626347267",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45352,
+  "months_continuous": 99
+ },
+ "109723152026": {
+  "uan": "109723152026",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX558463300",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43743,
+  "months_continuous": 68
+ },
+ "103343701004": {
+  "uan": "103343701004",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX963138915",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 69389,
+  "months_continuous": 26
+ },
+ "107352319255": {
+  "uan": "107352319255",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX669392491",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 60333,
+  "months_continuous": 69
+ },
+ "109677157670": {
+  "uan": "109677157670",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX771611210",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48137,
+  "months_continuous": 75
+ },
+ "107857322061": {
+  "uan": "107857322061",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX221745652",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48954,
+  "months_continuous": 15
+ },
+ "102953788778": {
+  "uan": "102953788778",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX796088578",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 35446,
+  "months_continuous": 100
+ },
+ "106098156138": {
+  "uan": "106098156138",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX994730175",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 36315,
+  "months_continuous": 17
+ },
+ "109905620456": {
+  "uan": "109905620456",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX979482826",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 44903,
+  "months_continuous": 129
+ },
+ "106283150713": {
+  "uan": "106283150713",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX663669579",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 92725,
+  "months_continuous": 87
+ },
+ "101436288555": {
+  "uan": "101436288555",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX222489611",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 26983,
+  "months_continuous": 92
+ },
+ "104988082891": {
+  "uan": "104988082891",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX436420837",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 54700,
+  "months_continuous": 84
+ },
+ "106240803264": {
+  "uan": "106240803264",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX469944821",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 56300,
+  "months_continuous": 138
+ },
+ "102092411689": {
+  "uan": "102092411689",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX208491402",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 18748,
+  "months_continuous": 68
+ },
+ "106409743747": {
+  "uan": "106409743747",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX396398483",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 44357,
+  "months_continuous": 127
+ },
+ "109698156898": {
+  "uan": "109698156898",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX132752827",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 53854,
+  "months_continuous": 21
+ },
+ "103399566458": {
+  "uan": "103399566458",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX397173740",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 75699,
+  "months_continuous": 88
+ },
+ "103576210204": {
+  "uan": "103576210204",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX176456974",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39196,
+  "months_continuous": 135
+ },
+ "102112507515": {
+  "uan": "102112507515",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX431037100",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39785,
+  "months_continuous": 17
+ },
+ "102489120762": {
+  "uan": "102489120762",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX104124851",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31408,
+  "months_continuous": 53
+ },
+ "105675827067": {
+  "uan": "105675827067",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX626458747",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39173,
+  "months_continuous": 96
+ },
+ "103304649200": {
+  "uan": "103304649200",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX189188874",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39683,
+  "months_continuous": 114
+ },
+ "108182006268": {
+  "uan": "108182006268",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX914803822",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 36640,
+  "months_continuous": 111
+ },
+ "102278264803": {
+  "uan": "102278264803",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX675705404",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27078,
+  "months_continuous": 41
+ },
+ "108587265663": {
+  "uan": "108587265663",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX516678683",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 69909,
+  "months_continuous": 57
+ },
+ "106501717079": {
+  "uan": "106501717079",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX583637717",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 25816,
+  "months_continuous": 51
+ },
+ "106960691612": {
+  "uan": "106960691612",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX829169103",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38986,
+  "months_continuous": 121
+ },
+ "103070369813": {
+  "uan": "103070369813",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX939034493",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33145,
+  "months_continuous": 37
+ },
+ "101015410815": {
+  "uan": "101015410815",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX129554864",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 32155,
+  "months_continuous": 133
+ },
+ "103443716011": {
+  "uan": "103443716011",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX282690648",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 26585,
+  "months_continuous": 80
+ },
+ "106636118946": {
+  "uan": "106636118946",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX937152513",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30044,
+  "months_continuous": 26
+ },
+ "101944365392": {
+  "uan": "101944365392",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX505914384",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 24019,
+  "months_continuous": 90
+ },
+ "103336046132": {
+  "uan": "103336046132",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX462832368",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38167,
+  "months_continuous": 128
+ },
+ "108369409624": {
+  "uan": "108369409624",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX616579242",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 127496,
+  "months_continuous": 70
+ },
+ "104299075664": {
+  "uan": "104299075664",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX835887717",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 41143,
+  "months_continuous": 24
+ },
+ "101243655875": {
+  "uan": "101243655875",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX868034354",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 107553,
+  "months_continuous": 98
+ },
+ "106283104252": {
+  "uan": "106283104252",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX963061387",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 46777,
+  "months_continuous": 17
+ },
+ "101261878850": {
+  "uan": "101261878850",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX909045195",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42728,
+  "months_continuous": 110
+ },
+ "104301704103": {
+  "uan": "104301704103",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX164482430",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 94222,
+  "months_continuous": 6
+ },
+ "106943089151": {
+  "uan": "106943089151",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX829395964",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 71646,
+  "months_continuous": 11
+ },
+ "105960825518": {
+  "uan": "105960825518",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX172484119",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48942,
+  "months_continuous": 49
+ },
+ "102556636243": {
+  "uan": "102556636243",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX699175175",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 49402,
+  "months_continuous": 124
+ },
+ "109922318884": {
+  "uan": "109922318884",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX852218857",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55580,
+  "months_continuous": 33
+ },
+ "108874737675": {
+  "uan": "108874737675",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX388476626",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 37782,
+  "months_continuous": 85
+ },
+ "103136273306": {
+  "uan": "103136273306",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX251021301",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31271,
+  "months_continuous": 53
+ },
+ "101440924115": {
+  "uan": "101440924115",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX485168183",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45581,
+  "months_continuous": 14
+ },
+ "107133416642": {
+  "uan": "107133416642",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX745659077",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39873,
+  "months_continuous": 92
+ },
+ "103241986212": {
+  "uan": "103241986212",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX364142013",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 34220,
+  "months_continuous": 18
+ },
+ "105644145062": {
+  "uan": "105644145062",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX734357225",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 58236,
+  "months_continuous": 121
+ },
+ "108718917145": {
+  "uan": "108718917145",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX109602586",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29189,
+  "months_continuous": 118
+ },
+ "106258534085": {
+  "uan": "106258534085",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX806693929",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47536,
+  "months_continuous": 23
+ },
+ "101603573607": {
+  "uan": "101603573607",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX195608351",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 41342,
+  "months_continuous": 50
+ },
+ "107940595877": {
+  "uan": "107940595877",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX353727112",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31250,
+  "months_continuous": 95
+ },
+ "107469085872": {
+  "uan": "107469085872",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX215592133",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 73584,
+  "months_continuous": 6
+ },
+ "101345553304": {
+  "uan": "101345553304",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX766580430",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 51955,
+  "months_continuous": 97
+ },
+ "103536773864": {
+  "uan": "103536773864",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX810207936",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45810,
+  "months_continuous": 21
+ },
+ "109724594868": {
+  "uan": "109724594868",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX669276859",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43198,
+  "months_continuous": 128
+ },
+ "105301553496": {
+  "uan": "105301553496",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX538018278",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 58139,
+  "months_continuous": 103
+ },
+ "103917161358": {
+  "uan": "103917161358",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX442942959",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55983,
+  "months_continuous": 114
+ },
+ "102792388056": {
+  "uan": "102792388056",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX559099659",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 53807,
+  "months_continuous": 29
+ },
+ "108008313032": {
+  "uan": "108008313032",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX437981306",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 46637,
+  "months_continuous": 32
+ },
+ "108780230935": {
+  "uan": "108780230935",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX983801132",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 85444,
+  "months_continuous": 95
+ },
+ "101350238482": {
+  "uan": "101350238482",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX591019367",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 85808,
+  "months_continuous": 90
+ },
+ "106299858242": {
+  "uan": "106299858242",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX576242275",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 22786,
+  "months_continuous": 71
+ },
+ "105193327264": {
+  "uan": "105193327264",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX617065874",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 37978,
+  "months_continuous": 101
+ },
+ "105170187070": {
+  "uan": "105170187070",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX579758689",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 22556,
+  "months_continuous": 95
+ },
+ "106639114544": {
+  "uan": "106639114544",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX791145194",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 40491,
+  "months_continuous": 69
+ },
+ "108383318649": {
+  "uan": "108383318649",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX823557946",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33166,
+  "months_continuous": 118
+ },
+ "103939537700": {
+  "uan": "103939537700",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX478370831",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29416,
+  "months_continuous": 8
+ },
+ "106103266654": {
+  "uan": "106103266654",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX153614552",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 120153,
+  "months_continuous": 14
+ },
+ "102559831908": {
+  "uan": "102559831908",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX275654919",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 70500,
+  "months_continuous": 29
+ },
+ "102567085753": {
+  "uan": "102567085753",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX646618853",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 18449,
+  "months_continuous": 44
+ },
+ "107578678385": {
+  "uan": "107578678385",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX213484609",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45516,
+  "months_continuous": 118
+ },
+ "108763057883": {
+  "uan": "108763057883",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX217101325",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33020,
+  "months_continuous": 123
+ },
+ "107039909399": {
+  "uan": "107039909399",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX656625575",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 59941,
+  "months_continuous": 14
+ },
+ "101033496759": {
+  "uan": "101033496759",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX209918835",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31489,
+  "months_continuous": 109
+ },
+ "108447570346": {
+  "uan": "108447570346",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX208183701",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 28332,
+  "months_continuous": 8
+ },
+ "106743844361": {
+  "uan": "106743844361",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX337339360",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42568,
+  "months_continuous": 100
+ },
+ "109216685173": {
+  "uan": "109216685173",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX235849163",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27285,
+  "months_continuous": 108
+ },
+ "104366719787": {
+  "uan": "104366719787",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX500221445",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31011,
+  "months_continuous": 70
+ },
+ "101246253500": {
+  "uan": "101246253500",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX404146395",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42302,
+  "months_continuous": 65
+ },
+ "103743991215": {
+  "uan": "103743991215",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX524321149",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 37539,
+  "months_continuous": 28
+ },
+ "104010255494": {
+  "uan": "104010255494",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX782520127",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 46740,
+  "months_continuous": 59
+ },
+ "102415669854": {
+  "uan": "102415669854",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX218242410",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 70777,
+  "months_continuous": 96
+ },
+ "104340511955": {
+  "uan": "104340511955",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX367394220",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45432,
+  "months_continuous": 45
+ },
+ "106835706273": {
+  "uan": "106835706273",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX514547727",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 41235,
+  "months_continuous": 109
+ },
+ "103836135501": {
+  "uan": "103836135501",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX584973000",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43428,
+  "months_continuous": 37
+ },
+ "107886973828": {
+  "uan": "107886973828",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX383672855",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 111555,
+  "months_continuous": 56
+ },
+ "103710846970": {
+  "uan": "103710846970",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX438942096",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 22398,
+  "months_continuous": 84
+ },
+ "109186577064": {
+  "uan": "109186577064",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX480836033",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42659,
+  "months_continuous": 119
+ },
+ "106870980225": {
+  "uan": "106870980225",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX157696215",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27386,
+  "months_continuous": 105
+ },
+ "106969490253": {
+  "uan": "106969490253",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX216420155",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 40614,
+  "months_continuous": 82
+ },
+ "103188373063": {
+  "uan": "103188373063",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX702770827",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55326,
+  "months_continuous": 60
+ },
+ "106388855792": {
+  "uan": "106388855792",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX513952966",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 46150,
+  "months_continuous": 110
+ },
+ "105423958634": {
+  "uan": "105423958634",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX215702042",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 50893,
+  "months_continuous": 139
+ },
+ "102962949292": {
+  "uan": "102962949292",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX798472276",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 80685,
+  "months_continuous": 20
+ },
+ "102688578193": {
+  "uan": "102688578193",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX354623544",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 59420,
+  "months_continuous": 106
+ },
+ "101059204125": {
+  "uan": "101059204125",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX685547194",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 28420,
+  "months_continuous": 116
+ },
+ "102423200045": {
+  "uan": "102423200045",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX659667135",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 91355,
+  "months_continuous": 102
+ },
+ "107320203622": {
+  "uan": "107320203622",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX490319182",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29109,
+  "months_continuous": 17
+ },
+ "102438795700": {
+  "uan": "102438795700",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX406142278",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47319,
+  "months_continuous": 6
+ },
+ "101650169152": {
+  "uan": "101650169152",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX692782199",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 73239,
+  "months_continuous": 43
+ },
+ "107467834330": {
+  "uan": "107467834330",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX198573276",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 60491,
+  "months_continuous": 76
+ },
+ "103705651787": {
+  "uan": "103705651787",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX346087856",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 22921,
+  "months_continuous": 17
+ },
+ "105984275889": {
+  "uan": "105984275889",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX490009389",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47658,
+  "months_continuous": 71
+ },
+ "102350555261": {
+  "uan": "102350555261",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX534634972",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 23097,
+  "months_continuous": 32
+ },
+ "107116443364": {
+  "uan": "107116443364",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX383479714",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 28330,
+  "months_continuous": 97
+ },
+ "104949061374": {
+  "uan": "104949061374",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX614356677",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33341,
+  "months_continuous": 53
+ },
+ "103281534427": {
+  "uan": "103281534427",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX965478196",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 34979,
+  "months_continuous": 117
+ },
+ "101955567501": {
+  "uan": "101955567501",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX432762817",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39248,
+  "months_continuous": 140
+ },
+ "101018107268": {
+  "uan": "101018107268",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX181125968",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 13045,
+  "months_continuous": 121
+ },
+ "108310870721": {
+  "uan": "108310870721",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX190340982",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33761,
+  "months_continuous": 107
+ },
+ "107468265143": {
+  "uan": "107468265143",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX678749860",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38327,
+  "months_continuous": 35
+ },
+ "108467957308": {
+  "uan": "108467957308",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX145144031",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 70257,
+  "months_continuous": 30
+ },
+ "102051644949": {
+  "uan": "102051644949",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX737726447",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 14019,
+  "months_continuous": 40
+ },
+ "104677720590": {
+  "uan": "104677720590",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX358584562",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 36296,
+  "months_continuous": 136
+ },
+ "104566991191": {
+  "uan": "104566991191",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX580095731",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 52166,
+  "months_continuous": 57
+ },
+ "103958978541": {
+  "uan": "103958978541",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX251030191",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27182,
+  "months_continuous": 47
+ },
+ "106866474822": {
+  "uan": "106866474822",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX835825327",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 53210,
+  "months_continuous": 58
+ },
+ "106943135179": {
+  "uan": "106943135179",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX393380974",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 83931,
+  "months_continuous": 72
+ },
+ "108100885307": {
+  "uan": "108100885307",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX495979845",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 111429,
+  "months_continuous": 106
+ },
+ "109214619336": {
+  "uan": "109214619336",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX972244355",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27473,
+  "months_continuous": 131
+ },
+ "109297544285": {
+  "uan": "109297544285",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX911334304",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43791,
+  "months_continuous": 56
+ },
+ "105412693147": {
+  "uan": "105412693147",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX765848104",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 70704,
+  "months_continuous": 91
+ },
+ "109932449685": {
+  "uan": "109932449685",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX630140423",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 68082,
+  "months_continuous": 32
+ },
+ "107771261895": {
+  "uan": "107771261895",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX837639084",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29424,
+  "months_continuous": 43
+ },
+ "107999526543": {
+  "uan": "107999526543",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX451962342",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 66919,
+  "months_continuous": 21
+ },
+ "107019195325": {
+  "uan": "107019195325",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX313872369",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 58134,
+  "months_continuous": 29
+ },
+ "107726340985": {
+  "uan": "107726340985",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX704890237",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 20154,
+  "months_continuous": 50
+ },
+ "107769295031": {
+  "uan": "107769295031",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX424478888",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 49765,
+  "months_continuous": 132
+ },
+ "104740050419": {
+  "uan": "104740050419",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX182242690",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 25152,
+  "months_continuous": 39
+ },
+ "103240036571": {
+  "uan": "103240036571",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX902690795",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42363,
+  "months_continuous": 76
+ },
+ "105198111187": {
+  "uan": "105198111187",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX385324398",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48466,
+  "months_continuous": 86
+ },
+ "103309002263": {
+  "uan": "103309002263",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX132011068",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 152513,
+  "months_continuous": 117
+ },
+ "108634068530": {
+  "uan": "108634068530",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX555713924",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 65199,
+  "months_continuous": 107
+ },
+ "109261158800": {
+  "uan": "109261158800",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX788735381",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 57004,
+  "months_continuous": 80
+ },
+ "107644434227": {
+  "uan": "107644434227",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX119459871",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 35660,
+  "months_continuous": 62
+ },
+ "106145238972": {
+  "uan": "106145238972",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX392637641",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 41288,
+  "months_continuous": 9
+ },
+ "105939044830": {
+  "uan": "105939044830",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX643767296",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29459,
+  "months_continuous": 26
+ },
+ "101028600576": {
+  "uan": "101028600576",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX653566017",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 40572,
+  "months_continuous": 116
+ },
+ "109248750202": {
+  "uan": "109248750202",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX382793770",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 15675,
+  "months_continuous": 77
+ },
+ "102233844276": {
+  "uan": "102233844276",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX923180438",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 92178,
+  "months_continuous": 64
+ },
+ "107682707442": {
+  "uan": "107682707442",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX988314949",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55380,
+  "months_continuous": 63
+ },
+ "105421317123": {
+  "uan": "105421317123",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX707501180",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 51882,
+  "months_continuous": 33
+ },
+ "106238434809": {
+  "uan": "106238434809",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX471202241",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 23238,
+  "months_continuous": 128
+ },
+ "102494871644": {
+  "uan": "102494871644",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX131508123",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47161,
+  "months_continuous": 42
+ },
+ "104497623403": {
+  "uan": "104497623403",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX608858063",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 26789,
+  "months_continuous": 50
+ },
+ "109768751853": {
+  "uan": "109768751853",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX147667019",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 78935,
+  "months_continuous": 34
+ },
+ "109521309038": {
+  "uan": "109521309038",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX124764191",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55396,
+  "months_continuous": 26
+ },
+ "103907658887": {
+  "uan": "103907658887",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX471792590",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47551,
+  "months_continuous": 132
+ },
+ "109266496439": {
+  "uan": "109266496439",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX815181492",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 40967,
+  "months_continuous": 139
+ },
+ "103012743151": {
+  "uan": "103012743151",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX831034253",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 16642,
+  "months_continuous": 32
+ },
+ "101601354618": {
+  "uan": "101601354618",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX147314159",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 121230,
+  "months_continuous": 107
+ },
+ "102626709709": {
+  "uan": "102626709709",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX955097983",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 76458,
+  "months_continuous": 116
+ },
+ "101972164776": {
+  "uan": "101972164776",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX290886369",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 25172,
+  "months_continuous": 50
+ },
+ "101544082893": {
+  "uan": "101544082893",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX513326403",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30686,
+  "months_continuous": 44
+ },
+ "105860569253": {
+  "uan": "105860569253",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX906920759",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 101842,
+  "months_continuous": 22
+ },
+ "107780348295": {
+  "uan": "107780348295",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX217846787",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 60317,
+  "months_continuous": 60
+ },
+ "105164280211": {
+  "uan": "105164280211",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX211743473",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 58976,
+  "months_continuous": 108
+ },
+ "102426249746": {
+  "uan": "102426249746",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX307703512",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 63678,
+  "months_continuous": 87
+ },
+ "106172542552": {
+  "uan": "106172542552",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX507476356",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30497,
+  "months_continuous": 31
+ },
+ "104977686929": {
+  "uan": "104977686929",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX691485646",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 44970,
+  "months_continuous": 119
+ },
+ "108084511053": {
+  "uan": "108084511053",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX761455410",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 32057,
+  "months_continuous": 133
+ },
+ "103366551762": {
+  "uan": "103366551762",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX402611685",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 53023,
+  "months_continuous": 11
+ },
+ "105103160608": {
+  "uan": "105103160608",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX763555325",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 22661,
+  "months_continuous": 60
+ },
+ "103731417938": {
+  "uan": "103731417938",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX881400020",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 25164,
+  "months_continuous": 24
+ },
+ "103809394082": {
+  "uan": "103809394082",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX695810573",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 105972,
+  "months_continuous": 119
+ },
+ "102406571180": {
+  "uan": "102406571180",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX630353082",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 20931,
+  "months_continuous": 104
+ },
+ "109123401810": {
+  "uan": "109123401810",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX568635871",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 66041,
+  "months_continuous": 70
+ },
+ "107356381173": {
+  "uan": "107356381173",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX912503388",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39616,
+  "months_continuous": 93
+ },
+ "102948073981": {
+  "uan": "102948073981",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX646831080",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33449,
+  "months_continuous": 105
+ },
+ "101183980222": {
+  "uan": "101183980222",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX582818680",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30678,
+  "months_continuous": 77
+ },
+ "107458514952": {
+  "uan": "107458514952",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX884593813",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31548,
+  "months_continuous": 45
+ },
+ "105143180415": {
+  "uan": "105143180415",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX194174258",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 50113,
+  "months_continuous": 91
+ },
+ "105105311989": {
+  "uan": "105105311989",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX521657875",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42892,
+  "months_continuous": 82
+ },
+ "104437194173": {
+  "uan": "104437194173",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX452768681",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 86369,
+  "months_continuous": 128
+ },
+ "109305108518": {
+  "uan": "109305108518",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX572812616",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31775,
+  "months_continuous": 41
+ },
+ "106378976079": {
+  "uan": "106378976079",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX289155664",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47988,
+  "months_continuous": 113
+ },
+ "108794821896": {
+  "uan": "108794821896",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX516079294",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 67594,
+  "months_continuous": 102
+ },
+ "105524569230": {
+  "uan": "105524569230",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX660196892",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 50232,
+  "months_continuous": 59
+ },
+ "106892278053": {
+  "uan": "106892278053",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX534199736",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 52668,
+  "months_continuous": 120
+ },
+ "103206397276": {
+  "uan": "103206397276",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX600237814",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 82285,
+  "months_continuous": 70
+ },
+ "106566131624": {
+  "uan": "106566131624",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX386020707",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 73223,
+  "months_continuous": 21
+ },
+ "109439684926": {
+  "uan": "109439684926",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX386591443",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 35155,
+  "months_continuous": 49
+ },
+ "109770553893": {
+  "uan": "109770553893",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX205939662",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 34851,
+  "months_continuous": 104
+ },
+ "103152331825": {
+  "uan": "103152331825",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX727912837",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 80244,
+  "months_continuous": 109
+ },
+ "104986060569": {
+  "uan": "104986060569",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX101374352",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 46592,
+  "months_continuous": 30
+ },
+ "109041775393": {
+  "uan": "109041775393",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX419518121",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 77964,
+  "months_continuous": 105
+ },
+ "104744032978": {
+  "uan": "104744032978",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX640869780",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30040,
+  "months_continuous": 58
+ },
+ "107540066314": {
+  "uan": "107540066314",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX972373721",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 58553,
+  "months_continuous": 118
+ },
+ "102855786680": {
+  "uan": "102855786680",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX389221853",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43671,
+  "months_continuous": 124
+ },
+ "109938337417": {
+  "uan": "109938337417",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX432584208",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 66899,
+  "months_continuous": 77
+ },
+ "102168848259": {
+  "uan": "102168848259",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX269155987",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 68258,
+  "months_continuous": 110
+ },
+ "109550951920": {
+  "uan": "109550951920",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX831786096",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55761,
+  "months_continuous": 76
+ },
+ "107753362281": {
+  "uan": "107753362281",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX546644392",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 79309,
+  "months_continuous": 81
+ },
+ "105127259160": {
+  "uan": "105127259160",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX458262090",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55724,
+  "months_continuous": 11
+ },
+ "105695566698": {
+  "uan": "105695566698",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX599323526",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 35286,
+  "months_continuous": 112
+ },
+ "105819148589": {
+  "uan": "105819148589",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX754916252",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 92748,
+  "months_continuous": 74
+ },
+ "101006420408": {
+  "uan": "101006420408",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX366076285",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55176,
+  "months_continuous": 106
+ },
+ "109347042770": {
+  "uan": "109347042770",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX876609768",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 58703,
+  "months_continuous": 10
+ },
+ "107232281971": {
+  "uan": "107232281971",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX598407258",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 98164,
+  "months_continuous": 39
+ },
+ "104873083396": {
+  "uan": "104873083396",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX568289219",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 89534,
+  "months_continuous": 78
+ },
+ "103207275645": {
+  "uan": "103207275645",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX485613820",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31393,
+  "months_continuous": 139
+ },
+ "107570457309": {
+  "uan": "107570457309",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX358174594",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47376,
+  "months_continuous": 6
+ },
+ "102992283197": {
+  "uan": "102992283197",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX976650794",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 52656,
+  "months_continuous": 113
+ },
+ "108099567252": {
+  "uan": "108099567252",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX586030534",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48418,
+  "months_continuous": 84
+ },
+ "109040389256": {
+  "uan": "109040389256",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX218516279",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 20422,
+  "months_continuous": 84
+ },
+ "109607232411": {
+  "uan": "109607232411",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX557633773",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 25018,
+  "months_continuous": 118
+ },
+ "108169498381": {
+  "uan": "108169498381",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX346036340",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30502,
+  "months_continuous": 56
+ },
+ "105901747433": {
+  "uan": "105901747433",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX504743196",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43229,
+  "months_continuous": 11
+ },
+ "106479907140": {
+  "uan": "106479907140",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX869039432",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 34302,
+  "months_continuous": 19
+ },
+ "106531242676": {
+  "uan": "106531242676",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX267818071",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42162,
+  "months_continuous": 73
+ },
+ "106132854514": {
+  "uan": "106132854514",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX808476860",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 66651,
+  "months_continuous": 101
+ },
+ "102624255606": {
+  "uan": "102624255606",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX246813232",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48735,
+  "months_continuous": 21
+ },
+ "105991823837": {
+  "uan": "105991823837",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX208203690",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43935,
+  "months_continuous": 18
+ },
+ "108599989968": {
+  "uan": "108599989968",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX596962937",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 73611,
+  "months_continuous": 12
+ },
+ "106031675666": {
+  "uan": "106031675666",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX787883610",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42259,
+  "months_continuous": 18
+ },
+ "105321001545": {
+  "uan": "105321001545",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX544927322",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 52046,
+  "months_continuous": 70
+ },
+ "101315679857": {
+  "uan": "101315679857",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX336892938",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 46066,
+  "months_continuous": 105
+ },
+ "101486721642": {
+  "uan": "101486721642",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX465595183",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 60319,
+  "months_continuous": 128
+ },
+ "101523944156": {
+  "uan": "101523944156",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX504422933",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 40081,
+  "months_continuous": 7
+ },
+ "103564902359": {
+  "uan": "103564902359",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX582390080",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 61072,
+  "months_continuous": 42
+ },
+ "107723565311": {
+  "uan": "107723565311",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX308246789",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 77644,
+  "months_continuous": 113
+ },
+ "103154205700": {
+  "uan": "103154205700",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX404602594",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 23706,
+  "months_continuous": 113
+ },
+ "104457012109": {
+  "uan": "104457012109",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX112435327",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 44634,
+  "months_continuous": 115
+ },
+ "108481501702": {
+  "uan": "108481501702",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX508251608",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55396,
+  "months_continuous": 63
+ },
+ "105610751714": {
+  "uan": "105610751714",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX490043379",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 26448,
+  "months_continuous": 71
+ },
+ "101338006209": {
+  "uan": "101338006209",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX976688157",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 40698,
+  "months_continuous": 95
+ },
+ "102994682972": {
+  "uan": "102994682972",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX856734492",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 73227,
+  "months_continuous": 18
+ },
+ "109880917307": {
+  "uan": "109880917307",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX263955219",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 52281,
+  "months_continuous": 115
+ },
+ "109846223209": {
+  "uan": "109846223209",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX742100978",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 51176,
+  "months_continuous": 63
+ },
+ "103668661386": {
+  "uan": "103668661386",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX610329567",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 58802,
+  "months_continuous": 80
+ },
+ "102711076048": {
+  "uan": "102711076048",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX835685751",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 122501,
+  "months_continuous": 94
+ },
+ "106824162157": {
+  "uan": "106824162157",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX516250494",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29398,
+  "months_continuous": 104
+ },
+ "101412559634": {
+  "uan": "101412559634",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX957041379",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38057,
+  "months_continuous": 105
+ },
+ "105682407280": {
+  "uan": "105682407280",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX564543663",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 34015,
+  "months_continuous": 127
+ },
+ "106786347019": {
+  "uan": "106786347019",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX934455462",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 32804,
+  "months_continuous": 10
+ },
+ "101422507962": {
+  "uan": "101422507962",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX182640903",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 44736,
+  "months_continuous": 135
+ },
+ "104872487937": {
+  "uan": "104872487937",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX529932905",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 51020,
+  "months_continuous": 62
+ },
+ "105501534074": {
+  "uan": "105501534074",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX931618103",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55601,
+  "months_continuous": 62
+ },
+ "109785618459": {
+  "uan": "109785618459",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX584195276",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 36741,
+  "months_continuous": 61
+ },
+ "106286362193": {
+  "uan": "106286362193",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX149620408",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45559,
+  "months_continuous": 114
+ },
+ "109073877412": {
+  "uan": "109073877412",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX751410213",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 35381,
+  "months_continuous": 106
+ },
+ "108181333421": {
+  "uan": "108181333421",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX399933473",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 58835,
+  "months_continuous": 106
+ },
+ "103445059980": {
+  "uan": "103445059980",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX966109057",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47474,
+  "months_continuous": 79
+ },
+ "103550804210": {
+  "uan": "103550804210",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX870737924",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 96938,
+  "months_continuous": 133
+ },
+ "101625916666": {
+  "uan": "101625916666",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX479074025",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42480,
+  "months_continuous": 116
+ },
+ "101055177687": {
+  "uan": "101055177687",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX968041661",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 25262,
+  "months_continuous": 29
+ },
+ "109421257349": {
+  "uan": "109421257349",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX970203601",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45736,
+  "months_continuous": 13
+ },
+ "102861664865": {
+  "uan": "102861664865",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX327249368",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 66937,
+  "months_continuous": 35
+ },
+ "106292927776": {
+  "uan": "106292927776",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX480625141",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 41939,
+  "months_continuous": 94
+ },
+ "107101983220": {
+  "uan": "107101983220",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX193501395",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 52289,
+  "months_continuous": 57
+ },
+ "106900695821": {
+  "uan": "106900695821",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX313103453",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 137304,
+  "months_continuous": 74
+ },
+ "105498736646": {
+  "uan": "105498736646",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX956114122",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45893,
+  "months_continuous": 78
+ },
+ "103522169227": {
+  "uan": "103522169227",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX478672202",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29873,
+  "months_continuous": 24
+ },
+ "101287416306": {
+  "uan": "101287416306",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX103092121",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29652,
+  "months_continuous": 101
+ },
+ "105157939549": {
+  "uan": "105157939549",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX741612147",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55867,
+  "months_continuous": 131
+ },
+ "109696693314": {
+  "uan": "109696693314",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX924968145",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 32555,
+  "months_continuous": 17
+ },
+ "101672267425": {
+  "uan": "101672267425",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX891256242",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 28034,
+  "months_continuous": 7
+ },
+ "101634517302": {
+  "uan": "101634517302",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX554461353",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 56020,
+  "months_continuous": 138
+ },
+ "108882249110": {
+  "uan": "108882249110",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX653849294",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 67657,
+  "months_continuous": 55
+ },
+ "108660201463": {
+  "uan": "108660201463",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX699746939",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 61868,
+  "months_continuous": 40
+ },
+ "101530287248": {
+  "uan": "101530287248",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX764732518",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38134,
+  "months_continuous": 41
+ },
+ "106777506807": {
+  "uan": "106777506807",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX831652072",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 23832,
+  "months_continuous": 12
+ },
+ "103270649516": {
+  "uan": "103270649516",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX927421950",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 59622,
+  "months_continuous": 128
+ },
+ "102585764921": {
+  "uan": "102585764921",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX188509128",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30849,
+  "months_continuous": 46
+ },
+ "109923208599": {
+  "uan": "109923208599",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX611208142",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 85167,
+  "months_continuous": 91
+ },
+ "106462988210": {
+  "uan": "106462988210",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX108740076",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29129,
+  "months_continuous": 7
+ },
+ "101526918514": {
+  "uan": "101526918514",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX972538557",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39283,
+  "months_continuous": 9
+ },
+ "108850102223": {
+  "uan": "108850102223",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX151713246",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 65114,
+  "months_continuous": 116
+ },
+ "101500554040": {
+  "uan": "101500554040",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX797307352",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 75871,
+  "months_continuous": 39
+ },
+ "103070481861": {
+  "uan": "103070481861",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX184870592",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 64147,
+  "months_continuous": 133
+ },
+ "106918697822": {
+  "uan": "106918697822",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX529988921",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 56644,
+  "months_continuous": 64
+ },
+ "102848067156": {
+  "uan": "102848067156",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX963998969",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 138362,
+  "months_continuous": 81
+ },
+ "105502894455": {
+  "uan": "105502894455",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX447616105",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 22578,
+  "months_continuous": 66
+ },
+ "102888861719": {
+  "uan": "102888861719",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX178774239",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 24413,
+  "months_continuous": 9
+ },
+ "103353230523": {
+  "uan": "103353230523",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX461381544",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33556,
+  "months_continuous": 104
+ },
+ "105002840219": {
+  "uan": "105002840219",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX231260014",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38071,
+  "months_continuous": 99
+ },
+ "107570678110": {
+  "uan": "107570678110",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX278906164",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 32769,
+  "months_continuous": 71
+ },
+ "101539243139": {
+  "uan": "101539243139",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX212562619",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48102,
+  "months_continuous": 12
+ },
+ "103939561266": {
+  "uan": "103939561266",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX180892134",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 21362,
+  "months_continuous": 37
+ },
+ "101663481853": {
+  "uan": "101663481853",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX874211534",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33046,
+  "months_continuous": 37
+ },
+ "101133788119": {
+  "uan": "101133788119",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX481113379",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 16123,
+  "months_continuous": 75
+ },
+ "106618061351": {
+  "uan": "106618061351",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX191442153",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 32249,
+  "months_continuous": 83
+ },
+ "102307564896": {
+  "uan": "102307564896",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX784668146",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 64235,
+  "months_continuous": 119
+ },
+ "109292142286": {
+  "uan": "109292142286",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX403570979",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38182,
+  "months_continuous": 27
+ },
+ "102177030595": {
+  "uan": "102177030595",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX692004970",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 54747,
+  "months_continuous": 50
+ },
+ "106228237979": {
+  "uan": "106228237979",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX759477396",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 82131,
+  "months_continuous": 77
+ },
+ "102168395660": {
+  "uan": "102168395660",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX757679555",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31051,
+  "months_continuous": 123
+ },
+ "103128853200": {
+  "uan": "103128853200",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX784804492",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 21215,
+  "months_continuous": 108
+ },
+ "105147547840": {
+  "uan": "105147547840",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX805579331",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 28240,
+  "months_continuous": 21
+ },
+ "105483887326": {
+  "uan": "105483887326",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX103567178",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 56400,
+  "months_continuous": 123
+ },
+ "109003713423": {
+  "uan": "109003713423",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX373707950",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 72010,
+  "months_continuous": 22
+ },
+ "102814022213": {
+  "uan": "102814022213",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX337597279",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 57215,
+  "months_continuous": 128
+ },
+ "105983635089": {
+  "uan": "105983635089",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX102845309",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43529,
+  "months_continuous": 73
+ },
+ "105612481360": {
+  "uan": "105612481360",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX795377366",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 40531,
+  "months_continuous": 104
+ },
+ "109670416577": {
+  "uan": "109670416577",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX431145273",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 65604,
+  "months_continuous": 53
+ },
+ "105749849205": {
+  "uan": "105749849205",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX337569907",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 108504,
+  "months_continuous": 19
+ },
+ "107368636521": {
+  "uan": "107368636521",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX484878455",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38982,
+  "months_continuous": 7
+ },
+ "102071960940": {
+  "uan": "102071960940",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX989121126",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 53649,
+  "months_continuous": 138
+ },
+ "105144389420": {
+  "uan": "105144389420",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX887993114",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27712,
+  "months_continuous": 67
+ },
+ "107125785833": {
+  "uan": "107125785833",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX363431163",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 71143,
+  "months_continuous": 90
+ },
+ "104790501718": {
+  "uan": "104790501718",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX144776795",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 68962,
+  "months_continuous": 53
+ },
+ "102219994469": {
+  "uan": "102219994469",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX243619319",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48071,
+  "months_continuous": 97
+ },
+ "107613663214": {
+  "uan": "107613663214",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX377841607",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45105,
+  "months_continuous": 98
+ },
+ "107229770264": {
+  "uan": "107229770264",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX542606427",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38949,
+  "months_continuous": 38
+ },
+ "109563453576": {
+  "uan": "109563453576",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX730511534",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43866,
+  "months_continuous": 8
+ },
+ "105624290256": {
+  "uan": "105624290256",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX367523154",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 81383,
+  "months_continuous": 98
+ },
+ "104448391841": {
+  "uan": "104448391841",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX494020286",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 59899,
+  "months_continuous": 48
+ },
+ "101395606897": {
+  "uan": "101395606897",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX906556131",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38055,
+  "months_continuous": 91
+ },
+ "103877492263": {
+  "uan": "103877492263",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX233886967",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 42605,
+  "months_continuous": 45
+ },
+ "104521674914": {
+  "uan": "104521674914",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX999908595",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45803,
+  "months_continuous": 67
+ },
+ "106792034144": {
+  "uan": "106792034144",
+  "employer": "STATE ELECTRICITY BOARD",
+  "establishment_id": "XX809568533",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 24257,
+  "months_continuous": 95
+ },
+ "101412624521": {
+  "uan": "101412624521",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX987240498",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 78040,
+  "months_continuous": 81
+ },
+ "109297365390": {
+  "uan": "109297365390",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX891668472",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 64109,
+  "months_continuous": 21
+ },
+ "106326953650": {
+  "uan": "106326953650",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX229001736",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 88166,
+  "months_continuous": 80
+ },
+ "104595360128": {
+  "uan": "104595360128",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX202079188",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 54699,
+  "months_continuous": 7
+ },
+ "102448941087": {
+  "uan": "102448941087",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX870515486",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 78513,
+  "months_continuous": 51
+ },
+ "106357213040": {
+  "uan": "106357213040",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX233790715",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 19053,
+  "months_continuous": 134
+ },
+ "106345625105": {
+  "uan": "106345625105",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX305962542",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 50400,
+  "months_continuous": 111
+ },
+ "106049609035": {
+  "uan": "106049609035",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX871805267",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 66222,
+  "months_continuous": 126
+ },
+ "104759763407": {
+  "uan": "104759763407",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX518495702",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 44356,
+  "months_continuous": 117
+ },
+ "104597566566": {
+  "uan": "104597566566",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX281577600",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 19818,
+  "months_continuous": 61
+ },
+ "101267508449": {
+  "uan": "101267508449",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX739746249",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43267,
+  "months_continuous": 34
+ },
+ "108869331203": {
+  "uan": "108869331203",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX485201651",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 53657,
+  "months_continuous": 28
+ },
+ "102782670916": {
+  "uan": "102782670916",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX306369215",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47924,
+  "months_continuous": 86
+ },
+ "105250548691": {
+  "uan": "105250548691",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX889204214",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 32697,
+  "months_continuous": 105
+ },
+ "108124255201": {
+  "uan": "108124255201",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX534947659",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43931,
+  "months_continuous": 58
+ },
+ "108954688498": {
+  "uan": "108954688498",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX289153012",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 83055,
+  "months_continuous": 95
+ },
+ "107907884788": {
+  "uan": "107907884788",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX849774169",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 16744,
+  "months_continuous": 56
+ },
+ "107286532268": {
+  "uan": "107286532268",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX380025180",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 23074,
+  "months_continuous": 17
+ },
+ "108336438117": {
+  "uan": "108336438117",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX167993234",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 33643,
+  "months_continuous": 97
+ },
+ "103129217091": {
+  "uan": "103129217091",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX113611183",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45807,
+  "months_continuous": 41
+ },
+ "101406417472": {
+  "uan": "101406417472",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX301066943",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 20492,
+  "months_continuous": 85
+ },
+ "101844119780": {
+  "uan": "101844119780",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX468445903",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55888,
+  "months_continuous": 52
+ },
+ "109031251092": {
+  "uan": "109031251092",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX990072192",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29647,
+  "months_continuous": 44
+ },
+ "101598777239": {
+  "uan": "101598777239",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX895060637",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 26482,
+  "months_continuous": 17
+ },
+ "101289054476": {
+  "uan": "101289054476",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX311210060",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 21431,
+  "months_continuous": 110
+ },
+ "106257995964": {
+  "uan": "106257995964",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX545142297",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 93320,
+  "months_continuous": 67
+ },
+ "109160433985": {
+  "uan": "109160433985",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX532859639",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 55617,
+  "months_continuous": 65
+ },
+ "107200203893": {
+  "uan": "107200203893",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX190845130",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 39731,
+  "months_continuous": 82
+ },
+ "105537850839": {
+  "uan": "105537850839",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX190490495",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 97826,
+  "months_continuous": 37
+ },
+ "107763843618": {
+  "uan": "107763843618",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX519277225",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 48087,
+  "months_continuous": 20
+ },
+ "107327968975": {
+  "uan": "107327968975",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX564299131",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43386,
+  "months_continuous": 6
+ },
+ "103134938972": {
+  "uan": "103134938972",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX172332380",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27746,
+  "months_continuous": 75
+ },
+ "102094501292": {
+  "uan": "102094501292",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX694801602",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 35788,
+  "months_continuous": 78
+ },
+ "101744474788": {
+  "uan": "101744474788",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX888077234",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 45932,
+  "months_continuous": 100
+ },
+ "108871060919": {
+  "uan": "108871060919",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX562904689",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 28937,
+  "months_continuous": 50
+ },
+ "108346949546": {
+  "uan": "108346949546",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX909711930",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 52745,
+  "months_continuous": 29
+ },
+ "109883427088": {
+  "uan": "109883427088",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX589823908",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 30164,
+  "months_continuous": 114
+ },
+ "105377838753": {
+  "uan": "105377838753",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX894080347",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 80763,
+  "months_continuous": 97
+ },
+ "103117735152": {
+  "uan": "103117735152",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX400580652",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 53207,
+  "months_continuous": 51
+ },
+ "109766990811": {
+  "uan": "109766990811",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX443768401",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 24782,
+  "months_continuous": 55
+ },
+ "101801576110": {
+  "uan": "101801576110",
+  "employer": "BLUEFIN ANALYTICS PVT LTD",
+  "establishment_id": "XX709085628",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 60515,
+  "months_continuous": 12
+ },
+ "107479823911": {
+  "uan": "107479823911",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX134000772",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43989,
+  "months_continuous": 18
+ },
+ "105574693461": {
+  "uan": "105574693461",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX266274743",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 53697,
+  "months_continuous": 111
+ },
+ "108839795823": {
+  "uan": "108839795823",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX176992786",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47822,
+  "months_continuous": 127
+ },
+ "107893903367": {
+  "uan": "107893903367",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX924102062",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 78779,
+  "months_continuous": 44
+ },
+ "107952826567": {
+  "uan": "107952826567",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX559176992",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 66170,
+  "months_continuous": 93
+ },
+ "106581062302": {
+  "uan": "106581062302",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX746460651",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 49659,
+  "months_continuous": 120
+ },
+ "108085024117": {
+  "uan": "108085024117",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX803123798",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 44018,
+  "months_continuous": 42
+ },
+ "107765369282": {
+  "uan": "107765369282",
+  "employer": "VASUDHA AGRO FOODS LTD",
+  "establishment_id": "XX200136833",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 46189,
+  "months_continuous": 94
+ },
+ "106051569061": {
+  "uan": "106051569061",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX977493877",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 34938,
+  "months_continuous": 63
+ },
+ "104478851848": {
+  "uan": "104478851848",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX941221928",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 47761,
+  "months_continuous": 59
+ },
+ "103601849957": {
+  "uan": "103601849957",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX644448667",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 37152,
+  "months_continuous": 32
+ },
+ "107355442332": {
+  "uan": "107355442332",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX228081766",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31037,
+  "months_continuous": 132
+ },
+ "105590574065": {
+  "uan": "105590574065",
+  "employer": "NORTHWIND CONSULTING LLP",
+  "establishment_id": "XX317971324",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 91463,
+  "months_continuous": 103
+ },
+ "104296069035": {
+  "uan": "104296069035",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX684025696",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 87180,
+  "months_continuous": 97
+ },
+ "102028006731": {
+  "uan": "102028006731",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX653743139",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 31642,
+  "months_continuous": 106
+ },
+ "103748027627": {
+  "uan": "103748027627",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX575924784",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43619,
+  "months_continuous": 130
+ },
+ "107049425293": {
+  "uan": "107049425293",
+  "employer": "INDIAN RAILWAYS",
+  "establishment_id": "XX726886260",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 59277,
+  "months_continuous": 129
+ },
+ "103253834432": {
+  "uan": "103253834432",
+  "employer": "MEGHDOOT RETAIL PVT LTD",
+  "establishment_id": "XX221781551",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 25275,
+  "months_continuous": 73
+ },
+ "109893887946": {
+  "uan": "109893887946",
+  "employer": "LOTUS HOSPITALITY PVT LTD",
+  "establishment_id": "XX241341215",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 36557,
+  "months_continuous": 56
+ },
+ "101911672665": {
+  "uan": "101911672665",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX788393474",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 38941,
+  "months_continuous": 57
+ },
+ "102718073412": {
+  "uan": "102718073412",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX967716643",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 32673,
+  "months_continuous": 7
+ },
+ "106660758449": {
+  "uan": "106660758449",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX349347892",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 74014,
+  "months_continuous": 38
+ },
+ "106352573248": {
+  "uan": "106352573248",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX563424060",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 35795,
+  "months_continuous": 57
+ },
+ "106715760934": {
+  "uan": "106715760934",
+  "employer": "MUNICIPAL CORPORATION",
+  "establishment_id": "XX453945622",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 27924,
+  "months_continuous": 17
+ },
+ "105806862705": {
+  "uan": "105806862705",
+  "employer": "KESTREL INFOTECH LTD",
+  "establishment_id": "XX508437156",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 61173,
+  "months_continuous": 38
+ },
+ "102128123065": {
+  "uan": "102128123065",
+  "employer": "PINECREST LOGISTICS PVT LTD",
+  "establishment_id": "XX605436005",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 91024,
+  "months_continuous": 26
+ },
+ "106305648108": {
+  "uan": "106305648108",
+  "employer": "SAHYOG STEEL LTD",
+  "establishment_id": "XX647305018",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 29145,
+  "months_continuous": 137
+ },
+ "102142764677": {
+  "uan": "102142764677",
+  "employer": "GOVT. OF UTTAR PRADESH (BASIC EDUCATION)",
+  "establishment_id": "XX324202141",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 43413,
+  "months_continuous": 86
+ },
+ "101033838678": {
+  "uan": "101033838678",
+  "employer": "TARANG TELECOM LTD",
+  "establishment_id": "XX445953095",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 85244,
+  "months_continuous": 71
+ },
+ "108645858856": {
+  "uan": "108645858856",
+  "employer": "CRESCENT AUTO COMPONENTS",
+  "establishment_id": "XX835123276",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 98237,
+  "months_continuous": 83
+ },
+ "103479242636": {
+  "uan": "103479242636",
+  "employer": "ORION PHARMA LTD",
+  "establishment_id": "XX664349763",
+  "last_contribution_month": "2026-09",
+  "epf_wage": 23426,
+  "months_continuous": 43
+ }
+}

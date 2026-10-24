@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact | Nirnay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/app.css">
+</head>
+<body>
+<main class="wrap narrow"><div class="page-head"><div><h1>Contact</h1><p>Book a working session with your credit and operations leads. We bring your own anonymised files and policy, and run the agent on them in shadow mode.</p></div></div>
+<div class="grid g2" style="align-items:start">
+<form class="panel panel-b" id="cf">
+<label class="f" for="n">Your name</label><input type="text" id="n" required>
+<label class="f" for="b" style="margin-top:10px">Bank and role</label><input type="text" id="b" placeholder="Retail Lending, Head of Home Loans">
+<label class="f" for="t" style="margin-top:10px">What would you like to see?</label>
+<select id="t"><option>A walkthrough of this demo</option><option>A pilot on our home loan files</option><option>Architecture and security review</option><option>Something else</option></select>
+<label class="f" for="m" style="margin-top:10px">Message</label><textarea id="m" rows="4"></textarea>
+<div style="margin-top:12px"><button class="btn primary" type="submit">Write the email</button></div>
+<p class="muted" style="font-size:12.5px;margin:10px 0 0">Opens your email app with the details filled in. Nothing is stored on this site.</p>
+</form>
+<div class="prose"><h3 style="margin-top:0">What a working session covers</h3><ul>
+<li>Your current turnaround by stage and where files wait</li><li>Your deviation and override patterns</li><li>Your data sources: LOS, core banking, bureau and legal workflow</li><li>A pilot plan with measures you choose</li></ul>
+<h3>Email</h3><p><a href="mailto:sabarishknight1@gmail.com">sabarishknight1@gmail.com</a></p></div></div></main>
+<script src="/static/js/common.js"></script>
+<script>document.getElementById("cf").addEventListener("submit", e => { e.preventDefault();
+const v = id => document.getElementById(id).value;
+const body = `Name: ${v("n")}%0D%0ABank and role: ${v("b")}%0D%0AInterest: ${v("t")}%0D%0A%0D%0A${encodeURIComponent(v("m"))}`;
+location.href = `mailto:sabarishknight1@gmail.com?subject=${encodeURIComponent("Nirnay: " + v("t"))}&body=${body}`; });</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[
+ {
+  "name": "doc_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "application_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "doc_type",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "received_date",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "pages",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "status",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "source",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

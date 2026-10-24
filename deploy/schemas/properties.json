@@ -1,0 +1,62 @@
+[
+ {
+  "name": "property_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "city",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "state",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "property_type",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "construction_status",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "builder",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "project_name",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "rera_number",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "carpet_area_sqft",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "agreement_value",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "address",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "age_years",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]

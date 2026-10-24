@@ -1,0 +1,22 @@
+[
+ {
+  "name": "property_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "searched_on",
+  "type": "DATE",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "subsisting_charges",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "payload",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

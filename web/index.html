@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nirnay | Agentic home loan appraisal</title>
+<meta name="description" content="Point-of-view demo: a BigQuery lakehouse and one credit case agent for home loan appraisal at a mid-sized Indian bank.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/css/app.css">
+<style>
+  .hero { display: grid; grid-template-columns: minmax(0, 1fr) 500px; gap: 48px; align-items: center; padding: 28px 0 36px; }
+  @media (max-width: 1050px) { .hero { grid-template-columns: minmax(0, 1fr); } }
+  @media (max-width: 600px) { .hero h1 { font-size: 30px; } .hero { padding-top: 8px; gap: 28px; } }
+  .hero > * { min-width: 0; }
+  .hero h1 { font-size: 38px; line-height: 1.12; letter-spacing: -0.02em; max-width: 18ch; }
+  .hero .lead { font-size: 17px; color: var(--ink-2); line-height: 1.6; max-width: 58ch; margin: 16px 0 22px; }
+  .specimen { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 18px 18px 14px; font-size: 13px; }
+  .specimen .hd { display: flex; justify-content: space-between; border-bottom: 2px solid var(--ink); padding-bottom: 8px; margin-bottom: 4px; gap: 10px; }
+  .specimen .hd b { font-size: 14px; }
+  .specimen table td { padding: 7px 6px; }
+  .specimen .why { color: var(--ink-3); font-size: 12px; }
+  .specimen .rec { margin-top: 10px; padding: 10px 12px; background: var(--flag-bg); border-radius: var(--r); color: #5c3b00; }
+  .files { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  @media (max-width: 1000px) { .files { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 600px) { .files { grid-template-columns: 1fr; } }
+  .file-card { display: block; text-decoration: none; color: var(--ink); background: #fff; border: 1px solid var(--line); border-radius: var(--r); padding: 14px; }
+  .file-card:hover { border-color: #b9c4cf; }
+  .file-card .who { font-weight: 600; }
+  .file-card .what { color: var(--ink-2); font-size: 13.5px; margin: 6px 0 10px; }
+  .sec { margin-top: 40px; }
+  .sec > h2 { margin-bottom: 14px; }
+  .views .panel-b h3 { margin-bottom: 6px; }
+  .views .panel-b p { font-size: 13.5px; color: var(--ink-2); margin-bottom: 10px; }
+  .ask li { margin-bottom: 8px; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <section class="hero">
+    <div>
+      <h1>Home loan appraisal, done in one sitting.</h1>
+      <p class="lead">Nirnay brings each home loan file together in a BigQuery lakehouse, lets one AI agent check it end to end against your credit policy and RBI rules, and hands your credit officer a drafted note for sanction in which every figure is traced to its source. The officer still decides.</p>
+      <a class="btn primary" href="/demo">Open the officer desk</a> &nbsp; <a class="btn" href="/story">Read the approach in two minutes</a>
+    </div>
+    <figure class="specimen" aria-label="Extract from a note for sanction">
+      <div class="hd"><b>Note for sanction, extract</b><span class="muted mono">HL-2026-104402</span></div>
+      <table class="t"><tbody>
+        <tr><td>Bureau score</td><td>741</td><td><span class="pill pass">Pass</span></td><td><span class="clause">HLP-3.1</span></td></tr>
+        <tr><td>Turnover: bank vs ITR</td><td>12.1% apart</td><td><span class="pill pass">Pass</span></td><td><span class="clause">HLP-4.3</span></td></tr>
+        <tr><td>FOIR<div class="why">At login (repo 5.25%) it was 54.6%. The 7 Oct repo hike raised it.</div></td><td>55.5%<div class="why">cap 55%</div></td><td><span class="pill flag">Flag</span></td><td><span class="clause">HLP-4.1</span></td></tr>
+        <tr><td>Loan-to-value</td><td>77.5%</td><td><span class="pill pass">Pass</span></td><td><span class="clause">RBI-LTV</span></td></tr>
+      </tbody></table>
+      <div class="rec"><b>Refer to Regional Credit Head,</b> or bring it within policy: reduce to ₹54.4 lakh, extend to 22 years, or add his wife as co-owner (FOIR 39.9%).</div>
+    </figure>
+  </section>
+
+  <section class="sec">
+    <h2>Four files to try</h2>
+    <div class="files">
+      <a class="file-card" href="/demo#HL-2026-104401"><div class="who">Priya Raghavan</div><div class="what">Salaried, Pune, ₹68 lakh for an under-construction flat. Everything checks out.</div><span class="pill pass">Recommend sanction</span></a>
+      <a class="file-card" href="/demo#HL-2026-104402"><div class="who">Arjun Mehta</div><div class="what">Self-employed, Ahmedabad. Within policy at login; the repo hike pushed FOIR half a point over.</div><span class="pill flag">Deviation, with options</span></a>
+      <a class="file-card" href="/demo#HL-2026-104403"><div class="who">Sunita Yadav</div><div class="what">Resale house, Lucknow. The seller says it is unencumbered; CERSAI disagrees.</div><span class="pill fail">Legal hold</span></a>
+      <a class="file-card" href="/demo#HL-2026-104404"><div class="who">Vikram Sethi</div><div class="what">Salaried, Gurugram. Payslip says ₹1.35 lakh a month; the bank sees ₹88,400.</div><span class="pill fail">Refer to RCU</span></a>
+    </div>
+  </section>
+
+  <section class="sec grid g3 views">
+    <div class="panel panel-b"><h3>Credit officer</h3><p>Runs the review, sees every check with its source and clause, edits the note and decides. Deviations route to the right authority.</p><a href="/demo">Officer desk</a></div>
+    <div class="panel panel-b"><h3>Lending head</h3><p>Where files wait, how often officers override the agent and why, and what a rule change does to files already in progress.</p><a href="/head">Lending head view</a></div>
+    <div class="panel panel-b"><h3>Applicant</h3><p>Plain status by stage, the consents given, and the Key Facts Statement with the all-in APR once sanctioned.</p><a href="/applicant">Applicant view</a></div>
+  </section>
+
+  <section class="sec grid g2" style="align-items:start">
+    <div>
+      <h2>Questions we would bring to the first meeting</h2>
+      <ol class="prose ask" style="padding-left:20px">
+        <li>How many working days does a home loan take from login to sanction today, and which stage is longest?</li>
+        <li>What share of files go to a higher authority on deviation, and what are the top three reasons?</li>
+        <li>Which loan origination and core banking systems hold the data, and how is it extracted today?</li>
+        <li>Where does the credit policy live, and how does a change reach officers?</li>
+        <li>What does the Risk Containment Unit sample, and what does it find most often?</li>
+      </ol>
+    </div>
+    <div class="panel"><div class="panel-h"><strong>What is running behind this page</strong></div><div class="panel-b">
+      <dl class="kv">
+        <dt>Lakehouse</dt><dd>BigQuery, Mumbai region: raw, curated and decision-ready datasets</dd>
+        <dt>Data</dt><dd>600 synthetic home loan applications, 760+ customers, 12 months of transactions and repayments, bureau, CERSAI, KYC, AA, EPFO and GST records</dd>
+        <dt>Agent</dt><dd>One credit case agent, seven steps, Gemini on Vertex AI for reading and drafting</dd>
+        <dt>Policy</dt><dd>23 clauses: an illustrative home loan policy and the RBI rules behind it</dd>
+        <dt>Hosting</dt><dd>Cloud Run</dd>
+      </dl>
+      <p style="margin:12px 0 0"><a href="/architecture">Architecture</a> &nbsp; <a href="/research">How home loan approval works</a></p></div></div>
+  </section>
+</main>
+<script src="/static/js/common.js"></script>
+</body>
+</html>

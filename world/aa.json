@@ -1,0 +1,6741 @@
+{
+ "C100001": {
+  "consent_id": "AA-33762713",
+  "fip": "This bank + HDFC-like FIP (simulated)",
+  "months": 6,
+  "avg_monthly_credit": 151200,
+  "avg_salary_credit": 142300,
+  "avg_eod_balance": 402000,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14500
+  ]
+ },
+ "C100002": {
+  "consent_id": "AA-81146885",
+  "fip": "This bank (CA + SB)",
+  "months": 12,
+  "avg_monthly_credit": 742000,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 612000,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6150
+  ]
+ },
+ "C100004": {
+  "consent_id": "AA-92026673",
+  "fip": "This bank (SB)",
+  "months": 6,
+  "avg_monthly_credit": 75400,
+  "avg_salary_credit": 71500,
+  "avg_eod_balance": 148000,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100006": {
+  "consent_id": "AA-78630066",
+  "fip": "This bank (SB)",
+  "months": 6,
+  "avg_monthly_credit": 91600,
+  "avg_salary_credit": 88400,
+  "avg_eod_balance": 61000,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11800
+  ]
+ },
+ "C100007": {
+  "consent_id": "AA-61160877",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 61266,
+  "avg_salary_credit": 58666,
+  "avg_eod_balance": 70162,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6003
+  ]
+ },
+ "C100008": {
+  "consent_id": "AA-86855029",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 622046,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 433787,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14848
+  ]
+ },
+ "C100009": {
+  "consent_id": "AA-37527882",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 520435,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 213054,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12606
+  ]
+ },
+ "C100010": {
+  "consent_id": "AA-24325475",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 218832,
+  "avg_salary_credit": 202384,
+  "avg_eod_balance": 719909,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100011": {
+  "consent_id": "AA-11450752",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 70939,
+  "avg_salary_credit": 66206,
+  "avg_eod_balance": 102320,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7306
+  ]
+ },
+ "C100012": {
+  "consent_id": "AA-78908286",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 85161,
+  "avg_salary_credit": 79231,
+  "avg_eod_balance": 261080,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100014": {
+  "consent_id": "AA-78711223",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 88830,
+  "avg_salary_credit": 83912,
+  "avg_eod_balance": 131792,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5065,
+   8315
+  ]
+ },
+ "C100015": {
+  "consent_id": "AA-63523790",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 105295,
+  "avg_salary_credit": 97770,
+  "avg_eod_balance": 164561,
+  "bounces": 0,
+  "emi_debits_detected": [
+   13969
+  ]
+ },
+ "C100017": {
+  "consent_id": "AA-65741798",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 795514,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 413723,
+  "bounces": 0,
+  "emi_debits_detected": [
+   17713
+  ]
+ },
+ "C100019": {
+  "consent_id": "AA-80216282",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1563713,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 1032307,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100020": {
+  "consent_id": "AA-49177487",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 682771,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 316454,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100021": {
+  "consent_id": "AA-15018291",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 46850,
+  "avg_salary_credit": 45034,
+  "avg_eod_balance": 96723,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100022": {
+  "consent_id": "AA-36667282",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 47991,
+  "avg_salary_credit": 46079,
+  "avg_eod_balance": 83182,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5754
+  ]
+ },
+ "C100024": {
+  "consent_id": "AA-73121721",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1089687,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 627148,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10374,
+   17911
+  ]
+ },
+ "C100025": {
+  "consent_id": "AA-21034107",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62309,
+  "avg_salary_credit": 58096,
+  "avg_eod_balance": 226355,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100027": {
+  "consent_id": "AA-89476372",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 257820,
+  "avg_salary_credit": 246031,
+  "avg_eod_balance": 198276,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100028": {
+  "consent_id": "AA-94071708",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 41596,
+  "avg_salary_credit": 39123,
+  "avg_eod_balance": 77305,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3866
+  ]
+ },
+ "C100029": {
+  "consent_id": "AA-33252307",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92580,
+  "avg_salary_credit": 86025,
+  "avg_eod_balance": 342620,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100030": {
+  "consent_id": "AA-17918491",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 69715,
+  "avg_salary_credit": 65374,
+  "avg_eod_balance": 231585,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100032": {
+  "consent_id": "AA-62731357",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 91907,
+  "avg_salary_credit": 87156,
+  "avg_eod_balance": 112431,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11512
+  ]
+ },
+ "C100033": {
+  "consent_id": "AA-83827087",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 96242,
+  "avg_salary_credit": 89743,
+  "avg_eod_balance": 141843,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100034": {
+  "consent_id": "AA-35330956",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 393265,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 121106,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4312
+  ]
+ },
+ "C100035": {
+  "consent_id": "AA-36657405",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 139643,
+  "avg_salary_credit": 134014,
+  "avg_eod_balance": 467387,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100037": {
+  "consent_id": "AA-32053068",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 109566,
+  "avg_salary_credit": 102429,
+  "avg_eod_balance": 323789,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100038": {
+  "consent_id": "AA-58974314",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 109081,
+  "avg_salary_credit": 104765,
+  "avg_eod_balance": 130827,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6990
+  ]
+ },
+ "C100039": {
+  "consent_id": "AA-48673742",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 86171,
+  "avg_salary_credit": 80562,
+  "avg_eod_balance": 285992,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100040": {
+  "consent_id": "AA-27166543",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 698719,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 448392,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5589
+  ]
+ },
+ "C100041": {
+  "consent_id": "AA-58063826",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 67607,
+  "avg_salary_credit": 63391,
+  "avg_eod_balance": 208648,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100043": {
+  "consent_id": "AA-89677857",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 82500,
+  "avg_salary_credit": 76369,
+  "avg_eod_balance": 218315,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100045": {
+  "consent_id": "AA-73943661",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 87495,
+  "avg_salary_credit": 82641,
+  "avg_eod_balance": 89965,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100046": {
+  "consent_id": "AA-73975831",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 190362,
+  "avg_salary_credit": 176831,
+  "avg_eod_balance": 681380,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100048": {
+  "consent_id": "AA-89348591",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 598620,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 330553,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9273,
+   10891
+  ]
+ },
+ "C100049": {
+  "consent_id": "AA-35463139",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 53236,
+  "avg_salary_credit": 50304,
+  "avg_eod_balance": 42633,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100051": {
+  "consent_id": "AA-88805941",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 101649,
+  "avg_salary_credit": 97376,
+  "avg_eod_balance": 317227,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12771
+  ]
+ },
+ "C100053": {
+  "consent_id": "AA-43090824",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 568720,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 402715,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14144,
+   6740
+  ]
+ },
+ "C100054": {
+  "consent_id": "AA-43991416",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 109371,
+  "avg_salary_credit": 104380,
+  "avg_eod_balance": 163315,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100056": {
+  "consent_id": "AA-37663843",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 41931,
+  "avg_salary_credit": 39864,
+  "avg_eod_balance": 72998,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4992
+  ]
+ },
+ "C100058": {
+  "consent_id": "AA-10334305",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 81314,
+  "avg_salary_credit": 75345,
+  "avg_eod_balance": 104331,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3424
+  ]
+ },
+ "C100060": {
+  "consent_id": "AA-62331057",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 423061,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 295208,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7216,
+   6372
+  ]
+ },
+ "C100062": {
+  "consent_id": "AA-91697295",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 106852,
+  "avg_salary_credit": 102589,
+  "avg_eod_balance": 368260,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100063": {
+  "consent_id": "AA-57088547",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 156636,
+  "avg_salary_credit": 147616,
+  "avg_eod_balance": 170453,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16287
+  ]
+ },
+ "C100064": {
+  "consent_id": "AA-58714074",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 75965,
+  "avg_salary_credit": 70764,
+  "avg_eod_balance": 276460,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8727
+  ]
+ },
+ "C100065": {
+  "consent_id": "AA-83974565",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 86923,
+  "avg_salary_credit": 82986,
+  "avg_eod_balance": 86150,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100066": {
+  "consent_id": "AA-92753359",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 58080,
+  "avg_salary_credit": 53829,
+  "avg_eod_balance": 70476,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100068": {
+  "consent_id": "AA-12479293",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 87409,
+  "avg_salary_credit": 83852,
+  "avg_eod_balance": 105917,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8019
+  ]
+ },
+ "C100069": {
+  "consent_id": "AA-98217527",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 83388,
+  "avg_salary_credit": 79453,
+  "avg_eod_balance": 187988,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6083
+  ]
+ },
+ "C100071": {
+  "consent_id": "AA-50333570",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 79003,
+  "avg_salary_credit": 73002,
+  "avg_eod_balance": 181337,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100072": {
+  "consent_id": "AA-89004553",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 47901,
+  "avg_salary_credit": 45088,
+  "avg_eod_balance": 41673,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100073": {
+  "consent_id": "AA-79416671",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 124106,
+  "avg_salary_credit": 115386,
+  "avg_eod_balance": 327875,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100074": {
+  "consent_id": "AA-16826759",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 52526,
+  "avg_salary_credit": 49450,
+  "avg_eod_balance": 99946,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100075": {
+  "consent_id": "AA-86831907",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 343297,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 55457,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3165
+  ]
+ },
+ "C100077": {
+  "consent_id": "AA-75310828",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 79560,
+  "avg_salary_credit": 75259,
+  "avg_eod_balance": 219557,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4576
+  ]
+ },
+ "C100078": {
+  "consent_id": "AA-22024659",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 736919,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 208613,
+  "bounces": 0,
+  "emi_debits_detected": [
+   15688,
+   15702
+  ]
+ },
+ "C100079": {
+  "consent_id": "AA-78522073",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 68546,
+  "avg_salary_credit": 65862,
+  "avg_eod_balance": 64508,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7289
+  ]
+ },
+ "C100080": {
+  "consent_id": "AA-76041765",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 465675,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 218582,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11102
+  ]
+ },
+ "C100082": {
+  "consent_id": "AA-29839811",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 57482,
+  "avg_salary_credit": 53877,
+  "avg_eod_balance": 151363,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100083": {
+  "consent_id": "AA-24903872",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 56114,
+  "avg_salary_credit": 53045,
+  "avg_eod_balance": 204317,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4229
+  ]
+ },
+ "C100085": {
+  "consent_id": "AA-43397648",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62038,
+  "avg_salary_credit": 58021,
+  "avg_eod_balance": 227990,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100086": {
+  "consent_id": "AA-23568687",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 43527,
+  "avg_salary_credit": 40605,
+  "avg_eod_balance": 45180,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100087": {
+  "consent_id": "AA-39006628",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 73421,
+  "avg_salary_credit": 68473,
+  "avg_eod_balance": 203680,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3245
+  ]
+ },
+ "C100088": {
+  "consent_id": "AA-26726587",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 282106,
+  "avg_salary_credit": 267773,
+  "avg_eod_balance": 889576,
+  "bounces": 0,
+  "emi_debits_detected": [
+   33598
+  ]
+ },
+ "C100089": {
+  "consent_id": "AA-23991963",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 502326,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 212678,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9184
+  ]
+ },
+ "C100090": {
+  "consent_id": "AA-10927939",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 542208,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 202086,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6271
+  ]
+ },
+ "C100091": {
+  "consent_id": "AA-41616433",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 351301,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 249669,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2573
+  ]
+ },
+ "C100092": {
+  "consent_id": "AA-34983312",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 924281,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 583917,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100094": {
+  "consent_id": "AA-32465829",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1070258,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 602868,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100095": {
+  "consent_id": "AA-99331174",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 95472,
+  "avg_salary_credit": 89571,
+  "avg_eod_balance": 265839,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6522
+  ]
+ },
+ "C100096": {
+  "consent_id": "AA-47946696",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 215790,
+  "avg_salary_credit": 206576,
+  "avg_eod_balance": 551816,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100098": {
+  "consent_id": "AA-67572399",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 620525,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 284148,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12589
+  ]
+ },
+ "C100099": {
+  "consent_id": "AA-71080553",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 108595,
+  "avg_salary_credit": 103458,
+  "avg_eod_balance": 161986,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100100": {
+  "consent_id": "AA-59497223",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 75005,
+  "avg_salary_credit": 69493,
+  "avg_eod_balance": 205388,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6827
+  ]
+ },
+ "C100101": {
+  "consent_id": "AA-61893997",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 168333,
+  "avg_salary_credit": 158972,
+  "avg_eod_balance": 219447,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100102": {
+  "consent_id": "AA-35090053",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 606314,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 271833,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14006,
+   4545
+  ]
+ },
+ "C100103": {
+  "consent_id": "AA-36497510",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 648502,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 410160,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100105": {
+  "consent_id": "AA-39549500",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 157147,
+  "avg_salary_credit": 146141,
+  "avg_eod_balance": 224294,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100106": {
+  "consent_id": "AA-17903370",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 111154,
+  "avg_salary_credit": 106139,
+  "avg_eod_balance": 178427,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100107": {
+  "consent_id": "AA-68209796",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 99171,
+  "avg_salary_credit": 91618,
+  "avg_eod_balance": 255643,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100108": {
+  "consent_id": "AA-45174756",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 113016,
+  "avg_salary_credit": 104636,
+  "avg_eod_balance": 88970,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10534
+  ]
+ },
+ "C100109": {
+  "consent_id": "AA-93771345",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 74631,
+  "avg_salary_credit": 69076,
+  "avg_eod_balance": 147546,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9365
+  ]
+ },
+ "C100110": {
+  "consent_id": "AA-87671167",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 55290,
+  "avg_salary_credit": 52715,
+  "avg_eod_balance": 179881,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100111": {
+  "consent_id": "AA-91058275",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 730367,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 135688,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8376,
+   10566
+  ]
+ },
+ "C100112": {
+  "consent_id": "AA-24870967",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 81329,
+  "avg_salary_credit": 75613,
+  "avg_eod_balance": 134907,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100114": {
+  "consent_id": "AA-48143286",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 82133,
+  "avg_salary_credit": 75931,
+  "avg_eod_balance": 66432,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8373
+  ]
+ },
+ "C100116": {
+  "consent_id": "AA-32030913",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 856923,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 281374,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100118": {
+  "consent_id": "AA-55765214",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1289989,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 378119,
+  "bounces": 0,
+  "emi_debits_detected": [
+   31068
+  ]
+ },
+ "C100119": {
+  "consent_id": "AA-86561056",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1096908,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 679921,
+  "bounces": 0,
+  "emi_debits_detected": [
+   27919
+  ]
+ },
+ "C100120": {
+  "consent_id": "AA-15098564",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 424853,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 248842,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100121": {
+  "consent_id": "AA-85779620",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 72360,
+  "avg_salary_credit": 68277,
+  "avg_eod_balance": 124863,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100122": {
+  "consent_id": "AA-61913325",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 105058,
+  "avg_salary_credit": 99537,
+  "avg_eod_balance": 267249,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7364
+  ]
+ },
+ "C100124": {
+  "consent_id": "AA-24877418",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 58144,
+  "avg_salary_credit": 54314,
+  "avg_eod_balance": 62779,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100125": {
+  "consent_id": "AA-15145356",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 88079,
+  "avg_salary_credit": 83307,
+  "avg_eod_balance": 280458,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100126": {
+  "consent_id": "AA-74691074",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 75196,
+  "avg_salary_credit": 71441,
+  "avg_eod_balance": 217762,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100127": {
+  "consent_id": "AA-97904393",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1153005,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 409171,
+  "bounces": 0,
+  "emi_debits_detected": [
+   25094
+  ]
+ },
+ "C100128": {
+  "consent_id": "AA-42896744",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 70412,
+  "avg_salary_credit": 66454,
+  "avg_eod_balance": 149256,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100129": {
+  "consent_id": "AA-70712409",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1106594,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 398828,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100130": {
+  "consent_id": "AA-46131556",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 128889,
+  "avg_salary_credit": 120530,
+  "avg_eod_balance": 176750,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100132": {
+  "consent_id": "AA-19834331",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 643267,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 311939,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100133": {
+  "consent_id": "AA-84790210",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92158,
+  "avg_salary_credit": 85462,
+  "avg_eod_balance": 166914,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100135": {
+  "consent_id": "AA-52858145",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 84376,
+  "avg_salary_credit": 79940,
+  "avg_eod_balance": 187146,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9539,
+   4314
+  ]
+ },
+ "C100137": {
+  "consent_id": "AA-91022470",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 407760,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 214432,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9883
+  ]
+ },
+ "C100139": {
+  "consent_id": "AA-39436872",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 87945,
+  "avg_salary_credit": 82123,
+  "avg_eod_balance": 77696,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100140": {
+  "consent_id": "AA-32765579",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 452544,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 292038,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8978
+  ]
+ },
+ "C100141": {
+  "consent_id": "AA-32863346",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 109432,
+  "avg_salary_credit": 104924,
+  "avg_eod_balance": 306371,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14207
+  ]
+ },
+ "C100143": {
+  "consent_id": "AA-56820037",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 123253,
+  "avg_salary_credit": 117181,
+  "avg_eod_balance": 164233,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10989
+  ]
+ },
+ "C100144": {
+  "consent_id": "AA-96727450",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 102806,
+  "avg_salary_credit": 95063,
+  "avg_eod_balance": 132123,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100145": {
+  "consent_id": "AA-85349607",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92173,
+  "avg_salary_credit": 86056,
+  "avg_eod_balance": 130011,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6870
+  ]
+ },
+ "C100146": {
+  "consent_id": "AA-21251354",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 180250,
+  "avg_salary_credit": 168742,
+  "avg_eod_balance": 305658,
+  "bounces": 0,
+  "emi_debits_detected": [
+   22994
+  ]
+ },
+ "C100147": {
+  "consent_id": "AA-40517518",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 501864,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 110539,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100148": {
+  "consent_id": "AA-64152787",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 156271,
+  "avg_salary_credit": 149471,
+  "avg_eod_balance": 527696,
+  "bounces": 0,
+  "emi_debits_detected": [
+   13703
+  ]
+ },
+ "C100149": {
+  "consent_id": "AA-97871007",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 50589,
+  "avg_salary_credit": 48079,
+  "avg_eod_balance": 97952,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100151": {
+  "consent_id": "AA-24605747",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1000587,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 550601,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100152": {
+  "consent_id": "AA-95406919",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 75802,
+  "avg_salary_credit": 71141,
+  "avg_eod_balance": 77030,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6371,
+   6364
+  ]
+ },
+ "C100153": {
+  "consent_id": "AA-76670915",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 476166,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 274146,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100154": {
+  "consent_id": "AA-97102178",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 49711,
+  "avg_salary_credit": 47044,
+  "avg_eod_balance": 93453,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4743
+  ]
+ },
+ "C100156": {
+  "consent_id": "AA-23838016",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 81337,
+  "avg_salary_credit": 76241,
+  "avg_eod_balance": 164427,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100157": {
+  "consent_id": "AA-13709994",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 783756,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 362078,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100159": {
+  "consent_id": "AA-50399452",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 73534,
+  "avg_salary_credit": 68213,
+  "avg_eod_balance": 70429,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8411
+  ]
+ },
+ "C100160": {
+  "consent_id": "AA-86499777",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62740,
+  "avg_salary_credit": 59833,
+  "avg_eod_balance": 208348,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7915
+  ]
+ },
+ "C100161": {
+  "consent_id": "AA-64825754",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 248977,
+  "avg_salary_credit": 232597,
+  "avg_eod_balance": 779101,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100162": {
+  "consent_id": "AA-15703729",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 127136,
+  "avg_salary_credit": 120620,
+  "avg_eod_balance": 468103,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100163": {
+  "consent_id": "AA-97970325",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 605573,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 142167,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11708,
+   6885
+  ]
+ },
+ "C100165": {
+  "consent_id": "AA-62129964",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 959621,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 525026,
+  "bounces": 0,
+  "emi_debits_detected": [
+   18034
+  ]
+ },
+ "C100166": {
+  "consent_id": "AA-66140447",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1785554,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 858954,
+  "bounces": 0,
+  "emi_debits_detected": [
+   23161
+  ]
+ },
+ "C100167": {
+  "consent_id": "AA-12507554",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 40974,
+  "avg_salary_credit": 39109,
+  "avg_eod_balance": 154566,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2477,
+   4235
+  ]
+ },
+ "C100169": {
+  "consent_id": "AA-95651853",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 96527,
+  "avg_salary_credit": 92085,
+  "avg_eod_balance": 269033,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6962
+  ]
+ },
+ "C100170": {
+  "consent_id": "AA-37547676",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 66711,
+  "avg_salary_credit": 63904,
+  "avg_eod_balance": 235421,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4718
+  ]
+ },
+ "C100172": {
+  "consent_id": "AA-20815716",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 126338,
+  "avg_salary_credit": 119832,
+  "avg_eod_balance": 345714,
+  "bounces": 0,
+  "emi_debits_detected": [
+   15381
+  ]
+ },
+ "C100174": {
+  "consent_id": "AA-32104077",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 841491,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 426771,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16593
+  ]
+ },
+ "C100175": {
+  "consent_id": "AA-61008800",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 677275,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 251879,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100177": {
+  "consent_id": "AA-76507288",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 65753,
+  "avg_salary_credit": 61938,
+  "avg_eod_balance": 137147,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100178": {
+  "consent_id": "AA-44442687",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 56995,
+  "avg_salary_credit": 54244,
+  "avg_eod_balance": 47647,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5621
+  ]
+ },
+ "C100179": {
+  "consent_id": "AA-94228049",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 74509,
+  "avg_salary_credit": 70737,
+  "avg_eod_balance": 225085,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100181": {
+  "consent_id": "AA-28680832",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 61429,
+  "avg_salary_credit": 58083,
+  "avg_eod_balance": 149292,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5405
+  ]
+ },
+ "C100183": {
+  "consent_id": "AA-69734593",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 60847,
+  "avg_salary_credit": 57218,
+  "avg_eod_balance": 59647,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2738
+  ]
+ },
+ "C100184": {
+  "consent_id": "AA-12068199",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 86186,
+  "avg_salary_credit": 80452,
+  "avg_eod_balance": 161895,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100185": {
+  "consent_id": "AA-57472388",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 582052,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 291485,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5503
+  ]
+ },
+ "C100186": {
+  "consent_id": "AA-67303155",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 84165,
+  "avg_salary_credit": 80920,
+  "avg_eod_balance": 131009,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5150
+  ]
+ },
+ "C100187": {
+  "consent_id": "AA-85651408",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 90408,
+  "avg_salary_credit": 85246,
+  "avg_eod_balance": 306372,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9083
+  ]
+ },
+ "C100188": {
+  "consent_id": "AA-47395227",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 285502,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 114226,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100189": {
+  "consent_id": "AA-44037364",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 145002,
+  "avg_salary_credit": 138596,
+  "avg_eod_balance": 507119,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12893
+  ]
+ },
+ "C100190": {
+  "consent_id": "AA-76644070",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1053567,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 627347,
+  "bounces": 0,
+  "emi_debits_detected": [
+   15219,
+   8070
+  ]
+ },
+ "C100191": {
+  "consent_id": "AA-70616641",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 623463,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 311043,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11765
+  ]
+ },
+ "C100193": {
+  "consent_id": "AA-87210706",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 81959,
+  "avg_salary_credit": 77478,
+  "avg_eod_balance": 113712,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100195": {
+  "consent_id": "AA-47673295",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 87073,
+  "avg_salary_credit": 80893,
+  "avg_eod_balance": 234255,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100196": {
+  "consent_id": "AA-27097978",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 76746,
+  "avg_salary_credit": 71491,
+  "avg_eod_balance": 166323,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100197": {
+  "consent_id": "AA-21767799",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 226348,
+  "avg_salary_credit": 210736,
+  "avg_eod_balance": 733391,
+  "bounces": 0,
+  "emi_debits_detected": [
+   24167
+  ]
+ },
+ "C100199": {
+  "consent_id": "AA-48189636",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 411018,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 267777,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3924,
+   5618
+  ]
+ },
+ "C100200": {
+  "consent_id": "AA-52199787",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 673701,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 280081,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100201": {
+  "consent_id": "AA-61141998",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 679029,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 239536,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6353
+  ]
+ },
+ "C100202": {
+  "consent_id": "AA-14274386",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 39440,
+  "avg_salary_credit": 37909,
+  "avg_eod_balance": 102121,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5180
+  ]
+ },
+ "C100203": {
+  "consent_id": "AA-13613213",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 637445,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 245526,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6790
+  ]
+ },
+ "C100204": {
+  "consent_id": "AA-25746487",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 79908,
+  "avg_salary_credit": 76641,
+  "avg_eod_balance": 267818,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100205": {
+  "consent_id": "AA-73151803",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 53864,
+  "avg_salary_credit": 50240,
+  "avg_eod_balance": 57143,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100206": {
+  "consent_id": "AA-40052324",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 76749,
+  "avg_salary_credit": 71868,
+  "avg_eod_balance": 83671,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6046
+  ]
+ },
+ "C100207": {
+  "consent_id": "AA-20067778",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 105017,
+  "avg_salary_credit": 99786,
+  "avg_eod_balance": 254015,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100208": {
+  "consent_id": "AA-61211230",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 91221,
+  "avg_salary_credit": 84385,
+  "avg_eod_balance": 227092,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100209": {
+  "consent_id": "AA-99210776",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 94601,
+  "avg_salary_credit": 87930,
+  "avg_eod_balance": 358889,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100210": {
+  "consent_id": "AA-52750064",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 155648,
+  "avg_salary_credit": 145248,
+  "avg_eod_balance": 186259,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100211": {
+  "consent_id": "AA-75557990",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 612991,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 353126,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100213": {
+  "consent_id": "AA-76915103",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 118722,
+  "avg_salary_credit": 112233,
+  "avg_eod_balance": 378816,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7414
+  ]
+ },
+ "C100215": {
+  "consent_id": "AA-61198480",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 225876,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 70496,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3866
+  ]
+ },
+ "C100216": {
+  "consent_id": "AA-62848867",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62610,
+  "avg_salary_credit": 59074,
+  "avg_eod_balance": 108287,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7204
+  ]
+ },
+ "C100217": {
+  "consent_id": "AA-45288937",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 166463,
+  "avg_salary_credit": 156689,
+  "avg_eod_balance": 434524,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100219": {
+  "consent_id": "AA-22199728",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 804816,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 441183,
+  "bounces": 0,
+  "emi_debits_detected": [
+   18261
+  ]
+ },
+ "C100221": {
+  "consent_id": "AA-84730740",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 63145,
+  "avg_salary_credit": 58865,
+  "avg_eod_balance": 187344,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6753
+  ]
+ },
+ "C100222": {
+  "consent_id": "AA-26591309",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 282523,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 108857,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5759,
+   4251
+  ]
+ },
+ "C100223": {
+  "consent_id": "AA-37633590",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 849566,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 134036,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100225": {
+  "consent_id": "AA-76655132",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 82984,
+  "avg_salary_credit": 77202,
+  "avg_eod_balance": 207349,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100227": {
+  "consent_id": "AA-11793580",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 136569,
+  "avg_salary_credit": 126344,
+  "avg_eod_balance": 212335,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100228": {
+  "consent_id": "AA-98747203",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 128002,
+  "avg_salary_credit": 120642,
+  "avg_eod_balance": 465513,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100230": {
+  "consent_id": "AA-11264089",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 452151,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 262568,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100231": {
+  "consent_id": "AA-58571208",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 46220,
+  "avg_salary_credit": 42961,
+  "avg_eod_balance": 98320,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100232": {
+  "consent_id": "AA-61592138",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 109315,
+  "avg_salary_credit": 103483,
+  "avg_eod_balance": 270823,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7538
+  ]
+ },
+ "C100233": {
+  "consent_id": "AA-27347418",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 53478,
+  "avg_salary_credit": 51120,
+  "avg_eod_balance": 41939,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100234": {
+  "consent_id": "AA-82204976",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1659250,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 906701,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100235": {
+  "consent_id": "AA-59563024",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 64594,
+  "avg_salary_credit": 60471,
+  "avg_eod_balance": 108452,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6836
+  ]
+ },
+ "C100237": {
+  "consent_id": "AA-21154185",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1007855,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 286710,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100238": {
+  "consent_id": "AA-79936553",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1519978,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 374418,
+  "bounces": 0,
+  "emi_debits_detected": [
+   26541
+  ]
+ },
+ "C100239": {
+  "consent_id": "AA-28506742",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 605498,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 277296,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9361
+  ]
+ },
+ "C100240": {
+  "consent_id": "AA-34380664",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 67855,
+  "avg_salary_credit": 63742,
+  "avg_eod_balance": 182460,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3330
+  ]
+ },
+ "C100241": {
+  "consent_id": "AA-45500669",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 73025,
+  "avg_salary_credit": 68284,
+  "avg_eod_balance": 197133,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100243": {
+  "consent_id": "AA-36154334",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 489654,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 283364,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4361
+  ]
+ },
+ "C100244": {
+  "consent_id": "AA-25458080",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 669090,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 312014,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9653
+  ]
+ },
+ "C100245": {
+  "consent_id": "AA-30630982",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 71699,
+  "avg_salary_credit": 67675,
+  "avg_eod_balance": 67868,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100247": {
+  "consent_id": "AA-81734166",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 29400,
+  "avg_salary_credit": 27844,
+  "avg_eod_balance": 41112,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2178,
+   3770,
+   3361
+  ]
+ },
+ "C100248": {
+  "consent_id": "AA-48761777",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 539055,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 345297,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100249": {
+  "consent_id": "AA-59642465",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 70868,
+  "avg_salary_credit": 66028,
+  "avg_eod_balance": 255786,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100250": {
+  "consent_id": "AA-99712586",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 88174,
+  "avg_salary_credit": 83796,
+  "avg_eod_balance": 333748,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3514
+  ]
+ },
+ "C100252": {
+  "consent_id": "AA-30637084",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 588884,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 389770,
+  "bounces": 0,
+  "emi_debits_detected": [
+   13608
+  ]
+ },
+ "C100253": {
+  "consent_id": "AA-30730912",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 141894,
+  "avg_salary_credit": 134466,
+  "avg_eod_balance": 306155,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100254": {
+  "consent_id": "AA-91583824",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 285135,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 130428,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100255": {
+  "consent_id": "AA-53690105",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 790759,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 328029,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10490,
+   13573,
+   19187
+  ]
+ },
+ "C100256": {
+  "consent_id": "AA-75176968",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 29400,
+  "avg_salary_credit": 28151,
+  "avg_eod_balance": 79044,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100258": {
+  "consent_id": "AA-62371781",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 73568,
+  "avg_salary_credit": 68716,
+  "avg_eod_balance": 81413,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100259": {
+  "consent_id": "AA-39608040",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 101366,
+  "avg_salary_credit": 96304,
+  "avg_eod_balance": 146159,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100260": {
+  "consent_id": "AA-24697798",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 434703,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 143236,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100261": {
+  "consent_id": "AA-27626860",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 55630,
+  "avg_salary_credit": 51866,
+  "avg_eod_balance": 98135,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5165,
+   4275
+  ]
+ },
+ "C100262": {
+  "consent_id": "AA-80193061",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 875986,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 433816,
+  "bounces": 0,
+  "emi_debits_detected": [
+   20114
+  ]
+ },
+ "C100263": {
+  "consent_id": "AA-20394345",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 388168,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 141455,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3609,
+   4909
+  ]
+ },
+ "C100264": {
+  "consent_id": "AA-10590318",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 106993,
+  "avg_salary_credit": 100498,
+  "avg_eod_balance": 215482,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100266": {
+  "consent_id": "AA-34827065",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 172271,
+  "avg_salary_credit": 160637,
+  "avg_eod_balance": 225926,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100267": {
+  "consent_id": "AA-82110891",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 476296,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 82215,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7493
+  ]
+ },
+ "C100268": {
+  "consent_id": "AA-90403765",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 219868,
+  "avg_salary_credit": 203473,
+  "avg_eod_balance": 540951,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100269": {
+  "consent_id": "AA-42684692",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 631794,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 141130,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100271": {
+  "consent_id": "AA-70938716",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 398418,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 267822,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9892
+  ]
+ },
+ "C100272": {
+  "consent_id": "AA-63038031",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 653252,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 294487,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100274": {
+  "consent_id": "AA-92836064",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 61729,
+  "avg_salary_credit": 59026,
+  "avg_eod_balance": 106164,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100275": {
+  "consent_id": "AA-35134354",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 543328,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 264559,
+  "bounces": 0,
+  "emi_debits_detected": [
+   13428
+  ]
+ },
+ "C100276": {
+  "consent_id": "AA-18742870",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 99157,
+  "avg_salary_credit": 95096,
+  "avg_eod_balance": 137432,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100277": {
+  "consent_id": "AA-51352280",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 521036,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 133161,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7409
+  ]
+ },
+ "C100279": {
+  "consent_id": "AA-41443654",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 127234,
+  "avg_salary_credit": 118342,
+  "avg_eod_balance": 129854,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100280": {
+  "consent_id": "AA-20913040",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 611605,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 248967,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4873
+  ]
+ },
+ "C100281": {
+  "consent_id": "AA-78196200",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 512600,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 260505,
+  "bounces": 0,
+  "emi_debits_detected": [
+   13021
+  ]
+ },
+ "C100282": {
+  "consent_id": "AA-30245724",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 143565,
+  "avg_salary_credit": 133502,
+  "avg_eod_balance": 377108,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100283": {
+  "consent_id": "AA-33126225",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 54684,
+  "avg_salary_credit": 51686,
+  "avg_eod_balance": 83573,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100285": {
+  "consent_id": "AA-24196569",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 387975,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 151228,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3160
+  ]
+ },
+ "C100287": {
+  "consent_id": "AA-78136672",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 123504,
+  "avg_salary_credit": 116907,
+  "avg_eod_balance": 282215,
+  "bounces": 0,
+  "emi_debits_detected": [
+   15522
+  ]
+ },
+ "C100288": {
+  "consent_id": "AA-84691943",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 134797,
+  "avg_salary_credit": 124712,
+  "avg_eod_balance": 435898,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6138
+  ]
+ },
+ "C100289": {
+  "consent_id": "AA-35449120",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 45946,
+  "avg_salary_credit": 42821,
+  "avg_eod_balance": 101009,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6096
+  ]
+ },
+ "C100290": {
+  "consent_id": "AA-88680458",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 90518,
+  "avg_salary_credit": 84956,
+  "avg_eod_balance": 299971,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100291": {
+  "consent_id": "AA-88554922",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 602133,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 248470,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100292": {
+  "consent_id": "AA-33371248",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 56527,
+  "avg_salary_credit": 53150,
+  "avg_eod_balance": 148575,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5660,
+   7197
+  ]
+ },
+ "C100293": {
+  "consent_id": "AA-35267906",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 551335,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 380186,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7771,
+   13350
+  ]
+ },
+ "C100294": {
+  "consent_id": "AA-88864656",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 84010,
+  "avg_salary_credit": 79369,
+  "avg_eod_balance": 98748,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9176,
+   10446
+  ]
+ },
+ "C100295": {
+  "consent_id": "AA-97365548",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 100318,
+  "avg_salary_credit": 95934,
+  "avg_eod_balance": 281565,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9436
+  ]
+ },
+ "C100297": {
+  "consent_id": "AA-26003286",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 332188,
+  "avg_salary_credit": 318314,
+  "avg_eod_balance": 275486,
+  "bounces": 0,
+  "emi_debits_detected": [
+   38148
+  ]
+ },
+ "C100298": {
+  "consent_id": "AA-92743920",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 118224,
+  "avg_salary_credit": 110038,
+  "avg_eod_balance": 336181,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100299": {
+  "consent_id": "AA-55924196",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 112477,
+  "avg_salary_credit": 106822,
+  "avg_eod_balance": 167345,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100300": {
+  "consent_id": "AA-90117514",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 75817,
+  "avg_salary_credit": 71978,
+  "avg_eod_balance": 133360,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3406
+  ]
+ },
+ "C100301": {
+  "consent_id": "AA-24054579",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92262,
+  "avg_salary_credit": 85279,
+  "avg_eod_balance": 173185,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11614
+  ]
+ },
+ "C100302": {
+  "consent_id": "AA-15214913",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 60481,
+  "avg_salary_credit": 56781,
+  "avg_eod_balance": 180173,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4790
+  ]
+ },
+ "C100303": {
+  "consent_id": "AA-66572446",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92320,
+  "avg_salary_credit": 88141,
+  "avg_eod_balance": 86145,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3594
+  ]
+ },
+ "C100305": {
+  "consent_id": "AA-74650587",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 30216,
+  "avg_salary_credit": 28056,
+  "avg_eod_balance": 84774,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100306": {
+  "consent_id": "AA-94344267",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 172752,
+  "avg_salary_credit": 161417,
+  "avg_eod_balance": 384825,
+  "bounces": 0,
+  "emi_debits_detected": [
+   22500
+  ]
+ },
+ "C100308": {
+  "consent_id": "AA-60723425",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 129152,
+  "avg_salary_credit": 121804,
+  "avg_eod_balance": 388143,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100310": {
+  "consent_id": "AA-10084688",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 599324,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 230797,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12681
+  ]
+ },
+ "C100311": {
+  "consent_id": "AA-61611518",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 512436,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 177669,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6967,
+   8149
+  ]
+ },
+ "C100312": {
+  "consent_id": "AA-42910452",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1190732,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 702626,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100313": {
+  "consent_id": "AA-77842416",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 106243,
+  "avg_salary_credit": 102089,
+  "avg_eod_balance": 198356,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100314": {
+  "consent_id": "AA-55809940",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 52693,
+  "avg_salary_credit": 48844,
+  "avg_eod_balance": 110250,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100315": {
+  "consent_id": "AA-63507814",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 99159,
+  "avg_salary_credit": 92892,
+  "avg_eod_balance": 374193,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100317": {
+  "consent_id": "AA-61091649",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 56167,
+  "avg_salary_credit": 51946,
+  "avg_eod_balance": 197293,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3402
+  ]
+ },
+ "C100318": {
+  "consent_id": "AA-69881100",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 138439,
+  "avg_salary_credit": 127944,
+  "avg_eod_balance": 412125,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5329
+  ]
+ },
+ "C100319": {
+  "consent_id": "AA-68741564",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 122448,
+  "avg_salary_credit": 116290,
+  "avg_eod_balance": 306127,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100321": {
+  "consent_id": "AA-46610636",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 488178,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 160847,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12311
+  ]
+ },
+ "C100323": {
+  "consent_id": "AA-64287067",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1258518,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 449941,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100324": {
+  "consent_id": "AA-12342720",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 632432,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 384347,
+  "bounces": 0,
+  "emi_debits_detected": [
+   15386
+  ]
+ },
+ "C100325": {
+  "consent_id": "AA-70950737",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 680544,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 169649,
+  "bounces": 0,
+  "emi_debits_detected": [
+   13231
+  ]
+ },
+ "C100326": {
+  "consent_id": "AA-82870417",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 100753,
+  "avg_salary_credit": 93647,
+  "avg_eod_balance": 370069,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100327": {
+  "consent_id": "AA-81346044",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 74702,
+  "avg_salary_credit": 70292,
+  "avg_eod_balance": 136053,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100329": {
+  "consent_id": "AA-68126577",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1170195,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 387341,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100330": {
+  "consent_id": "AA-16999899",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 554530,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 225393,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12117
+  ]
+ },
+ "C100331": {
+  "consent_id": "AA-34729830",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 38638,
+  "avg_salary_credit": 36561,
+  "avg_eod_balance": 56052,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2271
+  ]
+ },
+ "C100332": {
+  "consent_id": "AA-82836693",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 432217,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 155283,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100333": {
+  "consent_id": "AA-12709782",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 312061,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 124211,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3331,
+   5490
+  ]
+ },
+ "C100334": {
+  "consent_id": "AA-20829732",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 377753,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 222180,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3302
+  ]
+ },
+ "C100335": {
+  "consent_id": "AA-13428791",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 223987,
+  "avg_salary_credit": 207325,
+  "avg_eod_balance": 367921,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100337": {
+  "consent_id": "AA-22586019",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 962034,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 566848,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100339": {
+  "consent_id": "AA-34677479",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 149158,
+  "avg_salary_credit": 138126,
+  "avg_eod_balance": 240349,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100340": {
+  "consent_id": "AA-76463031",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 45266,
+  "avg_salary_credit": 43228,
+  "avg_eod_balance": 129152,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2156,
+   3867
+  ]
+ },
+ "C100341": {
+  "consent_id": "AA-43331038",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 56515,
+  "avg_salary_credit": 52911,
+  "avg_eod_balance": 149262,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100342": {
+  "consent_id": "AA-56827736",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 180028,
+  "avg_salary_credit": 170101,
+  "avg_eod_balance": 607944,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100343": {
+  "consent_id": "AA-82856496",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 120059,
+  "avg_salary_credit": 113220,
+  "avg_eod_balance": 150408,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100344": {
+  "consent_id": "AA-97607562",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1294678,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 466535,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100346": {
+  "consent_id": "AA-76681356",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 126778,
+  "avg_salary_credit": 118050,
+  "avg_eod_balance": 292638,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100347": {
+  "consent_id": "AA-65870400",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 735230,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 197357,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6933,
+   5377
+  ]
+ },
+ "C100348": {
+  "consent_id": "AA-31220657",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 461269,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 288484,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100350": {
+  "consent_id": "AA-83902540",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 127066,
+  "avg_salary_credit": 121551,
+  "avg_eod_balance": 362317,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100351": {
+  "consent_id": "AA-82709875",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 57165,
+  "avg_salary_credit": 54755,
+  "avg_eod_balance": 214805,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100352": {
+  "consent_id": "AA-91963366",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 85868,
+  "avg_salary_credit": 79747,
+  "avg_eod_balance": 97163,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7873
+  ]
+ },
+ "C100353": {
+  "consent_id": "AA-39420727",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 74267,
+  "avg_salary_credit": 71087,
+  "avg_eod_balance": 106055,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100354": {
+  "consent_id": "AA-40994122",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 649600,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 328335,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5367,
+   16199,
+   15344
+  ]
+ },
+ "C100355": {
+  "consent_id": "AA-99470607",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 250892,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 146389,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3178,
+   6032
+  ]
+ },
+ "C100356": {
+  "consent_id": "AA-37309160",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 456531,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 237305,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100358": {
+  "consent_id": "AA-66414690",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 300163,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 155050,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2552
+  ]
+ },
+ "C100359": {
+  "consent_id": "AA-78242917",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 857602,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 350820,
+  "bounces": 0,
+  "emi_debits_detected": [
+   13440
+  ]
+ },
+ "C100360": {
+  "consent_id": "AA-42873720",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 120019,
+  "avg_salary_credit": 115261,
+  "avg_eod_balance": 213862,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7470
+  ]
+ },
+ "C100361": {
+  "consent_id": "AA-76061146",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 357859,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 103315,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5986
+  ]
+ },
+ "C100362": {
+  "consent_id": "AA-22794183",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 47502,
+  "avg_salary_credit": 44423,
+  "avg_eod_balance": 88728,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100363": {
+  "consent_id": "AA-38464192",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 50934,
+  "avg_salary_credit": 48828,
+  "avg_eod_balance": 77166,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100364": {
+  "consent_id": "AA-26417609",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 449592,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 285858,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6851,
+   4963,
+   10575
+  ]
+ },
+ "C100366": {
+  "consent_id": "AA-12794477",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 205843,
+  "avg_salary_credit": 195682,
+  "avg_eod_balance": 259737,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9817
+  ]
+ },
+ "C100367": {
+  "consent_id": "AA-77464368",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 44630,
+  "avg_salary_credit": 42622,
+  "avg_eod_balance": 153178,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100368": {
+  "consent_id": "AA-99321733",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 738708,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 527571,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9225
+  ]
+ },
+ "C100369": {
+  "consent_id": "AA-32465721",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 121326,
+  "avg_salary_credit": 115073,
+  "avg_eod_balance": 406338,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11597
+  ]
+ },
+ "C100370": {
+  "consent_id": "AA-35650180",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1203405,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 231184,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100372": {
+  "consent_id": "AA-60967976",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 78692,
+  "avg_salary_credit": 73333,
+  "avg_eod_balance": 241617,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100373": {
+  "consent_id": "AA-80593281",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 63326,
+  "avg_salary_credit": 58543,
+  "avg_eod_balance": 225944,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100374": {
+  "consent_id": "AA-76654960",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 69490,
+  "avg_salary_credit": 65029,
+  "avg_eod_balance": 132358,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100375": {
+  "consent_id": "AA-58176478",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 57763,
+  "avg_salary_credit": 54620,
+  "avg_eod_balance": 174198,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3930
+  ]
+ },
+ "C100376": {
+  "consent_id": "AA-58293282",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 351620,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 133870,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7027
+  ]
+ },
+ "C100377": {
+  "consent_id": "AA-98086730",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 93359,
+  "avg_salary_credit": 87418,
+  "avg_eod_balance": 300584,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3793,
+   12226
+  ]
+ },
+ "C100378": {
+  "consent_id": "AA-16647578",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 232453,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 86956,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5724
+  ]
+ },
+ "C100379": {
+  "consent_id": "AA-92991820",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 89162,
+  "avg_salary_credit": 82615,
+  "avg_eod_balance": 170861,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100380": {
+  "consent_id": "AA-33047133",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 162169,
+  "avg_salary_credit": 154587,
+  "avg_eod_balance": 260410,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100381": {
+  "consent_id": "AA-81389686",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62185,
+  "avg_salary_credit": 58378,
+  "avg_eod_balance": 186143,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100382": {
+  "consent_id": "AA-25915717",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 100161,
+  "avg_salary_credit": 92634,
+  "avg_eod_balance": 318538,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100383": {
+  "consent_id": "AA-50892598",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 600993,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 331181,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12578,
+   12607,
+   8461
+  ]
+ },
+ "C100384": {
+  "consent_id": "AA-79764731",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 140933,
+  "avg_salary_credit": 130909,
+  "avg_eod_balance": 217942,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6052,
+   9766
+  ]
+ },
+ "C100385": {
+  "consent_id": "AA-41764255",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 115061,
+  "avg_salary_credit": 110558,
+  "avg_eod_balance": 325475,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7009
+  ]
+ },
+ "C100386": {
+  "consent_id": "AA-31383733",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 229760,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 122551,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100387": {
+  "consent_id": "AA-61911752",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 105081,
+  "avg_salary_credit": 100937,
+  "avg_eod_balance": 83895,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10818
+  ]
+ },
+ "C100388": {
+  "consent_id": "AA-16841398",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 161354,
+  "avg_salary_credit": 153072,
+  "avg_eod_balance": 348021,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8579,
+   14174
+  ]
+ },
+ "C100389": {
+  "consent_id": "AA-25029208",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 160227,
+  "avg_salary_credit": 152695,
+  "avg_eod_balance": 470077,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8502
+  ]
+ },
+ "C100391": {
+  "consent_id": "AA-50836990",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 572395,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 176678,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100393": {
+  "consent_id": "AA-38361404",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 71419,
+  "avg_salary_credit": 66722,
+  "avg_eod_balance": 183169,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4195
+  ]
+ },
+ "C100394": {
+  "consent_id": "AA-59753307",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 202409,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 71816,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100395": {
+  "consent_id": "AA-60458358",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 61098,
+  "avg_salary_credit": 57219,
+  "avg_eod_balance": 88545,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3649
+  ]
+ },
+ "C100396": {
+  "consent_id": "AA-43213141",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 155774,
+  "avg_salary_credit": 146223,
+  "avg_eod_balance": 398465,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16769,
+   11321
+  ]
+ },
+ "C100397": {
+  "consent_id": "AA-50776825",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 532519,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 338927,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6651
+  ]
+ },
+ "C100398": {
+  "consent_id": "AA-26643995",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 97202,
+  "avg_salary_credit": 91413,
+  "avg_eod_balance": 120333,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5467
+  ]
+ },
+ "C100399": {
+  "consent_id": "AA-25553777",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 174429,
+  "avg_salary_credit": 164927,
+  "avg_eod_balance": 663072,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8488
+  ]
+ },
+ "C100400": {
+  "consent_id": "AA-53715882",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 774985,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 125450,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9431,
+   11591
+  ]
+ },
+ "C100401": {
+  "consent_id": "AA-75092704",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 352368,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 140203,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100402": {
+  "consent_id": "AA-85817218",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 55500,
+  "avg_salary_credit": 51999,
+  "avg_eod_balance": 71374,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4418
+  ]
+ },
+ "C100404": {
+  "consent_id": "AA-58097943",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 122990,
+  "avg_salary_credit": 116742,
+  "avg_eod_balance": 304774,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9055
+  ]
+ },
+ "C100405": {
+  "consent_id": "AA-65210802",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 82587,
+  "avg_salary_credit": 77205,
+  "avg_eod_balance": 308821,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6391
+  ]
+ },
+ "C100406": {
+  "consent_id": "AA-87262808",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 122473,
+  "avg_salary_credit": 115737,
+  "avg_eod_balance": 158759,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100408": {
+  "consent_id": "AA-16082467",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 134154,
+  "avg_salary_credit": 127114,
+  "avg_eod_balance": 169361,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8302
+  ]
+ },
+ "C100410": {
+  "consent_id": "AA-90848172",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 106471,
+  "avg_salary_credit": 101819,
+  "avg_eod_balance": 363872,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9510
+  ]
+ },
+ "C100411": {
+  "consent_id": "AA-46802728",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 392336,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 61012,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100412": {
+  "consent_id": "AA-77847309",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 156717,
+  "avg_salary_credit": 148082,
+  "avg_eod_balance": 401552,
+  "bounces": 0,
+  "emi_debits_detected": [
+   15487
+  ]
+ },
+ "C100413": {
+  "consent_id": "AA-90213303",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 114232,
+  "avg_salary_credit": 109237,
+  "avg_eod_balance": 103955,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9217
+  ]
+ },
+ "C100414": {
+  "consent_id": "AA-51570119",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 79970,
+  "avg_salary_credit": 76061,
+  "avg_eod_balance": 104871,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100415": {
+  "consent_id": "AA-94941994",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 208577,
+  "avg_salary_credit": 199794,
+  "avg_eod_balance": 196177,
+  "bounces": 0,
+  "emi_debits_detected": [
+   19925
+  ]
+ },
+ "C100416": {
+  "consent_id": "AA-58747639",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 329018,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 116189,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3605
+  ]
+ },
+ "C100418": {
+  "consent_id": "AA-18262059",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 99424,
+  "avg_salary_credit": 93597,
+  "avg_eod_balance": 219056,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9738
+  ]
+ },
+ "C100420": {
+  "consent_id": "AA-78708007",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 112384,
+  "avg_salary_credit": 105197,
+  "avg_eod_balance": 402651,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4718
+  ]
+ },
+ "C100421": {
+  "consent_id": "AA-56534559",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 489354,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 221829,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9861
+  ]
+ },
+ "C100423": {
+  "consent_id": "AA-59458844",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 410279,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 254253,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100424": {
+  "consent_id": "AA-66416842",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1067106,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 576575,
+  "bounces": 0,
+  "emi_debits_detected": [
+   22292,
+   10708
+  ]
+ },
+ "C100425": {
+  "consent_id": "AA-16809892",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 207933,
+  "avg_salary_credit": 194277,
+  "avg_eod_balance": 187280,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100426": {
+  "consent_id": "AA-43287948",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 176156,
+  "avg_salary_credit": 165313,
+  "avg_eod_balance": 279410,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100428": {
+  "consent_id": "AA-48118909",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 55479,
+  "avg_salary_credit": 51779,
+  "avg_eod_balance": 202161,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4365
+  ]
+ },
+ "C100430": {
+  "consent_id": "AA-52736512",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 84386,
+  "avg_salary_credit": 78405,
+  "avg_eod_balance": 289657,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100432": {
+  "consent_id": "AA-78236567",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 252941,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 145433,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5973
+  ]
+ },
+ "C100433": {
+  "consent_id": "AA-24916391",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1081361,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 681095,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12712
+  ]
+ },
+ "C100435": {
+  "consent_id": "AA-66983028",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 112371,
+  "avg_salary_credit": 105583,
+  "avg_eod_balance": 395507,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100437": {
+  "consent_id": "AA-64987787",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 90286,
+  "avg_salary_credit": 86050,
+  "avg_eod_balance": 127988,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7219,
+   6306
+  ]
+ },
+ "C100438": {
+  "consent_id": "AA-78785685",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 678867,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 466310,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8214,
+   5953,
+   12284
+  ]
+ },
+ "C100440": {
+  "consent_id": "AA-77293508",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 47341,
+  "avg_salary_credit": 44976,
+  "avg_eod_balance": 173281,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100441": {
+  "consent_id": "AA-33371780",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 610155,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 391319,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10851
+  ]
+ },
+ "C100443": {
+  "consent_id": "AA-10934282",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 302776,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 125514,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2661,
+   3633
+  ]
+ },
+ "C100445": {
+  "consent_id": "AA-46429897",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 50122,
+  "avg_salary_credit": 46442,
+  "avg_eod_balance": 58650,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4360
+  ]
+ },
+ "C100446": {
+  "consent_id": "AA-18979995",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 66446,
+  "avg_salary_credit": 61606,
+  "avg_eod_balance": 202063,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4204
+  ]
+ },
+ "C100448": {
+  "consent_id": "AA-82758746",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 455415,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 291257,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9313,
+   8207
+  ]
+ },
+ "C100449": {
+  "consent_id": "AA-60365672",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 97144,
+  "avg_salary_credit": 90068,
+  "avg_eod_balance": 89139,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7295
+  ]
+ },
+ "C100450": {
+  "consent_id": "AA-85786094",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 68874,
+  "avg_salary_credit": 64987,
+  "avg_eod_balance": 149718,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7849
+  ]
+ },
+ "C100452": {
+  "consent_id": "AA-23964049",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 565260,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 331941,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7476,
+   7434
+  ]
+ },
+ "C100453": {
+  "consent_id": "AA-68863200",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 74073,
+  "avg_salary_credit": 69772,
+  "avg_eod_balance": 89372,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100454": {
+  "consent_id": "AA-93724481",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 136154,
+  "avg_salary_credit": 128768,
+  "avg_eod_balance": 263508,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100455": {
+  "consent_id": "AA-47838356",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 89643,
+  "avg_salary_credit": 83944,
+  "avg_eod_balance": 294218,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4142
+  ]
+ },
+ "C100456": {
+  "consent_id": "AA-88747920",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 610761,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 220676,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4731
+  ]
+ },
+ "C100457": {
+  "consent_id": "AA-38028038",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 84303,
+  "avg_salary_credit": 79277,
+  "avg_eod_balance": 299373,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9732
+  ]
+ },
+ "C100458": {
+  "consent_id": "AA-10590429",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 129717,
+  "avg_salary_credit": 121342,
+  "avg_eod_balance": 433892,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100460": {
+  "consent_id": "AA-61633601",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 90095,
+  "avg_salary_credit": 85266,
+  "avg_eod_balance": 157093,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10456,
+   6673
+  ]
+ },
+ "C100461": {
+  "consent_id": "AA-90824021",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 282359,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 179681,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2481,
+   4162
+  ]
+ },
+ "C100462": {
+  "consent_id": "AA-50141065",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 97590,
+  "avg_salary_credit": 92761,
+  "avg_eod_balance": 302757,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7611
+  ]
+ },
+ "C100464": {
+  "consent_id": "AA-20984355",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 289900,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 181240,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100465": {
+  "consent_id": "AA-60850416",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 988068,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 323728,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100466": {
+  "consent_id": "AA-72581711",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 505245,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 92190,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100467": {
+  "consent_id": "AA-36944053",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 93459,
+  "avg_salary_credit": 88904,
+  "avg_eod_balance": 179696,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100468": {
+  "consent_id": "AA-59829065",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 110721,
+  "avg_salary_credit": 105067,
+  "avg_eod_balance": 354573,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100469": {
+  "consent_id": "AA-27131669",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 85329,
+  "avg_salary_credit": 80196,
+  "avg_eod_balance": 224158,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5103
+  ]
+ },
+ "C100470": {
+  "consent_id": "AA-89262186",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 127522,
+  "avg_salary_credit": 117962,
+  "avg_eod_balance": 414662,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14090
+  ]
+ },
+ "C100471": {
+  "consent_id": "AA-39779793",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 188050,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 62949,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2737
+  ]
+ },
+ "C100473": {
+  "consent_id": "AA-62072073",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 144175,
+  "avg_salary_credit": 135755,
+  "avg_eod_balance": 442624,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16869
+  ]
+ },
+ "C100475": {
+  "consent_id": "AA-69019509",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 48332,
+  "avg_salary_credit": 44944,
+  "avg_eod_balance": 65006,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100476": {
+  "consent_id": "AA-27793550",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 81882,
+  "avg_salary_credit": 78127,
+  "avg_eod_balance": 173819,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100477": {
+  "consent_id": "AA-52443858",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 567404,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 275902,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4214
+  ]
+ },
+ "C100478": {
+  "consent_id": "AA-29637466",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 619088,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 408512,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6353,
+   15395
+  ]
+ },
+ "C100479": {
+  "consent_id": "AA-45867118",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1764637,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 360652,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100480": {
+  "consent_id": "AA-37017976",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 876320,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 343935,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8046,
+   10261
+  ]
+ },
+ "C100481": {
+  "consent_id": "AA-41619892",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 111428,
+  "avg_salary_credit": 106826,
+  "avg_eod_balance": 189838,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10388
+  ]
+ },
+ "C100482": {
+  "consent_id": "AA-42205883",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 54455,
+  "avg_salary_credit": 51139,
+  "avg_eod_balance": 149140,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100483": {
+  "consent_id": "AA-92897936",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 91622,
+  "avg_salary_credit": 86890,
+  "avg_eod_balance": 146013,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8129,
+   4270
+  ]
+ },
+ "C100484": {
+  "consent_id": "AA-34369792",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 132679,
+  "avg_salary_credit": 125128,
+  "avg_eod_balance": 328737,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16633
+  ]
+ },
+ "C100485": {
+  "consent_id": "AA-61474054",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92218,
+  "avg_salary_credit": 86268,
+  "avg_eod_balance": 255161,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100486": {
+  "consent_id": "AA-34058958",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 990078,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 610301,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100487": {
+  "consent_id": "AA-72730861",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 97902,
+  "avg_salary_credit": 91278,
+  "avg_eod_balance": 233948,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7686
+  ]
+ },
+ "C100488": {
+  "consent_id": "AA-28323804",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 117150,
+  "avg_salary_credit": 109931,
+  "avg_eod_balance": 128771,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12292
+  ]
+ },
+ "C100489": {
+  "consent_id": "AA-61275267",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 284280,
+  "avg_salary_credit": 266872,
+  "avg_eod_balance": 889822,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100490": {
+  "consent_id": "AA-17242409",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 60686,
+  "avg_salary_credit": 57162,
+  "avg_eod_balance": 78103,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100492": {
+  "consent_id": "AA-14129461",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 75055,
+  "avg_salary_credit": 70543,
+  "avg_eod_balance": 229017,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100493": {
+  "consent_id": "AA-94418288",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 76272,
+  "avg_salary_credit": 72071,
+  "avg_eod_balance": 114853,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2945,
+   5589
+  ]
+ },
+ "C100494": {
+  "consent_id": "AA-85730449",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 66085,
+  "avg_salary_credit": 63567,
+  "avg_eod_balance": 101118,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5747
+  ]
+ },
+ "C100495": {
+  "consent_id": "AA-16798820",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 483143,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 260523,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10366,
+   11308
+  ]
+ },
+ "C100496": {
+  "consent_id": "AA-80757515",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 85022,
+  "avg_salary_credit": 80971,
+  "avg_eod_balance": 179951,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100497": {
+  "consent_id": "AA-10803823",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 94334,
+  "avg_salary_credit": 87373,
+  "avg_eod_balance": 352896,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100498": {
+  "consent_id": "AA-57066910",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 128353,
+  "avg_salary_credit": 123127,
+  "avg_eod_balance": 328664,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100499": {
+  "consent_id": "AA-52497455",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 78649,
+  "avg_salary_credit": 74725,
+  "avg_eod_balance": 129229,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100500": {
+  "consent_id": "AA-27954235",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 82093,
+  "avg_salary_credit": 76390,
+  "avg_eod_balance": 162454,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100501": {
+  "consent_id": "AA-80517254",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62197,
+  "avg_salary_credit": 58822,
+  "avg_eod_balance": 126719,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5549
+  ]
+ },
+ "C100502": {
+  "consent_id": "AA-61061981",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 107049,
+  "avg_salary_credit": 101315,
+  "avg_eod_balance": 293839,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100503": {
+  "consent_id": "AA-10720128",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1248933,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 344549,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100504": {
+  "consent_id": "AA-33045501",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 109784,
+  "avg_salary_credit": 102846,
+  "avg_eod_balance": 240677,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9332
+  ]
+ },
+ "C100505": {
+  "consent_id": "AA-57130395",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 186901,
+  "avg_salary_credit": 174792,
+  "avg_eod_balance": 413108,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100506": {
+  "consent_id": "AA-23334422",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 81890,
+  "avg_salary_credit": 75668,
+  "avg_eod_balance": 77641,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100507": {
+  "consent_id": "AA-79852105",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 44428,
+  "avg_salary_credit": 42210,
+  "avg_eod_balance": 84564,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5362,
+   2697
+  ]
+ },
+ "C100509": {
+  "consent_id": "AA-34562660",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 643723,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 296307,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9358
+  ]
+ },
+ "C100511": {
+  "consent_id": "AA-76894103",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 80377,
+  "avg_salary_credit": 74557,
+  "avg_eod_balance": 285515,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6674
+  ]
+ },
+ "C100513": {
+  "consent_id": "AA-23307681",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 155811,
+  "avg_salary_credit": 147193,
+  "avg_eod_balance": 159655,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100514": {
+  "consent_id": "AA-98651651",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 85473,
+  "avg_salary_credit": 80779,
+  "avg_eod_balance": 76453,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7302
+  ]
+ },
+ "C100515": {
+  "consent_id": "AA-23641072",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 116858,
+  "avg_salary_credit": 108825,
+  "avg_eod_balance": 137488,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100516": {
+  "consent_id": "AA-48854391",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 817336,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 542825,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10145
+  ]
+ },
+ "C100517": {
+  "consent_id": "AA-23540750",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 249479,
+  "avg_salary_credit": 232394,
+  "avg_eod_balance": 877088,
+  "bounces": 0,
+  "emi_debits_detected": [
+   24765
+  ]
+ },
+ "C100518": {
+  "consent_id": "AA-54802259",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 600936,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 260049,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14976
+  ]
+ },
+ "C100519": {
+  "consent_id": "AA-29700611",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 558761,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 381203,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100520": {
+  "consent_id": "AA-59544589",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 82576,
+  "avg_salary_credit": 78398,
+  "avg_eod_balance": 314463,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100521": {
+  "consent_id": "AA-91896543",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 52617,
+  "avg_salary_credit": 50261,
+  "avg_eod_balance": 187584,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100522": {
+  "consent_id": "AA-46240662",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 60655,
+  "avg_salary_credit": 56587,
+  "avg_eod_balance": 180031,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100523": {
+  "consent_id": "AA-92386292",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 99485,
+  "avg_salary_credit": 92130,
+  "avg_eod_balance": 205290,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100524": {
+  "consent_id": "AA-98209617",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 58119,
+  "avg_salary_credit": 53719,
+  "avg_eod_balance": 202140,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4105
+  ]
+ },
+ "C100525": {
+  "consent_id": "AA-42987997",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 61742,
+  "avg_salary_credit": 59216,
+  "avg_eod_balance": 209014,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3821
+  ]
+ },
+ "C100526": {
+  "consent_id": "AA-42066595",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 900101,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 643438,
+  "bounces": 0,
+  "emi_debits_detected": [
+   19594
+  ]
+ },
+ "C100527": {
+  "consent_id": "AA-64869712",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 118997,
+  "avg_salary_credit": 112945,
+  "avg_eod_balance": 254326,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14161
+  ]
+ },
+ "C100528": {
+  "consent_id": "AA-28564752",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 604136,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 163429,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4505
+  ]
+ },
+ "C100530": {
+  "consent_id": "AA-97993044",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 265468,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 64311,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100532": {
+  "consent_id": "AA-49526947",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 119594,
+  "avg_salary_credit": 112852,
+  "avg_eod_balance": 215174,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6116
+  ]
+ },
+ "C100534": {
+  "consent_id": "AA-38226812",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 930127,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 166237,
+  "bounces": 0,
+  "emi_debits_detected": [
+   18724
+  ]
+ },
+ "C100535": {
+  "consent_id": "AA-80350045",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 533569,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 171229,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10670
+  ]
+ },
+ "C100537": {
+  "consent_id": "AA-32732209",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 381859,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 154867,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5350
+  ]
+ },
+ "C100539": {
+  "consent_id": "AA-66695571",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 118825,
+  "avg_salary_credit": 111317,
+  "avg_eod_balance": 278587,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9890
+  ]
+ },
+ "C100540": {
+  "consent_id": "AA-22102998",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 736547,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 408110,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11090,
+   15183
+  ]
+ },
+ "C100542": {
+  "consent_id": "AA-24021785",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 73873,
+  "avg_salary_credit": 69997,
+  "avg_eod_balance": 259967,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100543": {
+  "consent_id": "AA-15033766",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 45206,
+  "avg_salary_credit": 43056,
+  "avg_eod_balance": 102117,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4482,
+   4223
+  ]
+ },
+ "C100544": {
+  "consent_id": "AA-55605485",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 105032,
+  "avg_salary_credit": 100496,
+  "avg_eod_balance": 105630,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11968,
+   9398
+  ]
+ },
+ "C100545": {
+  "consent_id": "AA-23639500",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 57466,
+  "avg_salary_credit": 53614,
+  "avg_eod_balance": 51364,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3157
+  ]
+ },
+ "C100547": {
+  "consent_id": "AA-85414301",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 171773,
+  "avg_salary_credit": 161724,
+  "avg_eod_balance": 619984,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10690
+  ]
+ },
+ "C100548": {
+  "consent_id": "AA-74742189",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 55880,
+  "avg_salary_credit": 52748,
+  "avg_eod_balance": 56623,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100549": {
+  "consent_id": "AA-22843469",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 91148,
+  "avg_salary_credit": 86732,
+  "avg_eod_balance": 74708,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100550": {
+  "consent_id": "AA-81499815",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 118276,
+  "avg_salary_credit": 110473,
+  "avg_eod_balance": 274941,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12982
+  ]
+ },
+ "C100551": {
+  "consent_id": "AA-36583074",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 165723,
+  "avg_salary_credit": 155959,
+  "avg_eod_balance": 588325,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12791
+  ]
+ },
+ "C100552": {
+  "consent_id": "AA-22467211",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 130356,
+  "avg_salary_credit": 124806,
+  "avg_eod_balance": 199407,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100553": {
+  "consent_id": "AA-45289506",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 646894,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 144603,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100554": {
+  "consent_id": "AA-76086816",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 108967,
+  "avg_salary_credit": 102774,
+  "avg_eod_balance": 395934,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5562
+  ]
+ },
+ "C100555": {
+  "consent_id": "AA-46270760",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 356140,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 140711,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5586,
+   7579
+  ]
+ },
+ "C100556": {
+  "consent_id": "AA-91660576",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 250674,
+  "avg_salary_credit": 237423,
+  "avg_eod_balance": 267040,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100557": {
+  "consent_id": "AA-71124081",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 42989,
+  "avg_salary_credit": 39933,
+  "avg_eod_balance": 43003,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3037
+  ]
+ },
+ "C100558": {
+  "consent_id": "AA-88043432",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 54665,
+  "avg_salary_credit": 52429,
+  "avg_eod_balance": 207416,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100560": {
+  "consent_id": "AA-11545013",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 74374,
+  "avg_salary_credit": 71489,
+  "avg_eod_balance": 204628,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3287
+  ]
+ },
+ "C100561": {
+  "consent_id": "AA-48421522",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 85575,
+  "avg_salary_credit": 80897,
+  "avg_eod_balance": 230578,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10116
+  ]
+ },
+ "C100562": {
+  "consent_id": "AA-31790618",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62917,
+  "avg_salary_credit": 60472,
+  "avg_eod_balance": 88783,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6569
+  ]
+ },
+ "C100563": {
+  "consent_id": "AA-56520301",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92958,
+  "avg_salary_credit": 88776,
+  "avg_eod_balance": 72428,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100564": {
+  "consent_id": "AA-96619602",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 46259,
+  "avg_salary_credit": 44216,
+  "avg_eod_balance": 138988,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4103
+  ]
+ },
+ "C100565": {
+  "consent_id": "AA-58213293",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 757634,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 404849,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7194
+  ]
+ },
+ "C100566": {
+  "consent_id": "AA-46003424",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 76431,
+  "avg_salary_credit": 71195,
+  "avg_eod_balance": 187234,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9032,
+   7734,
+   3481
+  ]
+ },
+ "C100567": {
+  "consent_id": "AA-83591859",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 34114,
+  "avg_salary_credit": 31525,
+  "avg_eod_balance": 41723,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100569": {
+  "consent_id": "AA-61285599",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 59569,
+  "avg_salary_credit": 56071,
+  "avg_eod_balance": 135016,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100571": {
+  "consent_id": "AA-65110912",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 131468,
+  "avg_salary_credit": 123025,
+  "avg_eod_balance": 156846,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100573": {
+  "consent_id": "AA-68352403",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 78170,
+  "avg_salary_credit": 73330,
+  "avg_eod_balance": 267051,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100574": {
+  "consent_id": "AA-19454841",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 118711,
+  "avg_salary_credit": 111726,
+  "avg_eod_balance": 434549,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6533,
+   8403
+  ]
+ },
+ "C100575": {
+  "consent_id": "AA-84214659",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 344520,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 249668,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100576": {
+  "consent_id": "AA-13355690",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 150868,
+  "avg_salary_credit": 139584,
+  "avg_eod_balance": 497308,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100577": {
+  "consent_id": "AA-46420931",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 467516,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 139483,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7668,
+   11642
+  ]
+ },
+ "C100578": {
+  "consent_id": "AA-66994027",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1010434,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 626499,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100580": {
+  "consent_id": "AA-31244304",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1273006,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 345529,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100581": {
+  "consent_id": "AA-94440393",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 907152,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 286605,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100583": {
+  "consent_id": "AA-30301898",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 955042,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 210511,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100585": {
+  "consent_id": "AA-11287009",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 69407,
+  "avg_salary_credit": 65138,
+  "avg_eod_balance": 94773,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100586": {
+  "consent_id": "AA-89876518",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 42740,
+  "avg_salary_credit": 40617,
+  "avg_eod_balance": 70650,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100587": {
+  "consent_id": "AA-98081763",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 583802,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 154876,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12552,
+   8589
+  ]
+ },
+ "C100589": {
+  "consent_id": "AA-32766404",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1020085,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 675949,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100591": {
+  "consent_id": "AA-75257394",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 468475,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 288020,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4397
+  ]
+ },
+ "C100592": {
+  "consent_id": "AA-12698802",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 60295,
+  "avg_salary_credit": 57161,
+  "avg_eod_balance": 138750,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100594": {
+  "consent_id": "AA-86829819",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 101677,
+  "avg_salary_credit": 94381,
+  "avg_eod_balance": 350424,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100595": {
+  "consent_id": "AA-88244606",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 152126,
+  "avg_salary_credit": 142281,
+  "avg_eod_balance": 449457,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100596": {
+  "consent_id": "AA-66685305",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 103665,
+  "avg_salary_credit": 98802,
+  "avg_eod_balance": 355799,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100597": {
+  "consent_id": "AA-68283546",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 325042,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 121758,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6980,
+   3432
+  ]
+ },
+ "C100598": {
+  "consent_id": "AA-63091773",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 83680,
+  "avg_salary_credit": 80259,
+  "avg_eod_balance": 206427,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6544
+  ]
+ },
+ "C100599": {
+  "consent_id": "AA-39228620",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 529027,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 105754,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100600": {
+  "consent_id": "AA-49043215",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92231,
+  "avg_salary_credit": 85765,
+  "avg_eod_balance": 293000,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11052
+  ]
+ },
+ "C100601": {
+  "consent_id": "AA-54313505",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 120260,
+  "avg_salary_credit": 113002,
+  "avg_eod_balance": 288309,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100602": {
+  "consent_id": "AA-80555987",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 232061,
+  "avg_salary_credit": 217364,
+  "avg_eod_balance": 872344,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16462,
+   22443
+  ]
+ },
+ "C100603": {
+  "consent_id": "AA-42233327",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 77561,
+  "avg_salary_credit": 71839,
+  "avg_eod_balance": 288108,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100605": {
+  "consent_id": "AA-35817132",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 115115,
+  "avg_salary_credit": 110647,
+  "avg_eod_balance": 229162,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100606": {
+  "consent_id": "AA-50054272",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 199015,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 108680,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3584
+  ]
+ },
+ "C100607": {
+  "consent_id": "AA-79360641",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 61173,
+  "avg_salary_credit": 57476,
+  "avg_eod_balance": 65782,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5733,
+   5200
+  ]
+ },
+ "C100608": {
+  "consent_id": "AA-48525140",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 149027,
+  "avg_salary_credit": 140990,
+  "avg_eod_balance": 194699,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100609": {
+  "consent_id": "AA-70935329",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 150711,
+  "avg_salary_credit": 139296,
+  "avg_eod_balance": 249405,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100611": {
+  "consent_id": "AA-34754025",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 102009,
+  "avg_salary_credit": 94886,
+  "avg_eod_balance": 116105,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9816,
+   3964
+  ]
+ },
+ "C100612": {
+  "consent_id": "AA-93460059",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 619266,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 369651,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100613": {
+  "consent_id": "AA-63214948",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92230,
+  "avg_salary_credit": 86643,
+  "avg_eod_balance": 77540,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100615": {
+  "consent_id": "AA-28245251",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 77310,
+  "avg_salary_credit": 71889,
+  "avg_eod_balance": 96592,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6980
+  ]
+ },
+ "C100616": {
+  "consent_id": "AA-43278550",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 476792,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 303189,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6803
+  ]
+ },
+ "C100618": {
+  "consent_id": "AA-42192033",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 90510,
+  "avg_salary_credit": 85814,
+  "avg_eod_balance": 211272,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100619": {
+  "consent_id": "AA-79957139",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 169992,
+  "avg_salary_credit": 158131,
+  "avg_eod_balance": 535892,
+  "bounces": 0,
+  "emi_debits_detected": [
+   17690
+  ]
+ },
+ "C100620": {
+  "consent_id": "AA-94264868",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 132344,
+  "avg_salary_credit": 123099,
+  "avg_eod_balance": 433961,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100621": {
+  "consent_id": "AA-13916431",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 73707,
+  "avg_salary_credit": 70256,
+  "avg_eod_balance": 136768,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5858
+  ]
+ },
+ "C100622": {
+  "consent_id": "AA-24423824",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 75388,
+  "avg_salary_credit": 71007,
+  "avg_eod_balance": 248092,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5389
+  ]
+ },
+ "C100624": {
+  "consent_id": "AA-40411923",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 761220,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 424308,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9320
+  ]
+ },
+ "C100625": {
+  "consent_id": "AA-33340957",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 194182,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 110757,
+  "bounces": 0,
+  "emi_debits_detected": [
+   1590
+  ]
+ },
+ "C100626": {
+  "consent_id": "AA-17247483",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 94747,
+  "avg_salary_credit": 88760,
+  "avg_eod_balance": 179838,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100627": {
+  "consent_id": "AA-42036911",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 42711,
+  "avg_salary_credit": 41072,
+  "avg_eod_balance": 159538,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100629": {
+  "consent_id": "AA-78595007",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 698332,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 374980,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100630": {
+  "consent_id": "AA-31108211",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 181119,
+  "avg_salary_credit": 171015,
+  "avg_eod_balance": 231074,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11476
+  ]
+ },
+ "C100631": {
+  "consent_id": "AA-33487421",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 113131,
+  "avg_salary_credit": 107425,
+  "avg_eod_balance": 222087,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100632": {
+  "consent_id": "AA-96413254",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 183532,
+  "avg_salary_credit": 174827,
+  "avg_eod_balance": 209420,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8282
+  ]
+ },
+ "C100634": {
+  "consent_id": "AA-47147368",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 120487,
+  "avg_salary_credit": 111944,
+  "avg_eod_balance": 426439,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100636": {
+  "consent_id": "AA-75171125",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 163338,
+  "avg_salary_credit": 154097,
+  "avg_eod_balance": 530358,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16824
+  ]
+ },
+ "C100637": {
+  "consent_id": "AA-18645916",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 39728,
+  "avg_salary_credit": 37888,
+  "avg_eod_balance": 80328,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2050
+  ]
+ },
+ "C100638": {
+  "consent_id": "AA-93033638",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 93831,
+  "avg_salary_credit": 88703,
+  "avg_eod_balance": 198302,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11898
+  ]
+ },
+ "C100640": {
+  "consent_id": "AA-16011232",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 766007,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 410783,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11747
+  ]
+ },
+ "C100642": {
+  "consent_id": "AA-48490200",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 120391,
+  "avg_salary_credit": 114464,
+  "avg_eod_balance": 427195,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7098
+  ]
+ },
+ "C100643": {
+  "consent_id": "AA-36984370",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 81670,
+  "avg_salary_credit": 78325,
+  "avg_eod_balance": 82197,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5984,
+   7729
+  ]
+ },
+ "C100645": {
+  "consent_id": "AA-89743951",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 40566,
+  "avg_salary_credit": 38922,
+  "avg_eod_balance": 100795,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2970
+  ]
+ },
+ "C100646": {
+  "consent_id": "AA-23583929",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 99767,
+  "avg_salary_credit": 93164,
+  "avg_eod_balance": 361782,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100648": {
+  "consent_id": "AA-34360295",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 95279,
+  "avg_salary_credit": 89539,
+  "avg_eod_balance": 326173,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100649": {
+  "consent_id": "AA-50885520",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 87875,
+  "avg_salary_credit": 82866,
+  "avg_eod_balance": 84934,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7748
+  ]
+ },
+ "C100650": {
+  "consent_id": "AA-64434932",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 64651,
+  "avg_salary_credit": 61704,
+  "avg_eod_balance": 236495,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6008
+  ]
+ },
+ "C100652": {
+  "consent_id": "AA-29064226",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 80346,
+  "avg_salary_credit": 74964,
+  "avg_eod_balance": 231988,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5401
+  ]
+ },
+ "C100653": {
+  "consent_id": "AA-80224191",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 151928,
+  "avg_salary_credit": 141211,
+  "avg_eod_balance": 236374,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100654": {
+  "consent_id": "AA-80661971",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1362527,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 633987,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11755
+  ]
+ },
+ "C100655": {
+  "consent_id": "AA-30463345",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 29400,
+  "avg_salary_credit": 27921,
+  "avg_eod_balance": 28763,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100656": {
+  "consent_id": "AA-57472622",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 50215,
+  "avg_salary_credit": 47239,
+  "avg_eod_balance": 175059,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4109
+  ]
+ },
+ "C100657": {
+  "consent_id": "AA-94812911",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 71927,
+  "avg_salary_credit": 67167,
+  "avg_eod_balance": 59795,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5380
+  ]
+ },
+ "C100658": {
+  "consent_id": "AA-67288663",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 100820,
+  "avg_salary_credit": 96089,
+  "avg_eod_balance": 289002,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100659": {
+  "consent_id": "AA-39789966",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 36527,
+  "avg_salary_credit": 35061,
+  "avg_eod_balance": 112672,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100660": {
+  "consent_id": "AA-55718453",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 102581,
+  "avg_salary_credit": 98394,
+  "avg_eod_balance": 357533,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100661": {
+  "consent_id": "AA-77889187",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 542132,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 85339,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100663": {
+  "consent_id": "AA-66143895",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 319502,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 92914,
+  "bounces": 0,
+  "emi_debits_detected": [
+   7558
+  ]
+ },
+ "C100665": {
+  "consent_id": "AA-81908063",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 755470,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 296322,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100666": {
+  "consent_id": "AA-41879698",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62087,
+  "avg_salary_credit": 59199,
+  "avg_eod_balance": 193360,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2708
+  ]
+ },
+ "C100667": {
+  "consent_id": "AA-93025029",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 776500,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 311549,
+  "bounces": 0,
+  "emi_debits_detected": [
+   15084
+  ]
+ },
+ "C100669": {
+  "consent_id": "AA-55500263",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 366551,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 109264,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4144
+  ]
+ },
+ "C100670": {
+  "consent_id": "AA-96291088",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 48433,
+  "avg_salary_credit": 45041,
+  "avg_eod_balance": 166154,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100672": {
+  "consent_id": "AA-91355977",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 409571,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 155038,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3018
+  ]
+ },
+ "C100673": {
+  "consent_id": "AA-20008488",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1076705,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 723421,
+  "bounces": 0,
+  "emi_debits_detected": [
+   18106,
+   17384
+  ]
+ },
+ "C100674": {
+  "consent_id": "AA-57923339",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 47486,
+  "avg_salary_credit": 45304,
+  "avg_eod_balance": 152591,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5679
+  ]
+ },
+ "C100675": {
+  "consent_id": "AA-30290964",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 786106,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 173955,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100677": {
+  "consent_id": "AA-20026014",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1256067,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 229891,
+  "bounces": 0,
+  "emi_debits_detected": [
+   29062,
+   22331,
+   10158,
+   16704
+  ]
+ },
+ "C100679": {
+  "consent_id": "AA-61090057",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 522234,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 244260,
+  "bounces": 0,
+  "emi_debits_detected": [
+   3932,
+   4965
+  ]
+ },
+ "C100680": {
+  "consent_id": "AA-78087951",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 167864,
+  "avg_salary_credit": 159445,
+  "avg_eod_balance": 578061,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16687
+  ]
+ },
+ "C100681": {
+  "consent_id": "AA-53790778",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 110420,
+  "avg_salary_credit": 104960,
+  "avg_eod_balance": 170120,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12890,
+   14414
+  ]
+ },
+ "C100682": {
+  "consent_id": "AA-64412465",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 354475,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 154456,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100683": {
+  "consent_id": "AA-35186892",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 584878,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 279238,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100684": {
+  "consent_id": "AA-32862304",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 76404,
+  "avg_salary_credit": 73033,
+  "avg_eod_balance": 234178,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8258,
+   7172
+  ]
+ },
+ "C100685": {
+  "consent_id": "AA-44602350",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 221407,
+  "avg_salary_credit": 206266,
+  "avg_eod_balance": 205065,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100687": {
+  "consent_id": "AA-66816932",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 87589,
+  "avg_salary_credit": 83376,
+  "avg_eod_balance": 217461,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8412
+  ]
+ },
+ "C100688": {
+  "consent_id": "AA-39369507",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1518476,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 1048292,
+  "bounces": 0,
+  "emi_debits_detected": [
+   31975
+  ]
+ },
+ "C100690": {
+  "consent_id": "AA-92258824",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 82926,
+  "avg_salary_credit": 78593,
+  "avg_eod_balance": 259708,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100691": {
+  "consent_id": "AA-62653755",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 53886,
+  "avg_salary_credit": 50908,
+  "avg_eod_balance": 193428,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100692": {
+  "consent_id": "AA-61096661",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 74043,
+  "avg_salary_credit": 69129,
+  "avg_eod_balance": 90435,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100694": {
+  "consent_id": "AA-59981380",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 99665,
+  "avg_salary_credit": 93067,
+  "avg_eod_balance": 328933,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11466
+  ]
+ },
+ "C100696": {
+  "consent_id": "AA-60054733",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 56387,
+  "avg_salary_credit": 53486,
+  "avg_eod_balance": 49370,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4066
+  ]
+ },
+ "C100697": {
+  "consent_id": "AA-23164314",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 105769,
+  "avg_salary_credit": 100201,
+  "avg_eod_balance": 121542,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12271
+  ]
+ },
+ "C100699": {
+  "consent_id": "AA-31951863",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 53098,
+  "avg_salary_credit": 50490,
+  "avg_eod_balance": 71929,
+  "bounces": 0,
+  "emi_debits_detected": [
+   2365,
+   5386
+  ]
+ },
+ "C100700": {
+  "consent_id": "AA-60782152",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 148272,
+  "avg_salary_credit": 141265,
+  "avg_eod_balance": 169550,
+  "bounces": 0,
+  "emi_debits_detected": [
+   19424,
+   5724
+  ]
+ },
+ "C100701": {
+  "consent_id": "AA-84278600",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 104028,
+  "avg_salary_credit": 97352,
+  "avg_eod_balance": 165383,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100702": {
+  "consent_id": "AA-30645120",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 57089,
+  "avg_salary_credit": 54851,
+  "avg_eod_balance": 80636,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100704": {
+  "consent_id": "AA-19815441",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 352208,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 162650,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6924
+  ]
+ },
+ "C100705": {
+  "consent_id": "AA-43142557",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 117376,
+  "avg_salary_credit": 112085,
+  "avg_eod_balance": 432104,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100706": {
+  "consent_id": "AA-14316445",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 84286,
+  "avg_salary_credit": 78863,
+  "avg_eod_balance": 178465,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9242
+  ]
+ },
+ "C100708": {
+  "consent_id": "AA-30416466",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 123949,
+  "avg_salary_credit": 114515,
+  "avg_eod_balance": 244234,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100709": {
+  "consent_id": "AA-26397376",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 87425,
+  "avg_salary_credit": 83187,
+  "avg_eod_balance": 258202,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100710": {
+  "consent_id": "AA-33780922",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 152682,
+  "avg_salary_credit": 144235,
+  "avg_eod_balance": 348930,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100711": {
+  "consent_id": "AA-89903960",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 128813,
+  "avg_salary_credit": 122011,
+  "avg_eod_balance": 351744,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100712": {
+  "consent_id": "AA-59716086",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 395135,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 74781,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6238,
+   3322
+  ]
+ },
+ "C100714": {
+  "consent_id": "AA-89796677",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 466521,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 112118,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9705,
+   9507
+  ]
+ },
+ "C100715": {
+  "consent_id": "AA-80620664",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 807857,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 541493,
+  "bounces": 0,
+  "emi_debits_detected": [
+   16002,
+   7167
+  ]
+ },
+ "C100716": {
+  "consent_id": "AA-12874435",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 90945,
+  "avg_salary_credit": 84681,
+  "avg_eod_balance": 174658,
+  "bounces": 0,
+  "emi_debits_detected": [
+   4204
+  ]
+ },
+ "C100718": {
+  "consent_id": "AA-73006267",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 82619,
+  "avg_salary_credit": 77482,
+  "avg_eod_balance": 233467,
+  "bounces": 0,
+  "emi_debits_detected": [
+   9974
+  ]
+ },
+ "C100720": {
+  "consent_id": "AA-57834891",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 89563,
+  "avg_salary_credit": 84833,
+  "avg_eod_balance": 124071,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8204
+  ]
+ },
+ "C100721": {
+  "consent_id": "AA-12735769",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 64365,
+  "avg_salary_credit": 61156,
+  "avg_eod_balance": 149361,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100722": {
+  "consent_id": "AA-71962225",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 451950,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 251566,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8857,
+   4694
+  ]
+ },
+ "C100724": {
+  "consent_id": "AA-37780142",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 92748,
+  "avg_salary_credit": 86665,
+  "avg_eod_balance": 304580,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11885
+  ]
+ },
+ "C100725": {
+  "consent_id": "AA-55803087",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 76410,
+  "avg_salary_credit": 71318,
+  "avg_eod_balance": 181082,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100726": {
+  "consent_id": "AA-97098521",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 57740,
+  "avg_salary_credit": 53814,
+  "avg_eod_balance": 126858,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100727": {
+  "consent_id": "AA-12603298",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 1501832,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 726945,
+  "bounces": 0,
+  "emi_debits_detected": [
+   26883,
+   18446
+  ]
+ },
+ "C100728": {
+  "consent_id": "AA-43184009",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 185309,
+  "avg_salary_credit": 174079,
+  "avg_eod_balance": 552494,
+  "bounces": 0,
+  "emi_debits_detected": [
+   21010
+  ]
+ },
+ "C100729": {
+  "consent_id": "AA-95266705",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 172084,
+  "avg_salary_credit": 164374,
+  "avg_eod_balance": 160934,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10053
+  ]
+ },
+ "C100730": {
+  "consent_id": "AA-43607761",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 600940,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 225175,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100731": {
+  "consent_id": "AA-74751396",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 63169,
+  "avg_salary_credit": 58454,
+  "avg_eod_balance": 215421,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100732": {
+  "consent_id": "AA-65783268",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 712283,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 347173,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11274
+  ]
+ },
+ "C100733": {
+  "consent_id": "AA-67074044",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 620312,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 204298,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14516
+  ]
+ },
+ "C100734": {
+  "consent_id": "AA-56546497",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 728336,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 375000,
+  "bounces": 0,
+  "emi_debits_detected": [
+   6263
+  ]
+ },
+ "C100736": {
+  "consent_id": "AA-79569283",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 97678,
+  "avg_salary_credit": 92711,
+  "avg_eod_balance": 95384,
+  "bounces": 0,
+  "emi_debits_detected": [
+   11985
+  ]
+ },
+ "C100738": {
+  "consent_id": "AA-20329095",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 129228,
+  "avg_salary_credit": 120041,
+  "avg_eod_balance": 111134,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12750,
+   7186
+  ]
+ },
+ "C100739": {
+  "consent_id": "AA-91624892",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 52300,
+  "avg_salary_credit": 49147,
+  "avg_eod_balance": 79139,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100740": {
+  "consent_id": "AA-40696405",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 466178,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 296642,
+  "bounces": 0,
+  "emi_debits_detected": [
+   10135,
+   11586
+  ]
+ },
+ "C100742": {
+  "consent_id": "AA-88944744",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 768750,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 358466,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8897
+  ]
+ },
+ "C100744": {
+  "consent_id": "AA-17345399",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 75188,
+  "avg_salary_credit": 71057,
+  "avg_eod_balance": 132767,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100746": {
+  "consent_id": "AA-11568327",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 73883,
+  "avg_salary_credit": 71051,
+  "avg_eod_balance": 202588,
+  "bounces": 0,
+  "emi_debits_detected": [
+   5987
+  ]
+ },
+ "C100748": {
+  "consent_id": "AA-82610877",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 901765,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 534663,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100750": {
+  "consent_id": "AA-33076180",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 62097,
+  "avg_salary_credit": 59671,
+  "avg_eod_balance": 231888,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100751": {
+  "consent_id": "AA-69541561",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 146603,
+  "avg_salary_credit": 140049,
+  "avg_eod_balance": 518040,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100753": {
+  "consent_id": "AA-37061161",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 71202,
+  "avg_salary_credit": 68321,
+  "avg_eod_balance": 265515,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100754": {
+  "consent_id": "AA-33938033",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 578569,
+  "avg_salary_credit": 0,
+  "avg_eod_balance": 317223,
+  "bounces": 0,
+  "emi_debits_detected": [
+   8333
+  ]
+ },
+ "C100756": {
+  "consent_id": "AA-67509456",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 52619,
+  "avg_salary_credit": 50102,
+  "avg_eod_balance": 126825,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100757": {
+  "consent_id": "AA-70909570",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 116508,
+  "avg_salary_credit": 108198,
+  "avg_eod_balance": 385438,
+  "bounces": 0,
+  "emi_debits_detected": [
+   12936,
+   7371
+  ]
+ },
+ "C100758": {
+  "consent_id": "AA-77406289",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 211777,
+  "avg_salary_credit": 203101,
+  "avg_eod_balance": 429583,
+  "bounces": 0,
+  "emi_debits_detected": [
+   15856
+  ]
+ },
+ "C100759": {
+  "consent_id": "AA-67874673",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 64829,
+  "avg_salary_credit": 60583,
+  "avg_eod_balance": 118780,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100761": {
+  "consent_id": "AA-77015267",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 97395,
+  "avg_salary_credit": 93465,
+  "avg_eod_balance": 209413,
+  "bounces": 0,
+  "emi_debits_detected": []
+ },
+ "C100762": {
+  "consent_id": "AA-74177218",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 170580,
+  "avg_salary_credit": 159911,
+  "avg_eod_balance": 144129,
+  "bounces": 0,
+  "emi_debits_detected": [
+   13741
+  ]
+ },
+ "C100763": {
+  "consent_id": "AA-42261119",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 172077,
+  "avg_salary_credit": 165334,
+  "avg_eod_balance": 259631,
+  "bounces": 0,
+  "emi_debits_detected": [
+   14391,
+   9680
+  ]
+ },
+ "C100765": {
+  "consent_id": "AA-50502829",
+  "fip": "This bank",
+  "months": 6,
+  "avg_monthly_credit": 51681,
+  "avg_salary_credit": 47863,
+  "avg_eod_balance": 100809,
+  "bounces": 0,
+  "emi_debits_detected": []
+ }
+}

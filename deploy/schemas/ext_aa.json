@@ -1,0 +1,47 @@
+[
+ {
+  "name": "customer_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "consent_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "fip",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "months",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "avg_monthly_credit",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "avg_salary_credit",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "avg_eod_balance",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "bounces",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "emi_debits_detected",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ }
+]
